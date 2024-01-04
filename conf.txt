@@ -1,0 +1,850 @@
+-----  800 Division I FBS
+SEC
+                Florida
+                Georgia
+                Kentucky
+                Missouri
+                South Carolina
+                Tennessee
+                Vanderbilt
+                Alabama
+                Arkansas
+                Auburn
+                LSU
+                Mississippi
+                Mississippi St
+                Texas A&M
+American
+            Alabama-Birmingham
+            East Carolina
+            Florida Atlantic
+            Memphis
+            Navy
+            North Texas
+            Rice
+            South Florida
+            SMU
+            Temple
+            Texas-San Antonio
+            Tulane
+            Tulsa
+            UNC-Charlotte
+ACC
+                Boston College
+                Clemson
+                Florida St
+                Louisville
+                North Carolina St
+                Syracuse
+                Wake Forest
+                Duke
+                Georgia Tech
+                Miami FL
+                North Carolina
+                Pittsburgh
+                Virginia
+                Virginia Tech       
+Big 10
+                Indiana
+                Maryland
+                Michigan
+                Michigan St
+                Ohio State
+                Penn State
+                Rutgers
+                Illinois
+                Iowa
+                Minnesota
+                Nebraska
+                Northwestern
+                Purdue
+                Wisconsin      
+Big 12
+            Baylor
+            Brigham Young
+            Central Florida
+            Cincinnati
+            Houston
+            Iowa St
+            Kansas
+            Kansas St
+            Oklahoma
+            Oklahoma St
+            Texas
+            TCU 
+            Texas Tech
+            West Virginia
+Conference USA
+            Florida Int'l
+            Jacksonville St
+            Liberty
+            Louisiana Tech
+            Middle Tennessee St
+            New Mexico St
+            Sam Houston St
+            UTEP           
+            Western Kentucky
+Mid-American
+                Akron
+                Bowling Green
+                Buffalo
+                Kent St
+                Miami OH
+                Ohio U.
+                Ball St
+                Central Michigan
+                Eastern Michigan
+                Northern Illinois
+                Toledo
+                Western Michigan
+Mountain West
+            Air Force
+            Boise St
+            Colorado St
+            Fresno St
+            Hawai`i
+            New Mexico
+            Nevada
+            San Diego St
+            San Jose St
+            Utah St
+            Wyoming
+            UNLV      
+Pacific 12
+            Arizona
+            Arizona St
+            California
+            Colorado
+            Oregon
+            Oregon St
+            Southern Cal
+            Stanford
+            UCLA
+            Utah
+            Washington
+            Washington St    
+Sun Belt
+                Appalachian St
+                Coastal Carolina
+                Georgia Southern
+                Georgia St
+                James Madison
+                Marshall
+                Old Dominion
+                Arkansas St
+                Louisiana-Lafayette
+                Louisiana-Monroe
+                South Alabama
+                Southern Miss
+                Texas St-San Marcos
+                Troy
+Independents
+            Army
+            Connecticut
+            Massachusetts
+            Notre Dame               
+-----  700 Division I FCS
+ASUN-WAC
+            Abilene Christian
+            Austin Peay
+            Central Arkansas
+            Eastern Kentucky
+            Kennesaw St
+            North Alabama   
+            Southern Utah
+            Stephen F. Austin
+            Tarleton St
+            Utah Tech   
+Big Sky
+            Cal Poly SLO
+            Eastern Washington
+            Idaho
+            Idaho St
+            Montana
+            Montana St
+            Northern Arizona
+            Northern Colorado
+            Portland St
+            Sacramento St
+            UC-Davis
+            Weber St
+Big South-Ohio Valley
+            Bryant
+            Charleston Southern
+            Eastern Illinois
+            Gardner-Webb
+            Lindenwood
+            Robert Morris PA
+            SE Missouri St
+            Tennessee St
+            Tennessee Tech
+            Tennessee-Martin
+Colonial
+            Albany NY
+            Campbell
+            Delaware
+            Elon
+            Hampton
+            Maine
+            Monmouth NJ
+            New Hampshire
+            North Carolina A&T
+            Rhode Island
+            Richmond
+            Stony Brook
+            Towson
+            Villanova
+            William & Mary
+Ivy League
+            Brown
+            Columbia
+            Cornell NY
+            Dartmouth
+            Harvard
+            Pennsylvania
+            Princeton
+            Yale
+Mid-Eastern
+            Delaware St
+            Howard
+            Morgan St
+            Norfolk St
+            North Carolina Central
+            South Carolina St
+Missouri Valley
+            Illinois St
+            Indiana St
+            Missouri St
+            Murray St
+            North Dakota
+            North Dakota St
+            Northern Iowa
+            South Dakota
+            South Dakota St
+            Southern Illinois
+            Western Illinois
+            Youngstown St            
+Northeast
+            Central Conn St
+            Duquesne
+            LIU
+            Merrimack
+            Sacred Heart
+            St Francis PA
+            Stonehill
+            Wagner
+Patriot League
+            Bucknell
+            Colgate
+            Fordham
+            Georgetown DC
+            Holy Cross
+            Lafayette
+            Lehigh
+Pioneer League
+            Butler
+            Davidson
+            Dayton
+            Drake
+            Marist
+            Morehead St
+            Presbyterian
+            San Diego
+            Stetson
+            St Thomas MN
+            Valparaiso
+Southern
+            Chattanooga
+            East Tennessee St
+            Furman
+            Mercer      
+            Samford
+            The Citadel
+            VMI
+            Western Carolina
+            Wofford
+Southland
+            Houston Christian
+            Incarnate Word
+            Lamar
+            McNeese St
+            Nicholls St
+            Northwestern St
+            SE Louisiana
+            TAMU-Commerce        
+Southwestern
+                Alabama A&M
+                Alabama St
+                Bethune-Cookman
+                Florida A&M
+                Jackson St
+                Mississippi Valley St
+                Alcorn St
+                Arkansas-Pine Bluff
+                Grambling St
+                Prairie View A&M
+                Southern U.
+                Texas Southern
+-----  500 Division II
+Central Association
+                Bluefield St WV
+                Bowie St
+                Elizabeth City St
+                Lincoln PA
+                Virginia St
+                Virginia Union
+                Fayetteville St
+                Johnson C. Smith
+                Livingstone
+                Shaw
+                St Augustine's
+                Winston-Salem St
+Great American
+            Arkansas Tech
+            Arkansas-Monticello
+            East Central OK
+            Harding
+            Henderson St
+            NW Oklahoma St
+            Oklahoma Baptist
+            Ouachita Baptist
+            SE Oklahoma St
+            Southern Arkansas
+            Southern Nazarene
+            SW Oklahoma St
+Great Lakes
+            Davenport
+            Ferris St
+            Grand Valley St
+            Michigan Tech
+            Northern Michigan
+            Roosevelt
+            Saginaw Valley St
+            Wayne St MI
+Great Lakes Valley
+            Indianapolis
+            McKendree
+            Missouri S and T
+            Quincy
+            SW Baptist
+            Truman St
+            Upper Iowa
+            William Jewell
+Great Midwest
+            Ashland
+            Findlay
+            Hillsdale
+            Kentucky Wesleyan
+            Lake Erie
+            Northwood
+            Ohio Dominican
+            Thomas More
+            Tiffin
+            Walsh
+Gulf South
+            Chowan
+            Delta St
+            Mississippi College
+            North Greenville
+            Shorter
+            Valdosta St
+            West Alabama
+            West Florida
+            West Georgia
+Lone Star
+            Angelo St 
+            Central Washington
+            Eastern New Mexico
+            Midwestern St
+            TAMU-Kingsville
+            Texas-Permian Basin
+            West Texas A&M
+            Western New Mexico
+            Western Oregon
+Mid-America Intercollegiate
+            Central Missouri
+            Central Oklahoma
+            Emporia St
+            Fort Hays St
+            Lincoln MO
+            Missouri Southern
+            Missouri Western
+            Nebraska-Kearney
+            Northeastern St OK
+            NW Missouri St
+            Pittsburg St
+            Washburn
+Mountain East
+            Alderson Broaddus
+            Charleston WV
+            Concord
+            Fairmont St
+            Frostburg St
+            Glenville St
+            Notre Dame OH
+            UNC-Pembroke
+            West Liberty
+            West Virginia St
+            Wheeling U.
+            WV Wesleyan
+Northeast-10
+            American Int'l
+            Assumption
+            Bentley
+            Franklin Pierce
+            New Haven
+            Pace
+            Southern Conn St
+            St Anselm
+Northern Sun
+                Bemidji St
+                Concordia-St Paul
+                Mary
+                Minnesota-Duluth
+                Minn St-Moorhead
+                Minot St                        
+                Northern St SD
+                Augustana SD                            
+                Minn St-Mankato
+                Sioux Falls
+                SW Minnesota St
+                Wayne St NE
+                Winona St
+Pennsylvania State
+                Bloomsburg
+                East Stroudsburg
+                Kutztown
+                Lock Haven
+                Millersville
+                Shepherd
+                Shippensburg
+                West Chester
+                California PA
+                Clarion
+                Edinboro
+                Gannon
+                Indiana PA
+                Mercyhurst
+                Seton Hill      
+                Slippery Rock
+Rocky Mountain
+            Adams St
+            Black Hills St
+            Chadron St
+            Colorado Mesa
+            Colorado Mines
+            Colorado St-Pueblo
+            Fort Lewis
+            New Mexico Highlands
+            South Dakota Tech
+            Western Colorado
+South Atlantic
+            Barton
+            Carson-Newman
+            Catawba
+            Emory & Henry
+            Erskine
+            Lenoir-Rhyne
+            Limestone
+            Mars Hill
+            Newberry
+            Tusculum
+            Virginia-Wise
+            Wingate
+Southern
+                Albany St GA
+                Benedict
+                Clark Atlanta
+                Edward Waters
+                Fort Valley St
+                Morehouse
+                Savannah St
+                Allen
+                Central St OH  
+                Kentucky St
+                Lane
+                Miles 
+                Tuskegee
+Independents  
+            Post
+-----  400 Division III
+American Rivers
+            Buena Vista
+            Central IA
+            Coe
+            Dubuque
+            Loras
+            Luther
+            Nebraska Wesleyan
+            Simpson     
+            Wartburg
+American Southwest
+            Austin
+            East Texas Baptist          
+            Hardin-Simmons
+            Howard Payne
+            Mary Hardin-Baylor
+            McMurry
+            Sul Ross St
+            Texas Lutheran 
+Centennial
+            Dickinson
+            Franklin & Marshall
+            Gettysburg
+            Johns Hopkins
+            McDaniel
+            Muhlenberg
+            Ursinus
+Illinois and Wisconsin
+            Augustana IL
+            Carroll WI
+            Carthage
+            Elmhurst
+            Illinois Wesleyan
+            Millikin
+            North Central
+            North Park
+            Washington MO
+            Wheaton
+Commonwealth Coast 
+            Curry
+            Endicott
+            Husson
+            Nichols
+            U of New England
+            Western New England
+Eastern
+            Alfred St
+            Anna Maria
+            Castleton
+            Dean
+            Gallaudet
+Empire 8
+            Alfred
+            Brockport St
+            Cortland St
+            Hartwick
+            Morrisville St
+            St John Fisher
+            Utica
+Landmark
+            Catholic
+            Juniata
+            Keystone
+            Lycoming
+            Moravian
+            Susquehanna
+            Wilkes
+Liberty League
+            Buffalo St
+            Hobart
+            Ithaca
+            Rochester
+            RPI
+            St Lawrence
+            Union NY
+Heartland
+            Anderson IN
+            Bluffton
+            Defiance
+            Franklin
+            Hanover
+            Manchester
+            Mt St Joseph
+            Rose-Hulman
+Massachusetts State
+            Bridgewater St MA  
+            Fitchburg St
+            Framingham St    
+            Mass Maritime
+            Plymouth St
+            UMass-Dartmouth
+            Western Conn St
+            Westfield St
+            Worcester St
+Michigan
+            Adrian
+            Albion
+            Alma
+            Hope
+            Kalamazoo
+            Olivet
+            Trine
+Middle Atlantic
+            Albright
+            Alvernia
+            Delaware Valley
+            Eastern U.
+            FDU-Florham
+            King's PA
+            Lebanon Valley
+            Misericordia
+            Stevenson
+            Widener
+Midwest
+            Beloit
+            Chicago
+            Cornell IA
+            Grinnell
+            Illinois College
+            Knox
+            Lake Forest
+            Lawrence
+            Monmouth IL
+            Ripon
+Minnesota
+                Carleton
+                Gustavus Adolphus
+                St John's MN
+                St Olaf
+                St Scholastica
+                Augsburg
+                Bethel MN
+                Concordia-Moorhead
+                Hamline
+                Macalester
+New England Small College
+            Amherst
+            Bates
+            Bowdoin
+            Colby
+            Hamilton
+            Middlebury
+            Trinity CT
+            Tufts
+            Wesleyan
+            Williams
+New England Women and Men
+            Coast Guard
+            Merchant Marine
+            MIT
+            Norwich
+            Salve Regina
+            Springfield
+            SUNY-Maritime
+            WPI
+New Jersey
+            Christopher Newport
+            Kean
+            Montclair St
+            New Jersey
+            Rowan
+            Salisbury
+            William Paterson
+North Coast
+            Denison
+            DePauw
+            Hiram
+            Kenyon
+            Oberlin
+            Ohio Wesleyan
+            Wabash
+            Wittenberg
+            Wooster
+Northerns
+            Aurora
+            Benedictine IL
+            Concordia IL
+            Concordia WI
+            Eureka
+            Lakeland
+            Rockford
+            St Norbert
+            Wisconsin Lutheran
+Northwest
+            George Fox
+            Lewis & Clark OR
+            Linfield
+            Pacific Lutheran
+            Pacific OR
+            Puget Sound
+            Whitworth
+            Willamette
+Ohio Athletic
+            Baldwin Wallace
+            Capital
+            Heidelberg
+            John Carroll
+            Marietta
+            Mount Union
+            Muskingum
+            Ohio Northern
+            Otterbein
+            Wilmington
+Old Dominion
+            Averett
+            Bridgewater VA
+            Ferrum
+            Guilford
+            Hampden-Sydney
+            Randolph-Macon
+            Shenandoah
+            Washington and Lee
+Southern California
+            Cal Lutheran
+            Chapman
+            Claremont-Mudd-Scripps
+            La Verne
+            Pomona-Pitzer
+            Redlands
+Southern Association
+            Berry
+            Birmingham-Southern
+            Centre
+            Hendrix
+            Millsaps
+            Rhodes
+            Sewanee
+            Southwestern TX
+            Trinity TX
+Presidents
+            Allegheny   
+            Bethany WV
+            Carnegie Mellon
+            Case Western Reserve
+            Geneva
+            Grove City
+            St Vincent
+            Thiel
+            Wash & Jeff
+            Waynesburg
+            Westminster PA
+Upper Midwest
+            Crown
+            Greenville
+            Martin Luther  
+            Minnesota-Morris
+            Northwestern MN     
+            Westminster MO
+USA South
+            Belhaven
+            Brevard
+            Greensboro
+            Huntingdon AL
+            LaGrange
+            Maryville TN
+            Methodist
+            North Carolina Wesleyan
+            Southern Virginia
+Wisconsin
+            UW-Eau Claire
+            UW-La Crosse
+            UW-Oshkosh
+            UW-Platteville
+            UW-River Falls
+            UW-Stevens Point
+            UW-Stout
+            UW-Whitewater
+Independents
+            Hilbert
+            Lyon
+-----  300 NAIA
+Appalachian
+            Bluefield VA
+            Kentucky Christian
+            Pikeville
+            Point U.
+            Reinhardt
+            St Andrews
+            Union KY
+Frontier
+            Arizona Christian
+            Carroll MT
+            Coll of Idaho
+            Eastern Oregon
+            Montana Tech
+            Montana St-Northern
+            Montana-Western
+            Rocky Mountain
+            Southern Oregon
+Great Plains
+            Briar Cliff
+            Concordia NE
+            Dakota Wesleyan
+            Doane
+            Dordt
+            Hastings
+            Jamestown
+            Midland U.
+            Morningside
+            Mount Marty
+            Northwestern IA
+Heart of America
+                Benedictine KS
+                Culver-Stockton
+                Graceland
+                Grand View
+                Peru St
+                William Penn
+                Baker
+                Central Methodist
+                Clarke
+                MidAmerica Nazarene
+                Missouri Baptist
+                Missouri Valley
+Kansas
+            Avila
+            Bethany KS
+            Bethel KS
+            Evangel
+            Friends
+            Kansas Wesleyan
+            McPherson
+            Ottawa KS
+            Southwestern KS
+            St Mary KS
+            Sterling
+            Tabor
+Mid-South
+            Bethel TN
+            Campbellsville
+            Cumberlands KY
+            Cumberland TN
+            Faulkner 
+            Georgetown KY
+            Lindsey Wilson
+Mid-States Association
+                Concordia MI
+                Indiana Wesleyan
+                Lawrence Tech
+                Madonna
+                Marian IN
+                Siena Heights
+                St Francis IN
+                Taylor
+                Judson IL
+                Olivet Nazarene
+                St Ambrose
+                St Francis IL
+                St Xavier
+North Star Association
+            Dakota St
+            Dickinson St
+            Mayville St
+            Valley City St
+            Waldorf
+Sooner Athletic
+            Arkansas Baptist
+            Langston
+            Louisiana Christian 
+            OK Panhandle St
+            Ottawa AZ
+            SW Assem of God
+            Texas College            
+            Texas Wesleyan
+            Wayland Baptist
+Sun
+            Ave Maria
+            Florida Memorial
+            Keiser
+            Southeastern FL
+            St Thomas FL
+            Thomas GA
+            Warner U.
+            Webber Int'l
+Other Schools
+         Apprentice
+         Lincoln CA
+         North American U.
+         U. of Fort Lauderdale
+         Virginia U-Lynchburg
