@@ -1,0 +1,222 @@
+Division I FCS Football
+Conference Standings as of 01-Jan-24
+Perfomance Ratings are from David Wilson's system
+
+
+                    ASUN-WAC
+
+ 623 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Austin Peay        6  0   196  163    9  3   409  293   704
+Cent. Arkansas     5  2   194  142    7  4   346  253   680
+Tarleton St.       4  2   228  169    8  3   366  270   659
+S. Utah            4  2   220  150    6  5   350  261   658
+E. Kentucky        4  2   197  171    5  6   324  365   646
+Abilene Christian  3  3   149  182    5  6   286  319   615
+Kennesaw State     0  0     0    0    3  6   235  161   519
+North Alabama      1  5   150  220    3  8   252  366   612
+Utah Tech          1  5   137  174    2  9   254  416   588
+Stephen F.Austin   0  7   157  257    3  8   322  349   554
+
+
+                    Big Sky
+
+ 678 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Montana            7  1   241  116   13  1   451  235   787
+Idaho              6  2   286  186    9  4   420  287   732
+Montana St.        6  2   309  167    8  4   479  262   734
+UC Davis           5  3   205  183    7  4   283  269   712
+N. Arizona         5  3   242  215    5  6   303  340   684
+Sacramento St.     4  4   229  232    8  5   397  354   716
+Weber St.          4  4   189  207    6  5   265  265   687
+Portland St.       4  4   257  247    5  6   372  359   669
+E. Washington      3  5   274  299    4  7   355  397   657
+Idaho St.          3  5   207  282    3  8   280  437   647
+Cal Poly-SLO       1  7   155  345    3  8   226  434   591
+N. Colorado        0  8   115  230    0 11   154  367   521
+
+
+                    Big South-Ohio Valley
+
+ 611 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Tenn.-Martin       5  1   184  130    8  3   349  264   676
+Gardner-Webb       5  1   208  131    7  5   322  337   663
+E. Illinois        4  2   154  128    8  3   260  217   649
+Bryant College     4  2   241  142    6  5   343  287   625
+SE Missouri        3  3   163  145    4  7   294  326   612
+Tennessee St.      2  4   118  165    6  5   250  272   592
+Charleston South.  2  4   105  143    4  7   176  321   585
+Tennessee Tech     2  4   117  143    4  7   189  278   583
+Robert Morris PA   2  4   102  172    4  7   224  318   580
+Lindenwood         1  5    73  166    3  7   220  315   542
+
+
+                    Colonial
+
+ 622 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Albany (NY)        8  1   302  137   11  4   426  300   714
+Villanova          7  1   264  117   10  3   415  245   731
+Richmond           7  2   255  212    9  4   366  307   654
+Delaware           6  2   264  135    9  4   411  312   688
+Elon College       6  2   205  159    6  5   272  264   653
+Rhode Island       4  4   200  208    6  5   318  306   645
+New Hampshire      4  4   295  256    6  5   412  325   642
+William & Mary     4  4   188  164    6  5   239  204   631
+Towson St.         4  4   224  287    5  6   264  356   629
+Campbell           4  4   205  251    5  6   316  366   603
+Hampton U.         3  5   163  293    5  6   256  389   584
+Monmouth (NJ)      3  5   268  226    4  7   357  303   594
+Maine              1  7   216  289    2  9   259  360   547
+N. Carolina A&T    0  8   127  245    1 10   177  336   537
+Stony Brook        0  8   138  335    0 10   152  392   484
+
+
+                    Ivy League
+
+ 630 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Harvard            5  2   187  154    8  2   318  202   683
+Yale               5  2   199  144    7  3   299  199   658
+Dartmouth          5  2   167  125    6  4   232  193   643
+Princeton          4  3   152  135    5  5   197  175   624
+Pennsylvania       3  4   163  151    6  4   262  217   642
+Brown              3  4   154  211    5  5   255  290   620
+Cornell            2  5   121  172    3  7   182  248   584
+Columbia           1  6   107  158    3  7   156  182   583
+
+
+                    Mid-Eastern
+
+ 549 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+N.C. Central       4  1   191  126    9  3   430  345   636
+Howard U.          4  1   132   87    6  6   342  285   596
+S. Carolina St.    3  2   151  130    5  6   268  283   548
+Morgan St.         3  2    93   92    4  6   161  214   580
+Norfolk St.        1  4   136  162    3  8   264  325   521
+Delaware St.       0  5    69  175    1 10   198  415   410
+
+
+                    Missouri Valley
+
+ 669 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+S. Dakota St.      8  0   279   94   14  0   537  136   844
+South Dakota       7  2   209  165   10  3   312  230   778
+N. Dakota St.      6  3   314  183   11  4   572  299   754
+Youngstown St.     5  3   241  205    8  5   416  330   695
+North Dakota       5  3   232  202    7  5   377  315   706
+N. Iowa            5  3   221  212    6  5   288  293   693
+S. Illinois        4  4   191  131    8  5   332  210   705
+Illinois St.       4  4   259  194    6  5   361  225   630
+Missouri St.       3  5   221  233    4  7   328  333   639
+Murray St.         1  7   128  282    2  9   183  383   578
+Indiana St.        1  7   134  217    1 10   148  330   534
+W. Illinois        0  8    60  371    0 11   138  509   468
+
+
+                    Northeast
+
+ 523 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Duquesne           6  1   228  156    7  5   325  368   590
+Stonehill          4  3   189  188    5  5   229  303   548
+Merrimack          4  3   198  149    5  6   295  236   526
+St. Francis, Pa.   4  3   220  156    4  6   272  264   530
+LIU-Brooklyn       4  3   176  188    4  7   216  290   527
+Wagner             3  4   125  185    4  7   192  328   513
+Sacred Heart       2  5   117  164    2  9   147  272   487
+Central Conn. St.  1  6   152  219    3  8   277  343   466
+
+
+                    Patriot League
+
+ 619 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Lafayette          5  1   236  156    9  3   360  280   677
+Holy Cross         5  1   245  153    7  4   406  283   670
+Colgate            4  2   164  183    6  5   251  359   648
+Georgetown         3  3   148  172    5  6   283  284   583
+Fordham            2  4   166  178    6  5   335  272   613
+Bucknell           1  5   184  249    4  7   288  371   590
+Lehigh             1  5   135  187    2  9   203  343   549
+
+
+                    Pioneer League
+
+ 524 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Drake              8  0   185   97    8  4   226  315   617
+St. Thomas (MN)    7  1   216  148    8  3   265  243   606
+Davidson           6  2   318  269    7  4   440  320   533
+Butler             5  3   210  124    7  4   318  193   549
+San Diego          4  4   210  199    4  7   253  277   516
+Marist             4  4   163  223    4  7   191  326   513
+Morehead St.       3  5   184  193    4  7   243  318   518
+Presbyterian       2  6   157  202    4  7   238  280   489
+Dayton             2  6   160  189    4  7   274  274   477
+Valparaiso         2  6   147  182    3  8   195  273   481
+Stetson            1  7   164  288    3  8   256  406   468
+
+
+                    Southern
+
+ 618 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Furman             8  1   231  117   10  3   356  237   705
+Mercer             6  2   228  161    9  4   317  311   694
+Tn.-Chattanooga    6  3   269  171    8  5   357  319   667
+W. Carolina        5  3   296  204    7  4   413  305   661
+Samford            4  4   210  191    6  5   319  267   641
+VMI                4  4   135  201    5  6   167  274   612
+E. Tennessee St.   2  6   152  238    3  8   200  350   570
+Wofford            2  6   119  187    2  9   152  278   546
+Citadel            0  8    93  263    0 11   110  384   467
+
+
+                    Southland
+
+ 528 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Nicholls St.       6  0   199   96    6  5   267  281   631
+Incarnate Word     5  1   190  137    8  2   336  195   625
+Lamar              5  2   202  158    6  5   277  259   576
+Houston Chr.       3  3   136  160    5  5   261  278   559
+SE Louisiana       3  4   212  176    3  8   278  313   515
+TX A&M-Commerce    1  5   107  175    1  9   159  323   468
+Northwstn St (LA)  0  2    33   64    0  6    84  213   437
+McNeese St.        0  6   119  232    0 10   191  381   414
+
+
+                    Southwestern
+
+ 510 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Florida A&M        9  0   285  123   12  1   398  197   662
+Alcorn State       6  2   205  166    7  4   246  247   541
+Jackson St.        6  3   229  179    7  4   300  263   551
+Alabama St.        6  3   169  135    7  4   227  159   537
+Prairie View       6  3   218  230    6  6   234  374   550
+Southern U.        5  5   210  205    6  5   255  223   515
+Grambling St.      4  4   217  185    5  6   316  314   503
+Alabama A&M        3  5   204  238    5  6   326  301   484
+Texas Southern     2  6   226  223    3  8   288  360   471
+Bethune-Cookman    2  6   151  176    3  8   203  286   457
+Ark Pine Bluff     1  7   125  286    2  9   167  372   446
+Miss. Valley St.   1  7   101  194    1 10   132  298   407

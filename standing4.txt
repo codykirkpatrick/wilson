@@ -1,0 +1,453 @@
+Division III Football
+Conference Standings as of 01-Jan-24
+Perfomance Ratings are from David Wilson's system
+
+
+                    American Rivers
+
+ 357 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Wartburg           8  0   353   52   13  1   580  185   575
+Coe                7  1   317   87    9  2   424  127   473
+Central (Iowa)     6  2   356  125    8  2   428  162   438
+Dubuque            5  3   265  191    5  5   311  254   376
+Loras              4  4   274  293    5  5   344  376   355
+Nebraska Weslyn    2  6   148  318    4  6   200  355   293
+Simpson (IA)       2  6   175  350    3  7   250  445   275
+Buena Vista        2  6   120  330    2  8   143  415   255
+Luther             0  8    91  353    0 10   133  433   174
+
+
+                    American Southwest
+
+ 331 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Hardin-Simmons     7  0   266  138    9  2   357  219   482
+MaryHardin-Baylor  6  1   261  103    6  4   313  200   407
+McMurry            4  3   207  173    6  4   331  209   320
+E. Texas Baptist   4  3   142  127    5  5   201  258   342
+Howard Payne       3  4   200  219    6  4   344  232   332
+Sul Ross St.       3  4   186  236    4  6   253  336   313
+Texas Lutheran     1  6   172  212    2  8   256  294   255
+Austin Col.        0  7    81  307    1  9   139  368   196
+
+
+                    Centennial
+
+ 436 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Johns Hopkins      6  0   251  127   12  1   532  261   604
+Muhlenberg         5  1   237  139   10  1   425  199   535
+Franklin&Marshall  3  3   171  144    7  3   292  204   465
+Ursinus            3  3   168  141    7  3   319  197   453
+Dickinson          3  3   141  159    6  4   248  251   448
+Gettysburg         1  5   138  221    2  8   229  352   316
+McDaniel           0  6    76  251    0 10   145  428   231
+
+
+                    Illinois and Wisconsin
+
+ 407 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+North Central      9  0   576  114   14  1   879  256   614
+Wheaton (MA)       8  1   439  190   10  2   552  294   534
+Augustana (IL)     7  2   327  202    8  2   376  229   482
+Washington StL     6  3   336  180    7  3   380  207   446
+North Park         4  5   212  268    5  5   239  268   384
+Carroll (WI)       4  5   313  273    5  5   364  280   385
+Illinois Weslyn    3  6   235  339    3  7   248  377   351
+Carthage           3  6   141  305    3  7   161  346   348
+Elmhurst           1  8   102  456    2  8   116  459   292
+Millikin           0  9    78  432    0 10    78  463   236
+
+
+                    Commonwealth Coast 
+
+ 386 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Endicott           5  0   184   54    9  2   379  107   521
+W. New England     4  1   190   95    7  3   343  187   442
+Husson             3  2   141   98    7  3   345  236   401
+New England U.     2  3   129  152    6  4   293  254   363
+Curry              1  4   101  189    3  7   189  326   316
+Nichols            0  5   131  288    3  7   356  432   272
+
+
+                    Eastern
+
+ 227 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Anna Maria         3  1   179  103    5  4   357  335   263
+Alfred State       3  1   169   69    6  5   335  281   303
+Gallaudet          3  1   114  112    4  5   205  275   243
+Dean Academy       1  3    58  163    2  8   136  476   179
+Castleton State    0  4    72  145    2  7   157  256   149
+
+
+                    Empire 8
+
+ 448 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Cortland St.       6  0   323   77   14  1   693  296   666
+Brockport St.      5  1   237   76    8  2   374   98   545
+Utica              4  2   120  107    8  2   244  186   494
+St. John Fisher    2  4   115  154    5  5   248  232   403
+Alfred U           2  4   103  168    4  6   155  227   409
+Morrisville St.    2  4    99  167    4  6   173  258   380
+Hartwick           0  6    54  302    1  9   120  440   238
+
+
+                    Landmark
+
+ 368 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Susquehanna        6  0   291   52   10  1   432  150   629
+Lycoming           4  2   194  159    4  6   260  360   375
+Wilkes             4  2   236  136    4  6   300  261   366
+Catholic U.        3  3   174  183    5  5   259  278   359
+Moravian           3  3   178  180    4  6   258  316   340
+Keystone           1  5   104  264    2  8   182  379   268
+Juniata            0  6    92  295    1  9   150  438   243
+
+
+                    Liberty League
+
+ 448 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Ithaca             6  0   198   64    9  3   306  199   575
+Union (New York)   5  1   147   68   10  2   393  137   549
+Hobart             4  2   162  116    8  2   312  148   502
+Rensselaer         3  3   182  109    7  3   346  150   477
+Rochester (NY)     2  4   126  170    5  5   238  234   432
+St. Lawrence       1  5    78  201    3  7   141  281   347
+Buffalo St.        0  6    95  260    2  8   209  358   253
+
+
+                    Heartland
+
+ 304 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Mount St. Joseph   7  0   432  123    9  2   609  258   456
+Rose-Hulman        6  1   352  234    7  3   422  343   404
+Hanover            4  3   247  140    7  3   362  178   369
+Franklin           4  3   190  214    4  6   295  352   308
+Defiance           3  4   245  271    4  6   320  375   281
+Bluffton           3  4   216  207    4  6   302  307   271
+Manchester         1  6    97  291    1  9   104  445   190
+Anderson (IN)      0  7    65  364    0 10    98  553   153
+
+
+                    Massachusetts State
+
+ 162 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Mass.-Dartmouth    7  1   282  110    9  1   367  130   324
+W. Connecticut     7  1   373  120    7  3   428  234   289
+Bridgewater,Mass.  7  1   253  115    7  3   301  180   256
+Framingham St.     5  3   190  148    5  4   190  177   203
+Plymouth St.       4  4   186  222    4  6   228  278   143
+Westfield St.      3  5   146  140    3  7   172  237   124
+Mass. Maritime     2  6    83  200    2  8   120  251    83
+Worcester St.      1  7    87  293    1  9   100  400    48
+Fitchburg St.      0  8    65  317    0 10    85  382   -11
+
+
+                    Michigan
+
+ 392 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Alma               6  0   284  115   12  1   609  259   577
+Hope (MI)          5  1   207  114    8  2   360  232   487
+Trine              4  2   197  193    6  4   358  304   390
+Albion             3  3   161  144    7  3   322  210   417
+Olivet (MI)        2  4   122  173    4  6   236  315   333
+Kalamazoo          1  5   132  257    5  5   297  341   316
+Adrian             0  6   113  220    1  9   191  328   221
+
+
+                    Middle Atlantic
+
+ 356 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Delaware Val.      9  0   239   71    9  2   268  137   498
+King's Coll. (PA)  7  2   258  130    8  2   285  153   438
+Widener            6  3   276  180    7  3   318  201   414
+Stevenson          6  3   272  160    7  3   292  177   415
+Lebanon Val.       6  3   288  191    6  5   307  230   401
+FDU-Florham        4  5   165  159    5  5   198  188   353
+Misericordia       4  5   171  200    4  6   185  224   330
+Eastern (VA)       2  7   142  251    2  8   163  292   279
+Alvernia           1  8   133  333    1  9   139  371   241
+Albright           0  9    62  331    0 10    65  378   186
+
+
+                    Midwest
+
+ 261 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Illinois Col.      8  1   475  143    9  2   520  192   370
+Monmouth (IL)      8  1   400   78    8  2   435  140   370
+Lake Forest        6  3   320   56    7  3   344   56   313
+Cornell (IA)       6  3   276  299    6  4   282  355   306
+Chicago            6  3   310  180    6  4   325  204   304
+Ripon              5  4   223  220    5  5   230  243   273
+Knox               3  6   131  303    3  7   147  344   213
+Grinnell           2  7   126  392    2  8   138  410   184
+Beloit             1  8   129  368    2  8   163  395   174
+Lawrence           0  9   124  475    0 10   146  513    99
+
+
+                    Minnesota
+
+ 373 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+St. John's, Minn.  7  1   353  137    8  2   415  224   493
+Bethel, Minn.      7  1   282  104    8  3   322  162   484
+Carleton           5  3   210  280    7  3   293  316   425
+Gustav Adolphus    5  3   301  226    6  4   359  257   421
+Augsburg           4  4   238  244    6  4   352  254   394
+Cncrdia-Mhd        4  4   279  205    5  5   333  257   387
+St. Olaf           4  4   269  241    5  5   345  296   348
+Hamline            2  6   158  309    4  6   252  350   303
+Macalester         1  7   171  314    3  7   271  371   258
+St. Scholastica    1  7   142  343    2  8   217  399   212
+
+
+                    New England Small College
+
+ 299 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Trinity Coll (CT)  8  1   399  115    8  1   399  115   385
+Middlebury         8  1   251  135    8  1   251  135   385
+Wesleyan           6  3   219  238    6  3   219  238   335
+Tufts              6  3   280  163    6  3   280  163   335
+Bowdoin            4  5   227  224    4  5   227  224   290
+Amherst            4  5   126  215    4  5   126  215   290
+Williams           3  6   162  191    3  6   162  191   265
+Hamilton           3  6   159  224    3  6   159  224   265
+Colby              3  6   146  251    3  6   146  251   265
+Bates              0  9   105  318    0  9   105  318   171
+
+
+                    New England Women and Men
+
+ 345 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Springfield        7  0   304   82    9  2   391  171   491
+Salve Regina       6  1   242   86    8  2   329  103   413
+Merchant Marine    5  2   202  165    7  2   284  213   393
+SUNY Maritime      3  4   129  234    5  5   177  279   327
+Coast Guard        3  4   185  216    5  5   355  326   328
+MIT                3  4   134  211    4  5   191  258   316
+Worcester Tech     1  6   163  207    3  7   231  266   271
+Norwich            0  7   109  267    1  9   158  323   220
+
+
+                    New Jersey
+
+ 360 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Christphr Newport  5  1   153   95    7  4   305  187   422
+Salisbury          4  2   174  139    6  4   285  237   419
+Montclair St.      4  2   128  100    5  5   206  240   396
+Rowan              4  2   108   97    5  5   215  244   382
+College of NJ      3  3   129  119    5  5   219  225   372
+Wm. Paterson       1  5    94  147    2  8   190  262   296
+Kean               0  6    67  156    0 10   122  274   233
+
+
+                    North Coast
+
+ 343 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+DePauw             8  0   345   99   10  1   463  171   500
+Wittenberg         6  2   319  200    7  3   375  275   428
+Wabash             6  2   360  166    7  3   410  241   427
+Denison            6  2   285  164    7  3   344  227   408
+Ohio Weslyn        4  4   240  176    5  5   285  234   345
+Wooster            3  5   270  269    4  6   337  354   315
+Kenyon             2  6   163  363    2  8   214  462   248
+Hiram Col.         1  7   119  302    1  9   154  432   229
+Oberlin            0  8    56  418    1  9   103  495   191
+
+
+                    Northerns
+
+ 282 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Aurora             8  0   501   57   11  1   639  167   514
+St. Norbert        6  2   238  131    7  3   289  169   325
+Concordia (WI)     6  2   265  148    7  3   330  188   311
+Benedictine (IL)   5  3   180  187    5  4   221  229   291
+Wisc. Lutheran     4  4   219  251    4  6   226  326   261
+Lakeland           3  5   176  253    4  6   223  349   255
+Eureka             2  6   183  296    4  6   247  326   236
+Rockford           1  7   173  389    2  8   238  460   186
+Concordia (IL)     1  7   162  385    1  9   211  463   161
+
+
+                    Northwest
+
+ 330 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Whitworth          7  0   321  119    9  1   407  206   511
+Linfield           6  1   331  122    8  1   376  146   449
+Pac. Lutheran      4  3   227  157    5  5   299  234   324
+Lewis & Clark      5  4   343  321    5  5   356  370   311
+George Fox         4  4   241  217    4  6   251  250   296
+Puget Sound        3  5   183  340    3  6   204  366   270
+Pacific (OR)       2  6   235  231    2  7   252  255   255
+Willamette         0  8    85  459    1  9   116  529   222
+
+
+                    Ohio Athletic
+
+ 384 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Mount Union        9  0   464   55   11  1   585   99   530
+John Carroll       8  1   354  164    8  2   377  191   492
+Marietta           7  2   289  160    8  2   320  167   468
+Baldwin-Wallace    6  3   278  237    6  4   311  283   422
+Heidelberg         5  4   208  227    6  4   276  241   402
+Ohio Northern      4  5   220  210    4  6   227  262   373
+Muskingum          3  6   232  333    4  6   263  353   345
+Wilmington (DE)    2  7   255  430    3  7   318  473   323
+Capital            1  8   187  439    1  9   222  484   269
+Otterbein          0  9   116  348    0 10   137  383   213
+
+
+                    Old Dominion
+
+ 375 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Randolph-Macon     7  0   348   75   13  1   636  213   613
+Washington & Lee   6  1   218  155    8  2   307  206   429
+Bridgewater,Va.    5  2   235  172    7  3   330  244   412
+Hampden-Sydney     4  3   212  193    6  4   329  267   368
+Shenandoah         3  4   187  196    5  5   299  259   330
+Averett College    2  5   186  240    5  5   271  275   326
+Ferrum             1  6    99  262    3  7   166  303   277
+Guilford           0  7   108  300    2  8   197  382   241
+
+
+                    Southern California
+
+ 340 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Claremont-Mudd     6  2   208  135    8  2   248  157   391
+Chapman            6  2   213  116    6  3   230  140   390
+Pomona-Pitzer      5  3   162  146    6  4   210  208   357
+Redlands           4  4   161  132    5  5   195  163   348
+Cal Lutheran       2  6   188  227    3  7   256  299   295
+LaVerne            1  7    88  264    2  8   135  309   262
+
+
+                    Southern Association
+
+ 293 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Trinity (TX)       8  0   398   77   10  2   512  204   485
+Berry College      7  1   405  126    9  1   542  163   404
+Centre             6  2   262  204    6  4   292  248   319
+Rhodes (TN)        4  4   233  209    6  4   299  226   281
+Hendrix-Henderson  3  5   230  321    3  7   294  403   251
+Southwestern (TX)  3  5   192  269    3  7   234  349   234
+Birmingham South.  2  6   105  239    3  7   125  274   247
+Sewanee            2  6   140  291    3  7   180  333   225
+Millsaps           1  7   124  353    1  9   133  453   192
+
+
+                    Presidents
+
+ 464 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Grove City        10  0   354  138   11  1   399  183   647
+Carnegie-Mellon    9  1   351  105    9  1   351  105   594
+Wash. & Jeff.      8  2   386  186    8  2   386  186   554
+Case Reserve       7  3   295  135    7  3   295  135   513
+Westminster (PA)   6  4   208  202    6  4   208  202   483
+Geneva             4  6   203  308    4  6   203  308   430
+Thiel              3  7   122  311    3  7   122  311   401
+St. Vincent (PA)   3  7   127  292    3  7   127  292   401
+Allegheny          3  7   206  263    3  7   206  263   401
+Waynesburg         2  8   223  306    2  8   223  306   372
+Bethany,W.Va.      0 10   148  377    0 10   148  377   304
+
+
+                    Upper Midwest
+
+ 208 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Minnesota-Morris   6  0   231  112    7  4   346  327   273
+Northwestern (MN)  5  1   217  147    6  4   273  338   299
+Greenville         2  3   153  113    5  5   335  225   215
+Martin Luther      2  4   137  153    2  8   198  371   185
+Crown              1  4    94  197    1  8   194  362   132
+Westminster (MO)   1  5    82  192    1  8   103  301   142
+
+
+                    USA South
+
+ 231 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Belhaven           7  1   299   93    9  2   394  180   346
+Huntingdon         6  1   232   98    8  2   322  179   340
+Maryville (TN)     5  2   234  109    8  2   323  160   339
+Brevard            5  2   248  204    5  5   302  281   275
+NC Wesleyan        4  3   158  157    4  6   179  283   243
+Greensboro         2  5   141  221    2  8   197  349   190
+Methodist          2  5   126  251    2  8   190  388   157
+Southern Virginia  1  6   132  292    1  9   151  423   123
+La Grange          0  7   119  264    0  9   132  347    66
+
+
+                    Wisconsin
+
+ 464 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Wis.-LaCrosse      7  0   265  168   11  2   511  302   552
+Wis.-Whitewater    6  1   281  115   11  2   500  267   560
+Wis.-Riv. Falls    4  3   273  162    7  3   430  197   483
+Wis.-Oshkosh       4  3   243  202    6  4   372  270   473
+Wis.-Platteville   4  3   217  148    6  4   352  204   471
+Wis.-Stout         2  5   254  247    4  6   334  285   429
+Wis.-Eau Claire    1  6    79  304    2  8   124  400   394
+Wis.-Stevens Pt.   0  7    90  356    1  9   137  491   346
+
+
+                    Independents
+
+ 205 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Lyon College       1  0    43   27    4  4   163  293   246
+Hilbert            0  1    27   43    0  8    76  411   163

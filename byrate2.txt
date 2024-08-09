@@ -1,0 +1,131 @@
+--- Division I FCS ---
+                       W  L
+                       -  -
+  1  S. Dakota St.    14  0   844
+  2  Montana          13  1   787
+  3  South Dakota     10  3   778
+  4  N. Dakota St.    11  4   754
+  5  Montana St.       8  4   734
+  6  Idaho             9  4   732
+  7  Villanova        10  3   731
+  8  Sacramento St.    8  5   716
+  9  Albany (NY)      11  4   714
+ 10  UC Davis          7  4   712
+ 11  North Dakota      7  5   706
+ 12  Furman           10  3   705
+     S. Illinois       8  5   705
+ 14  Austin Peay       9  3   704
+ 15  Youngstown St.    8  5   695
+ 16  Mercer            9  4   694
+ 17  N. Iowa           6  5   693
+ 18  Delaware          9  4   688
+ 19  Weber St.         6  5   687
+ 20  N. Arizona        5  6   684
+ 21  Harvard           8  2   683
+ 22  Cent. Arkansas    7  4   680
+ 23  Lafayette         9  3   677
+ 24  Tenn.-Martin      8  3   676
+ 25  Holy Cross        7  4   670
+ 26  Portland St.      5  6   669
+ 27  Tn.-Chattanooga   8  5   667
+ 28  Gardner-Webb      7  5   663
+ 29  Florida A&M      12  1   662
+ 30  W. Carolina       7  4   661
+ 31  Tarleton St.      8  3   659
+ 32  Yale              7  3   658
+     S. Utah           6  5   658
+ 34  E. Washington     4  7   657
+ 35  Richmond          9  4   654
+ 36  Elon College      6  5   653
+ 37  E. Illinois       8  3   649
+ 38  Colgate           6  5   648
+ 39  Idaho St.         3  8   647
+ 40  E. Kentucky       5  6   646
+ 41  Rhode Island      6  5   645
+ 42  Dartmouth         6  4   643
+ 43  New Hampshire     6  5   642
+     Pennsylvania      6  4   642
+ 45  Samford           6  5   641
+ 46  Missouri St.      4  7   639
+ 47  N.C. Central      9  3   636
+ 48  Nicholls St.      6  5   631
+     William & Mary    6  5   631
+ 50  Illinois St.      6  5   630
+ 51  Towson St.        5  6   629
+ 52  Bryant College    6  5   625
+     Incarnate Word    8  2   625
+ 54  Princeton         5  5   624
+ 55  Brown             5  5   620
+ 56  Drake             8  4   617
+ 57  Abilene Christian 5  6   615
+ 58  Fordham           6  5   613
+ 59  SE Missouri       4  7   612
+     North Alabama     3  8   612
+     VMI               5  6   612
+ 62  St. Thomas (MN)   8  3   606
+ 63  Campbell          5  6   603
+ 64  Howard U.         6  6   596
+ 65  Monmouth (NJ)     4  7   594
+ 66  Tennessee St.     6  5   592
+ 67  Cal Poly-SLO      3  8   591
+ 68  Duquesne          7  5   590
+     Bucknell          4  7   590
+ 70  Utah Tech         2  9   588
+ 71  Charleston South. 4  7   585
+ 72  Cornell           3  7   584
+     Hampton U.        5  6   584
+ 74  Georgetown        5  6   583
+     Tennessee Tech    4  7   583
+     Columbia          3  7   583
+ 77  Robert Morris PA  4  7   580
+     Morgan St.        4  6   580
+ 79  Murray St.        2  9   578
+ 80  Lamar             6  5   576
+ 81  E. Tennessee St.  3  8   570
+ 82  Houston Chr.      5  5   559
+ 83  Stephen F.Austin  3  8   554
+ 84  Jackson St.       7  4   551
+ 85  Prairie View      6  6   550
+ 86  Butler            7  4   549
+     Lehigh            2  9   549
+ 88  S. Carolina St.   5  6   548
+     Stonehill         5  5   548
+ 90  Maine             2  9   547
+ 91  Wofford           2  9   546
+ 92  Lindenwood        3  7   542
+ 93  Alcorn State      7  4   541
+ 94  Alabama St.       7  4   537
+     N. Carolina A&T   1 10   537
+ 96  Indiana St.       1 10   534
+ 97  Davidson          7  4   533
+ 98  St. Francis, Pa.  4  6   530
+ 99  LIU-Brooklyn      4  7   527
+100  Merrimack         5  6   526
+101  N. Colorado       0 11   521
+     Norfolk St.       3  8   521
+103  Kennesaw State    3  6   519
+104  Morehead St.      4  7   518
+105  San Diego         4  7   516
+106  Southern U.       6  5   515
+     SE Louisiana      3  8   515
+108  Marist            4  7   513
+     Wagner            4  7   513
+110  Grambling St.     5  6   503
+111  Presbyterian      4  7   489
+112  Sacred Heart      2  9   487
+113  Stony Brook       0 10   484
+     Alabama A&M       5  6   484
+115  Valparaiso        3  8   481
+116  Dayton            4  7   477
+117  Texas Southern    3  8   471
+118  W. Illinois       0 11   468
+     Stetson           3  8   468
+     TX A&M-Commerce   1  9   468
+121  Citadel           0 11   467
+122  Central Conn. St. 3  8   466
+123  Bethune-Cookman   3  8   457
+124  Ark Pine Bluff    2  9   446
+125  Northwstn St (LA) 0  6   437
+126  McNeese St.       0 10   414
+127  Delaware St.      1 10   410
+128  Miss. Valley St.  1 10   407

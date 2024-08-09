@@ -1,0 +1,770 @@
+*=Division I FCS
+2=Division II
+3=Division III
+"=NAIA
+                        W  L
+                        -  -
+  1   Washington       14  0  1001
+  2   Michigan         14  0   994
+  3   Georgia          13  1   959
+  4   Alabama          12  2   947
+  5   Oregon           12  2   923
+  6   Florida St.      13  1   922
+  7   Texas            12  2   918
+  8   Mississippi      11  2   912
+  9   Ohio State       11  2   911
+ 10   Missouri         11  2   908
+ 11   Penn State       10  3   890
+ 12   Louisiana St.    10  3   880
+ 13   Arizona          10  3   863
+ 14   Notre Dame       10  3   860
+ 15   Oklahoma         10  3   858
+ 16   Tennessee         9  4   855
+ 17   Kansas St.        9  4   850
+ 18   Iowa             10  4   848
+ 19   Southern Cal      8  5   845
+      Louisville       10  4   845
+ 21 * S. Dakota St.    14  0   844
+ 22   Liberty          13  1   841
+      Utah              8  5   841
+ 24   Clemson           9  4   840
+ 25   Oklahoma St.     10  4   839
+ 26   Oregon St.        8  5   837
+      Kansas            9  4   837
+ 28   N. Carolina St.   9  4   832
+ 29   Duke              8  5   823
+ 30   James Madison    11  2   820
+      Maryland          8  5   820
+ 32   Northwestern      8  5   819
+      West Virginia     9  4   819
+ 34   Rutgers           7  6   816
+ 35   Kentucky          7  6   811
+ 36   UCLA              8  5   810
+ 37   Texas Tech        7  6   808
+      North Carolina    8  5   808
+ 39   Troy St.         11  3   807
+      Iowa St.          7  6   807
+ 41   Texas A&M         7  6   806
+ 42   Wyoming           9  4   804
+ 43   Miami (FL)        7  6   803
+      Georgia Tech      7  6   803
+      Memphis          10  3   803
+ 46   Wisconsin         7  6   798
+ 47   Tulane           11  3   797
+ 48   California        6  7   796
+ 49   Virginia Tech     7  6   791
+ 50   Southern Meth.   11  3   788
+ 51 * Montana          13  1   787
+ 52   Florida           5  7   786
+ 53 2 Harding          15  0   785
+      Boise St.         8  6   785
+ 55   South Carolina    5  7   784
+      Auburn            6  7   784
+ 57   Nevada Las Vegas  9  5   782
+ 58   Air Force         9  4   781
+ 59   Toledo           11  3   780
+ 60   Washington St.    5  7   779
+      Minnesota         6  7   779
+ 62   Fresno St.        9  4   778
+      Miami (OH)       11  3   778
+    * South Dakota     10  3   778
+ 65   Appalachian St.   9  5   775
+      UCF               6  7   775
+ 67   Illinois          5  7   774
+ 68   TCU               5  7   773
+ 69   Coastal Carolina  8  5   772
+ 70   San Jose St.      7  6   770
+      Boston College    7  6   770
+      Mississippi St.   5  7   770
+ 73   Colorado          4  8   769
+ 74   Brigham Young     5  7   766
+      Michigan St.      4  8   766
+ 76   Nebraska          5  7   765
+ 77   Purdue            4  8   764
+ 78   UT San Antonio    9  4   762
+ 79   Stanford          3  9   761
+ 80   Arizona St.       3  9   759
+ 81   Ohio University  10  3   758
+ 82   New Mexico St.   10  5   755
+ 83 * N. Dakota St.    11  4   754
+      Syracuse          6  7   754
+ 85   Virginia          3  9   751
+      Georgia State     7  6   751
+ 87   Jacksonville St.  9  4   750
+ 88   W. Kentucky       8  5   749
+ 89   Wake Forest       4  8   748
+ 90   Marshall          6  7   746
+ 91   Old Dominion      6  7   741
+ 92   Texas State       8  5   740
+ 93   Bowling Green     7  6   739
+      South Alabama     7  6   739
+      Houston           4  8   739
+ 96   Utah St.          6  7   737
+ 97   Arkansas          4  8   735
+ 98 * Montana St.       8  4   734
+ 99 2 Colorado Mines   14  1   733
+100 * Idaho             9  4   732
+101   Pittsburgh        3  9   731
+    * Villanova        10  3   731
+103   Hawaii            5  8   726
+104   South Florida     7  6   725
+      Georgia Southern  6  7   725
+      Indiana           3  9   725
+107   Baylor            3  9   723
+108   Colorado St.      5  7   722
+109   Cincinnati        3  9   721
+      Arkansas St.      6  7   721
+111   San Diego St.     4  8   718
+112 * Sacramento St.    8  5   716
+113   Army              5  7   715
+      Navy              6  6   715
+115 * Albany (NY)      11  4   714
+116 * UC Davis          7  4   712
+117   New Mexico        4  8   709
+118   N. Illinois       7  6   708
+119   Rice              6  7   707
+120   Louisiana         6  7   706
+    2 Grand Valley St. 11  2   706
+    * North Dakota      7  5   706
+123 * Furman           10  3   705
+    * S. Illinois       8  5   705
+125   Vanderbilt        2 10   704
+    * Austin Peay       9  3   704
+127   North Texas       5  7   699
+128 * Youngstown St.    8  5   695
+129 * Mercer            9  4   694
+130 * N. Iowa           6  5   693
+      W. Michigan       4  8   693
+132 2 Cent. Missouri   11  2   692
+133   Cent. Michigan    5  7   689
+134 * Delaware          9  4   688
+135 * Weber St.         6  5   687
+136 * N. Arizona        5  6   684
+      UAB               4  8   684
+138   Nevada            2 10   683
+    * Harvard           8  2   683
+140   Southern Miss.    3  9   681
+141 * Cent. Arkansas    7  4   680
+142   Middle Tenn.      4  8   679
+143   Florida Atlantic  4  8   678
+    2 S. Arkansas      10  2   678
+145 * Lafayette         9  3   677
+      Massachusetts     3  9   677
+      Connecticut       3  9   677
+148   E. Michigan       6  7   676
+    * Tenn.-Martin      8  3   676
+150 2 Pittsburg St.    11  2   673
+      Ball St.          4  8   673
+152 * Holy Cross        7  4   670
+153 * Portland St.      5  6   669
+154   Texas-El Paso     3  9   667
+    * Tn.-Chattanooga   8  5   667
+156   Tulsa             4  8   666
+    3 Cortland St.     14  1   666
+158 * Gardner-Webb      7  5   663
+159   Florida Int.      4  8   662
+    * Florida A&M      12  1   662
+161 * W. Carolina       7  4   661
+162 * Tarleton St.      8  3   659
+    2 Henderson St.     9  3   659
+164 * Yale              7  3   658
+    * S. Utah           6  5   658
+166   Charlotte         3  9   657
+      Sam Houston St.   3  9   657
+    * E. Washington     4  7   657
+169 * Richmond          9  4   654
+170 * Elon College      6  5   653
+171   UL Monroe         2 10   652
+      Louisiana Tech    3  9   652
+173 2 Valdosta St.     12  2   651
+174   East Carolina     2 10   650
+      Temple            3  9   650
+176 * E. Illinois       8  3   649
+177 2 Western Colorado 10  2   648
+    * Colgate           6  5   648
+179 3 Grove City       11  1   647
+    * Idaho St.         3  8   647
+181 * E. Kentucky       5  6   646
+182 2 Augustana (SD)   11  2   645
+    * Rhode Island      6  5   645
+184 * Dartmouth         6  4   643
+185 * New Hampshire     6  5   642
+    * Pennsylvania      6  4   642
+187   Buffalo           3  9   641
+    * Samford           6  5   641
+189 2 Delta St.        10  2   640
+    2 Ouachita          8  3   640
+191 * Missouri St.      4  7   639
+192 2 Ferris St.        8  3   637
+193 * N.C. Central      9  3   636
+    2 Lenoir-Rhyne     13  2   636
+195 2 Cent. Washington  9  4   635
+    2 TX-Permian Basin 10  2   635
+197 2 Emporia St.       9  3   633
+198 * Nicholls St.      6  5   631
+    * William & Mary    6  5   631
+200 * Illinois St.      6  5   630
+201 3 Susquehanna      10  1   629
+    * Towson St.        5  6   629
+203 * Bryant College    6  5   625
+    * Incarnate Word    8  2   625
+205 * Princeton         5  5   624
+206 2 Missouri West. St 8  4   622
+207 * Brown             5  5   620
+    2 Kutztown         12  3   620
+209 2 Slippery Rock    12  2   618
+    2 Bemidji St.       9  3   618
+211 * Drake             8  4   617
+212 2 CSU-Pueblo        8  3   615
+    * Abilene Christian 5  6   615
+214 3 North Central    14  1   614
+215 3 Randolph-Macon   13  1   613
+    * Fordham           6  5   613
+    2 Oklahoma Baptist  7  4   613
+218 * SE Missouri       4  7   612
+    * North Alabama     3  8   612
+    * VMI               5  6   612
+221 2 Angelo St.        7  3   611
+222 * St. Thomas (MN)   8  3   606
+223 2 Minnesota St.     9  3   604
+    3 Johns Hopkins    12  1   604
+225 * Campbell          5  6   603
+    2 NW Missouri St.   7  4   603
+    2 Fort Hays St.     7  4   603
+228 " Northwestern (IA)14  1   602
+229 2 West Florida      8  4   601
+230   Akron             2 10   600
+231 * Howard U.         6  6   596
+232 * Monmouth (NJ)     4  7   594
+    2 Tiffin           11  1   594
+    3 Carnegie-Mellon   9  1   594
+    2 Charleston (WV)  10  2   594
+    2 TX A&M-Kingsville 7  3   594
+237 " W. Montana        9  2   593
+238 " Idaho College    10  3   592
+    * Tennessee St.     6  5   592
+    2 Davenport (MI)    8  2   592
+241 * Cal Poly-SLO      3  8   591
+242 * Duquesne          7  5   590
+    * Bucknell          4  7   590
+244 " Keiser           12  2   589
+245 * Utah Tech         2  9   588
+246 2 West Georgia      6  4   585
+    * Charleston South. 4  7   585
+248 * Cornell           3  7   584
+    * Hampton U.        5  6   584
+250 * Georgetown        5  6   583
+    * Tennessee Tech    4  7   583
+    * Columbia          3  7   583
+253 2 So. Nazarene      6  6   582
+    2 Wayne State (NE)  8  3   582
+255 * Robert Morris PA  4  7   580
+    2 Minn.-Duluth      9  2   580
+    * Morgan St.        4  6   580
+258 2 East Stroudsburg  9  3   579
+    2 Indianapolis      9  2   579
+260 * Murray St.        2  9   578
+261 3 Alma             12  1   577
+262 * Lamar             6  5   576
+    2 California, Pa.   7  3   576
+264 3 Wartburg         13  1   575
+    3 Ithaca            9  3   575
+266 2 Limestone         8  4   573
+267 2 Shepherd          9  3   571
+268 * E. Tennessee St.  3  8   570
+269 " Carroll (MT)      7  3   565
+    2 West Alabama      5  5   565
+    " Montana Tech      7  4   565
+272 2 Benedict         11  1   564
+273 2 Arkansas Tech     5  6   563
+    2 SE Oklahoma       5  6   563
+275 3 Wis.-Whitewater  11  2   560
+    2 Frostburg St.     7  3   560
+    2 Truman State      9  2   560
+278 2 Mars Hill         8  2   559
+    * Houston Chr.      5  5   559
+280 2 Wingate           8  3   556
+281 2 MSU-Moorhead      7  4   554
+    3 Wash. & Jeff.     8  2   554
+    2 Cent. Oklahoma    5  6   554
+    2 Missouri Southern 5  6   554
+    * Stephen F.Austin  3  8   554
+286 2 Saginaw Val. St.  6  5   553
+    2 North Greenville  5  5   553
+288 2 Ashland           9  3   552
+    3 Wis.-LaCrosse    11  2   552
+290 * Jackson St.       7  4   551
+    2 CO Mesa           6  5   551
+292 2 UNC Pembroke      7  3   550
+    * Prairie View      6  6   550
+294 3 Union (New York) 10  2   549
+      Kent State        1 11   549
+    * Butler            7  4   549
+    * Lehigh            2  9   549
+298 * S. Carolina St.   5  6   548
+    * Stonehill         5  5   548
+300 2 Fairmont St.      8  3   547
+    " Georgetown, Ky.  10  2   547
+    * Maine             2  9   547
+303 2 Black Hills St.   6  5   546
+    * Wofford           2  9   546
+305 " Indiana Wesleyan 10  2   545
+    3 Brockport St.     8  2   545
+307 2 Notre Dame (OH)   7  3   543
+308 * Lindenwood        3  7   542
+309 * Alcorn State      7  4   541
+310 " Grand View       11  1   539
+311 " S. Oregon         6  4   538
+312 * Alabama St.       7  4   537
+    * N. Carolina A&T   1 10   537
+314 3 Muhlenberg       10  1   535
+315 * Indiana St.       1 10   534
+    3 Wheaton (MA)     10  2   534
+317 2 Virginia Union   10  2   533
+    * Davidson          7  4   533
+    2 Midwest TX St     4  6   533
+320 * St. Francis, Pa.  4  6   530
+    3 Mount Union      11  1   530
+    " Bethel (TN)      11  2   530
+    " Rocky Mountain    6  4   530
+324 2 West Chester      6  5   527
+    * LIU-Brooklyn      4  7   527
+    " Marian (IN)       9  2   527
+327 * Merrimack         5  6   526
+328 2 Glenville St.     6  4   525
+329 2 Chadron St.       5  6   524
+330 2 Indiana, Pa.      6  5   523
+331 * N. Colorado       0 11   521
+    3 Endicott          9  2   521
+    * Norfolk St.       3  8   521
+334 2 Seton Hill        6  5   519
+    * Kennesaw State    3  6   519
+    2 Winona St.        5  6   519
+337 * Morehead St.      4  7   518
+    " St. Xavier        8  4   518
+339 * San Diego         4  7   516
+    2 Barton            6  5   516
+341 * Southern U.       6  5   515
+    * SE Louisiana      3  8   515
+343 3 Aurora           11  1   514
+    2 New Haven         8  3   514
+345 3 Case Reserve      7  3   513
+    " Dickinson St.    10  2   513
+    2 S. Dakota Mines   5  6   513
+    * Marist            4  7   513
+    * Wagner            4  7   513
+350 2 Mississippi Col.  3  7   512
+351 2 Tusculum          6  5   511
+    3 Whitworth         9  1   511
+353 2 Findlay           7  4   510
+    2 Fayetteville St.  8  3   510
+355 2 E. Cent. Oklahoma 3  8   507
+356 2 Gannon            5  6   505
+    2 Michigan Tech     5  5   505
+    2 McKendree         5  6   505
+359 * Grambling St.     5  6   503
+360 3 Hobart            8  2   502
+    2 W. Texas A&M      3  7   502
+    2 Nebraska-Kearney  3  8   502
+    2 Hillsdale         6  5   502
+    2 Wheeling U.       5  5   502
+365 2 Virginia St.      8  2   501
+366 3 DePauw           10  1   500
+    2 Alderson-Broaddus 0  0   500
+368 3 Delaware Val.     9  2   498
+    2 E. New Mexico     5  6   498
+370 2 Northern St. (SD) 5  6   496
+    2 Catawba           5  6   496
+    2 W. Oregon         3  8   496
+373 3 Utica             8  2   494
+374 3 St. John's, Minn. 8  2   493
+375 2 Miles             7  3   492
+    2 W. Virginia St.   4  6   492
+    3 John Carroll      8  2   492
+    2 Wayne State (MI)  3  8   492
+    " Lindsey Wilson    7  3   492
+380 3 Springfield       9  2   491
+381 * Presbyterian      4  7   489
+382 * Sacred Heart      2  9   487
+    3 Hope (MI)         8  2   487
+384 2 Newberry          4  7   486
+385 3 Trinity (TX)     10  2   485
+386 3 Bethel, Minn.     8  3   484
+    2 Roosevelt         6  4   484
+    * Stony Brook       0 10   484
+    2 Lock Haven        5  6   484
+    " St. Thomas (FL)   9  4   484
+    * Alabama A&M       5  6   484
+392 2 Carson-Newman     5  6   483
+    3 Westminster (PA)  6  4   483
+    " Concordia (MI)    7  3   483
+    3 Wis.-Riv. Falls   7  3   483
+396 3 Hardin-Simmons    9  2   482
+    3 Augustana (IL)    8  2   482
+    2 Northwood (MI)    5  6   482
+399 * Valparaiso        3  8   481
+    2 West Liberty      4  6   481
+401 2 Millersville      3  8   479
+402 2 Assumption        5  5   477
+    * Dayton            4  7   477
+    3 Rensselaer        7  3   477
+    2 St. Anselm        6  4   477
+406 2 Ark Monticello    2  9   476
+    2 Allen             6  3   476
+408 2 Bentley           6  4   475
+    2 Albany State (GA) 6  5   475
+410 2 Shippensburg      3  8   474
+411 3 Wis.-Oshkosh      6  4   473
+    3 Coe               9  2   473
+    2 Thomas More       5  6   473
+414 2 Fort Valley St.   8  3   472
+415 * Texas Southern    3  8   471
+    3 Wis.-Platteville  6  4   471
+417 2 Sioux Falls       3  8   470
+    2 Edinboro          3  8   470
+419 " Morningside       9  3   469
+420 * W. Illinois       0 11   468
+    * Stetson           3  8   468
+    * TX A&M-Commerce   1  9   468
+    3 Marietta          8  2   468
+424 2 Bloomsburg        3  8   467
+    * Citadel           0 11   467
+426 * Central Conn. St. 3  8   466
+    " Dordt             9  3   466
+428 2 SW Baptist        4  7   465
+    2 Washburn          2  9   465
+    3 Franklin&Marshall 7  3   465
+    2 Missouri S and T  4  7   465
+432 " St. Francis, Ind. 6  4   462
+    2 Emory & Henry     5  6   462
+434 2 Quincy            6  5   461
+435 " Reinhardt         8  3   460
+    " Cumberland (KY)   6  4   460
+437 2 Concordia (MN)    3  8   458
+438 2 Mercyhurst        2  9   457
+    2 Shorter           3  8   457
+    * Bethune-Cookman   3  8   457
+441 3 Mount St. Joseph  9  2   456
+442 " Baker             9  3   454
+443 3 Ursinus           7  3   453
+444 2 Adams St.         3  8   452
+445 2 Ky. Wesleyan      4  7   450
+446 3 Linfield          8  1   449
+    " Pikeville         7  3   449
+448 2 Bowie St.         6  4   448
+    2 Ohio Dominican    4  7   448
+    3 Dickinson         6  4   448
+    " E. Oregon         2  8   448
+    " MidAmerica Nazar  9  2   448
+    " Siena Heights     6  4   448
+454 * Ark Pine Bluff    2  9   446
+    2 Tuskegee          7  4   446
+    3 Washington StL    7  3   446
+457 2 Edward Waters     6  4   444
+458 3 W. New England    7  3   442
+459 2 SW Minnesota      2  9   440
+    " St. Francis, Ill. 7  3   440
+461 3 King's Coll. (PA) 8  2   438
+    3 Central (Iowa)    8  2   438
+463 * Northwstn St (LA) 0  6   437
+    " Ottawa (AZ)       8  1   437
+    " Olivet Nazarene   6  4   437
+    2 NW Oklahoma       1 10   437
+467 2 S. Connecticut    4  6   435
+    2 W. New Mexico     2  8   435
+469 2 Mary              2  9   434
+470 " Evangel          11  1   433
+471 3 Rochester (NY)    5  5   432
+472 3 Geneva            4  6   430
+    2 Clarion           2  9   430
+474 3 Wis.-Stout        4  6   429
+    2 N.Mex.Highlands   2  9   429
+    3 Washington & Lee  8  2   429
+477 3 Wittenberg        7  3   428
+478 " Florida Memorial  6  4   427
+    3 Wabash            7  3   427
+    2 Johnson Smith     7  4   427
+481 2 Walsh OH          3  8   426
+482 " Valley City St.   7  3   425
+    3 Carleton          7  3   425
+    2 NortheasternSt OK 1 10   425
+485 3 Christphr Newport 7  4   422
+    3 Baldwin-Wallace   6  4   422
+487 3 Gustav Adolphus   6  4   421
+488 3 Salisbury         6  4   419
+489 2 Pace              3  7   418
+490 3 Albion            7  3   417
+491 2 Upper Iowa        3  8   416
+492 3 Stevenson         7  3   415
+    2 Central St. OH    5  5   415
+    " Texas Wesleyan    8  2   415
+495 " LA Christian      9  2   414
+    3 Widener           7  3   414
+    2 Livingstone       4  6   414
+    * McNeese St.       0 10   414
+499 3 Salve Regina      8  2   413
+500 3 Bridgewater,Va.   7  3   412
+    2 Franklin Pierce   4  6   412
+502 " Benedictine (KS)  8  3   411
+503 * Delaware St.      1 10   410
+    2 Virginia-Wise     2  9   410
+    2 Lincoln (PA)      4  6   410
+    " Bluefield St.     5  5   410
+507 " Campbellsville    4  6   409
+    3 Alfred U          4  6   409
+509 3 Denison           7  3   408
+510 3 MaryHardin-Baylor 6  4   407
+    * Miss. Valley St.  1 10   407
+512 " Cumberland, Tenn. 5  5   406
+513 3 Berry College     9  1   404
+    2 American Intl.    3  8   404
+    3 Rose-Hulman       7  3   404
+516 2 Minot St.         1 10   403
+    3 St. John Fisher   5  5   403
+518 3 Heidelberg        6  4   402
+519 3 St. Vincent (PA)  3  7   401
+    3 Thiel             3  7   401
+    3 Allegheny         3  7   401
+    3 Lebanon Val.      6  5   401
+    3 Husson            7  3   401
+524 2 William Jewell    2  8   399
+525 " Arizona Chr.      2  8   397
+526 3 Montclair St.     5  5   396
+    2 Concord           1 10   396
+528 " Midland (NE)      6  5   395
+    " Concordia (NE)    5  5   395
+530 " Dakota Wesleyan   6  5   394
+    3 Augsburg          6  4   394
+    3 Wis.-Eau Claire   2  8   394
+    2 Chowan            0 10   394
+534 2 Shaw              3  7   393
+    3 Merchant Marine   7  2   393
+536 3 Claremont-Mudd    8  2   391
+537 3 Chapman           6  3   390
+    2 Winston-Salem     4  6   390
+    3 Trine             6  4   390
+540 2 SW Oklahoma St.   0 11   387
+    3 Cncrdia-Mhd       5  5   387
+542 " Southeastern      5  5   386
+543 3 Middlebury        8  1   385
+    3 Trinity Coll (CT) 8  1   385
+    3 Carroll (WI)      5  5   385
+546 3 North Park        5  5   384
+547 " Lincoln (CA)      0 12   383
+548 " Hastings          5  6   382
+    3 Rowan             5  5   382
+    " Lawrence Tech     3  7   382
+551 3 Morrisville St.   4  6   380
+    2 Kentucky St.      3  7   380
+553 " Faulkner          2  8   377
+    2 Eliz. City St.    3  7   377
+555 3 Dubuque           5  5   376
+556 3 Lycoming          4  6   375
+557 3 Ohio Northern     4  6   373
+558 " Graceland         6  5   372
+    3 College of NJ     5  5   372
+    3 Waynesburg        2  8   372
+561 " Union (Kentucky)  4  6   371
+    2 Lincoln (MO)      0 11   371
+563 3 Monmouth (IL)     8  2   370
+    3 Illinois Col.     9  2   370
+565 3 Hanover           7  3   369
+566 " UVA-Lynchburg     2  9   368
+    3 Hampden-Sydney    6  4   368
+568 3 Wilkes            4  6   366
+569 " Point             4  7   364
+570 3 New England U.    6  4   363
+    " Missouri Val.     5  5   363
+572 " Briar Cliff (IA)  4  7   362
+573 " Friends           9  2   361
+574 " Peru St.          5  6   359
+    3 Catholic U.       5  5   359
+576 " Taylor            2  9   358
+    2 Post              1  9   358
+578 3 Pomona-Pitzer     6  4   357
+579 3 Loras             5  5   355
+    2 Lake Erie         1 10   355
+    " Montana St.-North 1  9   355
+582 3 FDU-Florham       5  5   353
+583 3 Illinois Weslyn   3  7   351
+584 3 St. Olaf          5  5   348
+    " Langston          6  4   348
+    3 Carthage          3  7   348
+    3 Redlands          5  5   348
+588 2 Savannah St.      2  8   347
+    3 St. Lawrence      3  7   347
+    " Waldorf           4  6   347
+591 3 Wis.-Stevens Pt.  1  9   346
+    3 Belhaven          9  2   346
+    2 Bluefield         1  9   346
+594 3 Muskingum         4  6   345
+    3 Ohio Weslyn       5  5   345
+    2 Erskine           0 11   345
+597 3 E. Texas Baptist  5  5   342
+598 3 Moravian          4  6   340
+    3 Huntingdon        8  2   340
+600 3 Maryville (TN)    8  2   339
+601 " Kansas Weslyn     8  3   337
+    " Southwestern, KS  8  3   337
+603 3 Tufts             6  3   335
+    3 Wesleyan          6  3   335
+605 2 Lane College      2  8   334
+606 3 Olivet (MI)       4  6   333
+607 " Ave Maria         4  6   332
+    3 Howard Payne      6  4   332
+609 2 W. Va. Weslyn     0 10   331
+610 3 Shenandoah        5  5   330
+    " Webber College    3  7   330
+    3 Misericordia      4  6   330
+613 2 Morehouse         1  9   329
+614 " Mount Marty       3  8   328
+    3 Coast Guard       5  5   328
+616 2 Fort Lewis        0 11   327
+    " Jamestown         2  9   327
+    3 SUNY Maritime     5  5   327
+619 3 Averett College   5  5   326
+620 3 St. Norbert       7  3   325
+621 3 Mass.-Dartmouth   9  1   324
+    3 Pac. Lutheran     5  5   324
+623 3 Wilmington (DE)   3  7   323
+    2 N. Michigan       0 11   323
+    " Warner            4  6   323
+626 " Doane             2  9   321
+    " William Penn      4  6   321
+628 3 McMurry           6  4   320
+629 3 Centre            6  4   319
+630 " St. Ambrose       1  9   317
+631 3 Kalamazoo         5  5   316
+    3 Curry             3  7   316
+    3 Gettysburg        2  8   316
+    3 MIT               4  5   316
+635 3 Wooster           4  6   315
+636 3 Sul Ross St.      4  6   313
+    3 Lake Forest       7  3   313
+    " Panhandle St.     5  5   313
+639 3 Concordia (WI)    7  3   311
+    3 Lewis & Clark     5  5   311
+641 3 Franklin          4  6   308
+642 3 Cornell (IA)      6  4   306
+643 3 Chicago           6  4   304
+    3 Bethany,W.Va.     0 10   304
+645 3 Hamline           4  6   303
+    3 Alfred State      6  5   303
+647 " Clarke College    3  8   302
+648 3 Northwestern (MN) 6  4   299
+649 2 St. Augustine's   0 10   298
+650 " Ottawa KS         6  6   296
+    3 George Fox        4  6   296
+    3 Wm. Paterson      2  8   296
+    " Bethel, Kan.      6  5   296
+654 3 Cal Lutheran      3  7   295
+655 3 Nebraska Weslyn   4  6   293
+656 " Thomas (GA)       1  8   292
+    3 Elmhurst          2  8   292
+658 " Madonna           0 11   291
+    3 Benedictine (IL)  5  4   291
+660 3 Amherst           4  5   290
+    3 Bowdoin           4  5   290
+662 3 W. Connecticut    7  3   289
+663 " Mayville St.      3  8   284
+664 3 Rhodes (TN)       6  4   281
+    3 Defiance          4  6   281
+666 3 Eastern (VA)      2  8   279
+667 " Kentucky Chrstn   1 10   278
+668 3 Ferrum            3  7   277
+    " McPherson         5  6   277
+670 3 Simpson (IA)      3  7   275
+    3 Brevard           5  5   275
+672 " Apprentice        1  3   274
+    " Missouri Baptist  2  8   274
+674 3 Ripon             5  5   273
+    " Dakota St.        1  9   273
+    3 Minnesota-Morris  7  4   273
+677 3 Nichols           3  7   272
+    " SW Assem Of God   4  6   272
+679 3 Worcester Tech    3  7   271
+    3 Bluffton          4  6   271
+681 3 Puget Sound       3  6   270
+682 3 Capital           1  9   269
+683 3 Keystone          2  8   268
+684 3 Colby             3  6   265
+    3 Hamilton          3  6   265
+    3 Williams          3  6   265
+687 3 Anna Maria        5  4   263
+688 3 LaVerne           2  8   262
+689 " Judson IL         0  9   261
+    3 Wisc. Lutheran    4  6   261
+691 " Avila             4  7   259
+692 3 Macalester        3  7   258
+693 3 Bridgewater,Mass. 7  3   256
+694 3 Buena Vista       2  8   255
+    3 Pacific (OR)      2  7   255
+    3 Lakeland          4  6   255
+    3 Texas Lutheran    2  8   255
+698 " Fort Lauderdale   1  5   254
+699 3 Buffalo St.       2  8   253
+700 3 Hendrix-Henderson 3  7   251
+701 2 Clark Atlanta     0 10   248
+    3 Kenyon            2  8   248
+703 3 Birmingham South. 3  7   247
+704 3 Lyon College      4  4   246
+705 3 NC Wesleyan       4  6   243
+    3 Gallaudet         4  5   243
+    3 Juniata           1  9   243
+708 3 Alvernia          1  9   241
+    " Cent. Methodist   1 10   241
+    3 Guilford          2  8   241
+711 " St. Mary's, KS    3  8   239
+    " Tabor             3  8   239
+713 3 Hartwick          1  9   238
+    " Culver-Stockton   1 10   238
+715 3 Eureka            4  6   236
+    3 Millikin          0 10   236
+717 3 Southwestern (TX) 3  7   234
+718 3 Kean              0 10   233
+719 3 McDaniel          0 10   231
+720 " St. Andrews       0 11   230
+721 3 Hiram Col.        1  9   229
+722 3 Sewanee           3  7   225
+723 3 Willamette        1  9   222
+724 3 Adrian            1  9   221
+725 3 Norwich           1  9   220
+726 " Wayland Baptist   2  8   217
+727 3 Greenville        5  5   215
+    " Sterling          2  9   215
+729 3 Knox              3  7   213
+    3 Otterbein         0 10   213
+731 3 St. Scholastica   2  8   212
+732 " Arkansas Baptist  1  8   203
+    3 Framingham St.    5  4   203
+734 3 Austin Col.       1  9   196
+735 " North American    1  9   195
+736 3 Millsaps          1  9   192
+737 3 Oberlin           1  9   191
+738 3 Greensboro        2  8   190
+    3 Manchester        1  9   190
+740 " Bethany (KS)      1 10   189
+741 " Texas College     1 10   187
+742 3 Albright          0 10   186
+    3 Rockford          2  8   186
+744 3 Martin Luther     2  8   185
+745 3 Grinnell          2  8   184
+746 3 Dean Academy      2  8   179
+747 3 Luther            0 10   174
+    3 Beloit            2  8   174
+749 3 Bates             0  9   171
+750 3 Hilbert           0  8   163
+751 3 Concordia (IL)    1  9   161
+752 3 Methodist         2  8   157
+753 3 Anderson (IN)     0 10   153
+754 3 Castleton State   2  7   149
+755 3 Plymouth St.      4  6   143
+756 3 Westminster (MO)  1  8   142
+757 3 Crown             1  8   132
+758 3 Westfield St.     3  7   124
+759 3 Southern Virginia 1  9   123
+760 3 Lawrence          0 10    99
+761 3 Mass. Maritime    2  8    83
+762 3 La Grange         0  9    66
+763 3 Worcester St.     1  9    48
+764 3 Fitchburg St.     0 10   -11

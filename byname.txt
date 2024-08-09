@@ -1,0 +1,766 @@
+                  W  L
+                  -  -
+Abilene Christian 5  6     615.06311
+Adams St.         3  8     452.04891
+Adrian            1  9     221.00479
+Air Force         9  4     780.64827
+Akron             2 10     600.18725
+Alabama          12  2     946.61651
+Alabama A&M       5  6     483.68090
+Alabama St.       7  4     537.46069
+Albany (NY)      11  4     713.74718
+Albany State (GA) 6  5     474.96824
+Albion            7  3     417.19541
+Albright          0 10     186.39911
+Alcorn State      7  4     540.67794
+Alderson-Broaddus 0  0     499.71231
+Alfred State      6  5     302.71657
+Alfred U          4  6     408.90054
+Allegheny         3  7     400.90829
+Allen             6  3     476.30289
+Alma             12  1     577.12576
+Alvernia          1  9     241.49714
+American Intl.    3  8     404.06090
+Amherst           4  5     290.41156
+Anderson (IN)     0 10     153.38017
+Angelo St.        7  3     611.44699
+Anna Maria        5  4     262.78484
+Appalachian St.   9  5     775.45579
+Apprentice        1  3     273.99873
+Arizona          10  3     862.72028
+Arizona Chr.      2  8     396.86238
+Arizona St.       3  9     758.53971
+Ark Monticello    2  9     476.37179
+Ark Pine Bluff    2  9     445.93893
+Arkansas          4  8     735.16450
+Arkansas Baptist  1  8     202.85085
+Arkansas St.      6  7     720.51980
+Arkansas Tech     5  6     563.10719
+Army              5  7     715.23204
+Ashland           9  3     552.29862
+Assumption        5  5     477.30051
+Auburn            6  7     783.94346
+Augsburg          6  4     394.12234
+Augustana (IL)    8  2     482.24983
+Augustana (SD)   11  2     645.21305
+Aurora           11  1     514.10406
+Austin Col.       1  9     195.53162
+Austin Peay       9  3     703.57698
+Ave Maria         4  6     332.43241
+Averett College   5  5     326.35751
+Avila             4  7     258.94466
+Baker             9  3     454.30710
+Baldwin-Wallace   6  4     421.76314
+Ball St.          4  8     673.27542
+Barton            6  5     515.77556
+Bates             0  9     171.22162
+Baylor            3  9     722.84248
+Belhaven          9  2     345.74406
+Beloit            2  8     173.88665
+Bemidji St.       9  3     617.79983
+Benedict         11  1     563.96268
+Benedictine (IL)  5  4     291.24906
+Benedictine (KS)  8  3     410.92623
+Bentley           6  4     475.17168
+Berry College     9  1     404.16653
+Bethany (KS)      1 10     189.19967
+Bethany,W.Va.     0 10     303.58293
+Bethel (TN)      11  2     529.76917
+Bethel, Kan.      6  5     295.94229
+Bethel, Minn.     8  3     484.45476
+Bethune-Cookman   3  8     456.79616
+Birmingham South. 3  7     246.54102
+Black Hills St.   6  5     546.31184
+Bloomsburg        3  8     467.46608
+Bluefield         1  9     345.70319
+Bluefield St.     5  5     409.60161
+Bluffton          4  6     270.67519
+Boise St.         8  6     784.67807
+Boston College    7  6     770.00185
+Bowdoin           4  5     290.41156
+Bowie St.         6  4     448.22684
+Bowling Green     7  6     739.43808
+Brevard           5  5     274.80628
+Briar Cliff (IA)  4  7     362.19482
+Bridgewater,Mass. 7  3     256.43020
+Bridgewater,Va.   7  3     411.57637
+Brigham Young     5  7     766.36720
+Brockport St.     8  2     544.70512
+Brown             5  5     620.39962
+Bryant College    6  5     625.05678
+Bucknell          4  7     589.73070
+Buena Vista       2  8     255.49431
+Buffalo           3  9     640.85796
+Buffalo St.       2  8     252.68664
+Butler            7  4     548.78213
+CO Mesa           6  5     550.73436
+CSU-Pueblo        8  3     615.36872
+Cal Lutheran      3  7     294.94224
+Cal Poly-SLO      3  8     591.09518
+California        6  7     796.49617
+California, Pa.   7  3     575.99698
+Campbell          5  6     603.09522
+Campbellsville    4  6     409.34888
+Capital           1  9     269.06476
+Carleton          7  3     425.00613
+Carnegie-Mellon   9  1     593.81327
+Carroll (MT)      7  3     565.42639
+Carroll (WI)      5  5     384.61609
+Carson-Newman     5  6     483.34283
+Carthage          3  7     347.95221
+Case Reserve      7  3     513.36256
+Castleton State   2  7     148.89417
+Catawba           5  6     495.75130
+Catholic U.       5  5     358.70628
+Cent. Arkansas    7  4     680.27214
+Cent. Methodist   1 10     241.48510
+Cent. Michigan    5  7     689.09485
+Cent. Missouri   11  2     691.82549
+Cent. Oklahoma    5  6     554.00350
+Cent. Washington  9  4     635.08160
+Central (Iowa)    8  2     437.64138
+Central Conn. St. 3  8     466.47380
+Central St. OH    5  5     414.64768
+Centre            6  4     319.04501
+Chadron St.       5  6     524.24313
+Chapman           6  3     390.44166
+Charleston (WV)  10  2     593.72244
+Charleston South. 4  7     585.05262
+Charlotte         3  9     657.21501
+Chicago           6  4     304.07236
+Chowan            0 10     393.97305
+Christphr Newport 7  4     422.14298
+Cincinnati        3  9     720.78911
+Citadel           0 11     466.50109
+Claremont-Mudd    8  2     391.26392
+Clarion           2  9     429.84671
+Clark Atlanta     0 10     248.46463
+Clarke College    3  8     301.80214
+Clemson           9  4     839.80338
+Cncrdia-Mhd       5  5     386.69125
+Coast Guard       5  5     327.56921
+Coastal Carolina  8  5     771.66194
+Coe               9  2     473.26416
+Colby             3  6     264.66602
+Colgate           6  5     648.18684
+College of NJ     5  5     372.24850
+Colorado          4  8     768.84748
+Colorado Mines   14  1     732.60914
+Colorado St.      5  7     721.87514
+Columbia          3  7     582.68850
+Concord           1 10     395.83087
+Concordia (IL)    1  9     160.56665
+Concordia (MI)    7  3     483.12006
+Concordia (MN)    3  8     458.32816
+Concordia (NE)    5  5     394.60654
+Concordia (WI)    7  3     311.08701
+Connecticut       3  9     676.54485
+Cornell           3  7     583.93705
+Cornell (IA)      6  4     306.33181
+Cortland St.     14  1     665.62052
+Crown             1  8     132.23486
+Culver-Stockton   1 10     237.95715
+Cumberland (KY)   6  4     459.60530
+Cumberland, Tenn. 5  5     406.17229
+Curry             3  7     316.18495
+Dakota St.        1  9     272.60694
+Dakota Wesleyan   6  5     394.49763
+Dartmouth         6  4     643.27146
+Davenport (MI)    8  2     592.27495
+Davidson          7  4     532.88769
+Dayton            4  7     477.09904
+DePauw           10  1     499.73676
+Dean Academy      2  8     178.74441
+Defiance          4  6     281.02711
+Delaware          9  4     688.30762
+Delaware St.      1 10     410.16255
+Delaware Val.     9  2     498.15185
+Delta St.        10  2     640.44647
+Denison           7  3     408.17808
+Dickinson         6  4     447.86693
+Dickinson St.    10  2     513.19742
+Doane             2  9     321.30194
+Dordt             9  3     465.92942
+Drake             8  4     616.71293
+Dubuque           5  5     376.14035
+Duke              8  5     823.46129
+Duquesne          7  5     590.20383
+E. Cent. Oklahoma 3  8     507.35771
+E. Illinois       8  3     648.86584
+E. Kentucky       5  6     645.75370
+E. Michigan       6  7     676.46306
+E. New Mexico     5  6     497.73599
+E. Oregon         2  8     447.77740
+E. Tennessee St.  3  8     569.76626
+E. Texas Baptist  5  5     341.95410
+E. Washington     4  7     656.59948
+East Carolina     2 10     649.99457
+East Stroudsburg  9  3     579.34326
+Eastern (VA)      2  8     279.28784
+Edinboro          3  8     469.80162
+Edward Waters     6  4     444.43503
+Eliz. City St.    3  7     377.06997
+Elmhurst          2  8     291.66400
+Elon College      6  5     653.12177
+Emory & Henry     5  6     462.03296
+Emporia St.       9  3     632.87698
+Endicott          9  2     521.05471
+Erskine           0 11     344.58343
+Eureka            4  6     236.28757
+Evangel          11  1     433.25111
+FDU-Florham       5  5     353.07935
+Fairmont St.      8  3     546.99907
+Faulkner          2  8     377.22273
+Fayetteville St.  8  3     509.51417
+Ferris St.        8  3     637.37066
+Ferrum            3  7     277.43304
+Findlay           7  4     510.15560
+Fitchburg St.     0 10     -10.80663
+Florida           5  7     786.07723
+Florida A&M      12  1     662.01090
+Florida Atlantic  4  8     678.09808
+Florida Int.      4  8     662.19711
+Florida Memorial  6  4     427.14481
+Florida St.      13  1     922.23376
+Fordham           6  5     613.05557
+Fort Hays St.     7  4     602.53295
+Fort Lauderdale   1  5     254.22968
+Fort Lewis        0 11     327.28061
+Fort Valley St.   8  3     471.76100
+Framingham St.    5  4     202.50315
+Franklin          4  6     308.49831
+Franklin Pierce   4  6     411.50756
+Franklin&Marshall 7  3     465.28536
+Fresno St.        9  4     777.99993
+Friends           9  2     361.49029
+Frostburg St.     7  3     560.34447
+Furman           10  3     704.97957
+Gallaudet         4  5     242.88276
+Gannon            5  6     504.85818
+Gardner-Webb      7  5     662.61380
+Geneva            4  6     429.97644
+George Fox        4  6     296.01160
+Georgetown        5  6     583.48249
+Georgetown, Ky.  10  2     546.85630
+Georgia          13  1     959.29331
+Georgia Southern  6  7     725.09232
+Georgia State     7  6     751.27737
+Georgia Tech      7  6     802.86251
+Gettysburg        2  8     316.12697
+Glenville St.     6  4     524.64976
+Graceland         6  5     372.33210
+Grambling St.     5  6     502.53981
+Grand Valley St. 11  2     705.90279
+Grand View       11  1     538.88780
+Greensboro        2  8     190.37576
+Greenville        5  5     215.30743
+Grinnell          2  8     183.52057
+Grove City       11  1     647.17517
+Guilford          2  8     240.68135
+Gustav Adolphus   6  4     420.95345
+Hamilton          3  6     264.66602
+Hamline           4  6     303.15067
+Hampden-Sydney    6  4     368.26928
+Hampton U.        5  6     583.88780
+Hanover           7  3     368.97788
+Hardin-Simmons    9  2     482.26999
+Harding          15  0     785.37222
+Hartwick          1  9     238.26882
+Harvard           8  2     682.64883
+Hastings          5  6     382.32104
+Hawaii            5  8     725.65232
+Heidelberg        6  4     402.47779
+Henderson St.     9  3     658.61587
+Hendrix-Henderson 3  7     250.62557
+Hilbert           0  8     163.18077
+Hillsdale         6  5     501.63930
+Hiram Col.        1  9     228.80034
+Hobart            8  2     502.41495
+Holy Cross        7  4     670.45687
+Hope (MI)         8  2     486.73932
+Houston           4  8     738.78238
+Houston Chr.      5  5     559.15065
+Howard Payne      6  4     331.52384
+Howard U.         6  6     596.06884
+Huntingdon        8  2     339.86526
+Husson            7  3     400.53563
+Idaho             9  4     731.62250
+Idaho College    10  3     592.46094
+Idaho St.         3  8     646.78793
+Illinois          5  7     773.97522
+Illinois Col.     9  2     369.79022
+Illinois St.      6  5     629.61520
+Illinois Weslyn   3  7     350.79193
+Incarnate Word    8  2     624.72590
+Indiana           3  9     724.70531
+Indiana St.       1 10     534.48841
+Indiana Wesleyan 10  2     544.88544
+Indiana, Pa.      6  5     522.52157
+Indianapolis      9  2     579.17336
+Iowa             10  4     848.34275
+Iowa St.          7  6     806.77208
+Ithaca            9  3     575.08136
+Jackson St.       7  4     550.79840
+Jacksonville St.  9  4     749.66938
+James Madison    11  2     819.70638
+Jamestown         2  9     327.05887
+John Carroll      8  2     492.12833
+Johns Hopkins    12  1     604.28195
+Johnson Smith     7  4     426.62921
+Judson IL         0  9     261.25670
+Juniata           1  9     242.84675
+Kalamazoo         5  5     316.43152
+Kansas            9  4     836.87235
+Kansas St.        9  4     849.57359
+Kansas Weslyn     8  3     337.24486
+Kean              0 10     233.02849
+Keiser           12  2     589.37524
+Kennesaw State    3  6     519.00033
+Kent State        1 11     548.87209
+Kentucky          7  6     811.48895
+Kentucky Chrstn   1 10     278.25688
+Kentucky St.      3  7     380.08293
+Kenyon            2  8     247.53964
+Keystone          2  8     268.41692
+King's Coll. (PA) 8  2     438.49219
+Knox              3  7     213.48374
+Kutztown         12  3     620.32255
+Ky. Wesleyan      4  7     449.98773
+LA Christian      9  2     414.20460
+LIU-Brooklyn      4  7     527.09231
+La Grange         0  9      66.39176
+LaVerne           2  8     261.69377
+Lafayette         9  3     676.68307
+Lake Erie         1 10     355.42492
+Lake Forest       7  3     312.59944
+Lakeland          4  6     254.93714
+Lamar             6  5     576.06643
+Lane College      2  8     334.32643
+Langston          6  4     348.02767
+Lawrence          0 10      99.37122
+Lawrence Tech     3  7     382.06904
+Lebanon Val.      6  5     400.80535
+Lehigh            2  9     548.59230
+Lenoir-Rhyne     13  2     635.80641
+Lewis & Clark     5  5     310.72283
+Liberty          13  1     840.78435
+Limestone         8  4     572.99168
+Lincoln (CA)      0 12     383.48021
+Lincoln (MO)      0 11     370.71341
+Lincoln (PA)      4  6     409.64768
+Lindenwood        3  7     542.07747
+Lindsey Wilson    7  3     491.51075
+Linfield          8  1     448.92892
+Livingstone       4  6     413.80126
+Lock Haven        5  6     483.87657
+Loras             5  5     355.42559
+Louisiana         6  7     706.40091
+Louisiana St.    10  3     880.14007
+Louisiana Tech    3  9     652.00638
+Louisville       10  4     844.62025
+Luther            0 10     174.17786
+Lycoming          4  6     374.64641
+Lyon College      4  4     245.84935
+MIT               4  5     315.92018
+MSU-Moorhead      7  4     554.30943
+Macalester        3  7     257.84078
+Madonna           0 11     291.33721
+Maine             2  9     546.58325
+Manchester        1  9     189.61053
+Marian (IN)       9  2     527.06328
+Marietta          8  2     467.77094
+Marist            4  7     512.61021
+Mars Hill         8  2     559.38008
+Marshall          6  7     745.67150
+Martin Luther     2  8     185.27487
+Mary              2  9     433.80405
+MaryHardin-Baylor 6  4     407.41033
+Maryland          8  5     819.70427
+Maryville (TN)    8  2     339.19355
+Mass. Maritime    2  8      83.14112
+Mass.-Dartmouth   9  1     323.88253
+Massachusetts     3  9     676.58093
+Mayville St.      3  8     284.03099
+McDaniel          0 10     231.41133
+McKendree         5  6     504.69942
+McMurry           6  4     320.29515
+McNeese St.       0 10     413.72952
+McPherson         5  6     277.26306
+Memphis          10  3     802.76808
+Mercer            9  4     693.62291
+Merchant Marine   7  2     393.35844
+Mercyhurst        2  9     457.00437
+Merrimack         5  6     526.48385
+Methodist         2  8     157.02817
+Miami (FL)        7  6     803.47185
+Miami (OH)       11  3     777.96993
+Michigan         14  0     994.26907
+Michigan St.      4  8     765.51951
+Michigan Tech     5  5     504.73170
+MidAmerica Nazar  9  2     447.65104
+Middle Tenn.      4  8     678.90973
+Middlebury        8  1     385.31072
+Midland (NE)      6  5     395.25773
+Midwest TX St     4  6     532.87268
+Miles             7  3     492.24051
+Millersville      3  8     478.56673
+Millikin          0 10     236.06430
+Millsaps          1  9     191.77155
+Minn.-Duluth      9  2     580.22989
+Minnesota         6  7     779.40828
+Minnesota St.     9  3     604.34589
+Minnesota-Morris  7  4     272.58847
+Minot St.         1 10     403.01793
+Misericordia      4  6     329.71763
+Miss. Valley St.  1 10     407.34054
+Mississippi      11  2     911.95212
+Mississippi Col.  3  7     512.30357
+Mississippi St.   5  7     769.51221
+Missouri         11  2     907.97793
+Missouri Baptist  2  8     273.61849
+Missouri S and T  4  7     464.93907
+Missouri Southern 5  6     554.00350
+Missouri St.      4  7     638.97766
+Missouri Val.     5  5     362.86541
+Missouri West. St 8  4     621.57336
+Monmouth (IL)     8  2     370.06003
+Monmouth (NJ)     4  7     593.98571
+Montana          13  1     787.48075
+Montana St.       8  4     734.22315
+Montana St.-North 1  9     355.03196
+Montana Tech      7  4     565.34449
+Montclair St.     5  5     396.45304
+Moravian          4  6     340.21325
+Morehead St.      4  7     518.40349
+Morehouse         1  9     329.02239
+Morgan St.        4  6     580.14900
+Morningside       9  3     469.03384
+Morrisville St.   4  6     380.17052
+Mount Marty       3  8     328.47408
+Mount St. Joseph  9  2     455.96956
+Mount Union      11  1     530.03439
+Muhlenberg       10  1     535.40550
+Murray St.        2  9     578.12952
+Muskingum         4  6     345.49171
+N. Arizona        5  6     684.15508
+N. Carolina A&T   1 10     536.92677
+N. Carolina St.   9  4     832.34360
+N. Colorado       0 11     521.41837
+N. Dakota St.    11  4     754.08815
+N. Illinois       7  6     708.39798
+N. Iowa           6  5     693.12770
+N. Michigan       0 11     322.76909
+N.C. Central      9  3     636.37079
+N.Mex.Highlands   2  9     428.78456
+NC Wesleyan       4  6     243.21419
+NW Missouri St.   7  4     602.53295
+NW Oklahoma       1 10     436.64514
+Navy              6  6     714.86401
+Nebraska          5  7     765.06265
+Nebraska Weslyn   4  6     292.67799
+Nebraska-Kearney  3  8     501.85620
+Nevada            2 10     683.24673
+Nevada Las Vegas  9  5     781.91490
+New England U.    6  4     363.35636
+New Hampshire     6  5     642.40923
+New Haven         8  3     513.66652
+New Mexico        4  8     709.17640
+New Mexico St.   10  5     754.56389
+Newberry          4  7     485.88270
+Nicholls St.      6  5     631.44986
+Nichols           3  7     271.89443
+Norfolk St.       3  8     521.05446
+North Alabama     3  8     612.25370
+North American    1  9     195.00214
+North Carolina    8  5     807.53094
+North Central    14  1     613.89361
+North Dakota      7  5     705.77047
+North Greenville  5  5     553.28655
+North Park        5  5     384.12200
+North Texas       5  7     698.89114
+NortheasternSt OK 1 10     424.88676
+Northern St. (SD) 5  6     496.28089
+Northwestern      8  5     819.05105
+Northwestern (IA)14  1     602.39787
+Northwestern (MN) 6  4     298.55753
+Northwood (MI)    5  6     481.97283
+Northwstn St (LA) 0  6     437.48484
+Norwich           1  9     219.59827
+Notre Dame       10  3     859.85567
+Notre Dame (OH)   7  3     542.55804
+Oberlin           1  9     190.71209
+Ohio Dominican    4  7     448.08148
+Ohio Northern     4  6     373.23751
+Ohio State       11  2     911.27641
+Ohio University  10  3     757.73313
+Ohio Weslyn       5  5     345.07336
+Oklahoma         10  3     857.66778
+Oklahoma Baptist  7  4     612.65592
+Oklahoma St.     10  4     839.03640
+Old Dominion      6  7     741.37914
+Olivet (MI)       4  6     332.55184
+Olivet Nazarene   6  4     436.98692
+Oregon           12  2     923.49594
+Oregon St.        8  5     837.40515
+Ottawa (AZ)       8  1     437.20763
+Ottawa KS         6  6     296.28705
+Otterbein         0 10     213.17891
+Ouachita          8  3     640.24213
+Pac. Lutheran     5  5     323.83116
+Pace              3  7     418.23594
+Pacific (OR)      2  7     255.18607
+Panhandle St.     5  5     312.54721
+Penn State       10  3     889.89891
+Pennsylvania      6  4     641.65434
+Peru St.          5  6     358.85168
+Pikeville         7  3     448.54873
+Pittsburg St.    11  2     673.27788
+Pittsburgh        3  9     731.07001
+Plymouth St.      4  6     143.34181
+Point             4  7     364.10400
+Pomona-Pitzer     6  4     356.74074
+Portland St.      5  6     669.06703
+Post              1  9     357.72229
+Prairie View      6  6     549.58784
+Presbyterian      4  7     488.70599
+Princeton         5  5     623.81558
+Puget Sound       3  6     270.14177
+Purdue            4  8     764.00797
+Quincy            6  5     460.70337
+Randolph-Macon   13  1     613.09411
+Redlands          5  5     347.63073
+Reinhardt         8  3     459.64730
+Rensselaer        7  3     476.67915
+Rhode Island      6  5     644.83805
+Rhodes (TN)       6  4     281.10108
+Rice              6  7     707.06997
+Richmond          9  4     654.34015
+Ripon             5  5     272.74947
+Robert Morris PA  4  7     580.48377
+Rochester (NY)    5  5     432.27982
+Rockford          2  8     185.63736
+Rocky Mountain    6  4     529.51340
+Roosevelt         6  4     484.01988
+Rose-Hulman       7  3     404.01623
+Rowan             5  5     382.14166
+Rutgers           7  6     816.13500
+S. Arkansas      10  2     677.70474
+S. Carolina St.   5  6     548.04934
+S. Connecticut    4  6     434.82633
+S. Dakota Mines   5  6     512.92824
+S. Dakota St.    14  0     844.03488
+S. Illinois       8  5     704.90009
+S. Oregon         6  4     538.42201
+S. Utah           6  5     657.63469
+SE Louisiana      3  8     515.00237
+SE Missouri       4  7     612.48573
+SE Oklahoma       5  6     563.10719
+SUNY Maritime     5  5     326.57261
+SW Assem Of God   4  6     271.57953
+SW Baptist        4  7     465.45903
+SW Minnesota      2  9     440.33393
+SW Oklahoma St.   0 11     386.73877
+Sacramento St.    8  5     715.91264
+Sacred Heart      2  9     486.74791
+Saginaw Val. St.  6  5     553.29213
+Salisbury         6  4     419.38423
+Salve Regina      8  2     412.98577
+Sam Houston St.   3  9     657.01537
+Samford           6  5     640.60935
+San Diego         4  7     516.18033
+San Diego St.     4  8     717.89338
+San Jose St.      7  6     770.42113
+Savannah St.      2  8     347.12987
+Seton Hill        6  5     519.22432
+Sewanee           3  7     225.38751
+Shaw              3  7     393.45544
+Shenandoah        5  5     330.07903
+Shepherd          9  3     571.11388
+Shippensburg      3  8     473.73517
+Shorter           3  8     456.87285
+Siena Heights     6  4     447.61461
+Simpson (IA)      3  7     274.96780
+Sioux Falls       3  8     470.04827
+Slippery Rock    12  2     618.16195
+So. Nazarene      6  6     581.69807
+South Alabama     7  6     739.01011
+South Carolina    5  7     783.96776
+South Dakota     10  3     777.77922
+South Florida     7  6     725.20108
+Southeastern      5  5     386.30922
+Southern Cal      8  5     845.13893
+Southern Meth.   11  3     788.23202
+Southern Miss.    3  9     681.38824
+Southern U.       6  5     515.45527
+Southern Virginia 1  9     122.77140
+Southwestern (TX) 3  7     234.42125
+Southwestern, KS  8  3     337.24486
+Springfield       9  2     491.31361
+St. Ambrose       1  9     316.95141
+St. Andrews       0 11     230.13533
+St. Anselm        6  4     476.65660
+St. Augustine's   0 10     298.21768
+St. Francis, Ill. 7  3     439.85959
+St. Francis, Ind. 6  4     462.31979
+St. Francis, Pa.  4  6     530.49335
+St. John Fisher   5  5     403.00621
+St. John's, Minn. 8  2     493.05096
+St. Lawrence      3  7     346.61153
+St. Mary's, KS    3  8     239.14268
+St. Norbert       7  3     324.66952
+St. Olaf          5  5     348.37058
+St. Scholastica   2  8     212.45866
+St. Thomas (FL)   9  4     483.68396
+St. Thomas (MN)   8  3     605.81377
+St. Vincent (PA)  3  7     400.90829
+St. Xavier        8  4     517.63557
+Stanford          3  9     761.00574
+Stephen F.Austin  3  8     553.73361
+Sterling          2  9     215.19217
+Stetson           3  8     467.86473
+Stevenson         7  3     414.93127
+Stonehill         5  5     547.90098
+Stony Brook       0 10     483.91717
+Sul Ross St.      4  6     313.42495
+Susquehanna      10  1     628.73212
+Syracuse          6  7     753.68743
+TCU               5  7     772.60204
+TX A&M-Commerce   1  9     467.83813
+TX A&M-Kingsville 7  3     593.66303
+TX-Permian Basin 10  2     634.96463
+Tabor             3  8     239.14268
+Tarleton St.      8  3     659.37687
+Taylor            2  9     358.48969
+Temple            3  9     649.75595
+Tenn.-Martin      8  3     676.06212
+Tennessee         9  4     855.44934
+Tennessee St.     6  5     592.30325
+Tennessee Tech    4  7     583.08104
+Texas            12  2     918.37326
+Texas A&M         7  6     806.10381
+Texas College     1 10     186.92805
+Texas Lutheran    2  8     254.92818
+Texas Southern    3  8     470.88766
+Texas State       8  5     739.51864
+Texas Tech        7  6     808.07184
+Texas Wesleyan    8  2     414.51165
+Texas-El Paso     3  9     667.43135
+Thiel             3  7     400.90829
+Thomas (GA)       1  8     291.72789
+Thomas More       5  6     472.60421
+Tiffin           11  1     593.92152
+Tn.-Chattanooga   8  5     667.04433
+Toledo           11  3     780.11404
+Towson St.        5  6     628.55832
+Trine             6  4     389.78823
+Trinity (TX)     10  2     485.23569
+Trinity Coll (CT) 8  1     385.31072
+Troy St.         11  3     807.06552
+Truman State      9  2     559.77425
+Tufts             6  3     334.61045
+Tulane           11  3     797.22967
+Tulsa             4  8     666.06210
+Tusculum          6  5     511.26896
+Tuskegee          7  4     445.64777
+UAB               4  8     683.56701
+UC Davis          7  4     712.22083
+UCF               6  7     775.35121
+UCLA              8  5     810.07246
+UL Monroe         2 10     652.22652
+UNC Pembroke      7  3     550.14233
+UT San Antonio    9  4     762.13500
+UVA-Lynchburg     2  9     368.39026
+Union (Kentucky)  4  6     371.43898
+Union (New York) 10  2     549.18450
+Upper Iowa        3  8     416.16560
+Ursinus           7  3     452.74769
+Utah              8  5     840.73083
+Utah St.          6  7     736.73634
+Utah Tech         2  9     588.18464
+Utica             8  2     494.10390
+VMI               5  6     612.14933
+Valdosta St.     12  2     650.67808
+Valley City St.   7  3     425.00801
+Valparaiso        3  8     481.44365
+Vanderbilt        2 10     704.09586
+Villanova        10  3     730.72938
+Virginia          3  9     751.42858
+Virginia St.      8  2     500.83598
+Virginia Tech     7  6     791.40605
+Virginia Union   10  2     533.03919
+Virginia-Wise     2  9     409.73102
+W. Carolina       7  4     660.96355
+W. Connecticut    7  3     288.68002
+W. Illinois       0 11     468.32195
+W. Kentucky       8  5     748.62566
+W. Michigan       4  8     692.53743
+W. Montana        9  2     593.04588
+W. New England    7  3     441.53692
+W. New Mexico     2  8     434.57126
+W. Oregon         3  8     495.58532
+W. Texas A&M      3  7     502.09149
+W. Va. Weslyn     0 10     330.87211
+W. Virginia St.   4  6     492.19613
+Wabash            7  3     426.88939
+Wagner            4  7     512.56736
+Wake Forest       4  8     747.75601
+Waldorf           4  6     346.50197
+Walsh OH          3  8     425.77660
+Warner            4  6     322.75009
+Wartburg         13  1     575.17752
+Wash. & Jeff.     8  2     554.18120
+Washburn          2  9     465.41403
+Washington       14  0    1001.47940
+Washington & Lee  8  2     428.77638
+Washington St.    5  7     779.43675
+Washington StL    7  3     445.62692
+Wayland Baptist   2  8     216.61778
+Wayne State (MI)  3  8     491.81673
+Wayne State (NE)  8  3     581.60198
+Waynesburg        2  8     371.59474
+Webber College    3  7     329.89066
+Weber St.         6  5     687.14517
+Wesleyan          6  3     334.61045
+West Alabama      5  5     565.38505
+West Chester      6  5     527.49662
+West Florida      8  4     600.51443
+West Georgia      6  4     585.40879
+West Liberty      4  6     480.76072
+West Virginia     9  4     818.63242
+Western Colorado 10  2     648.30709
+Westfield St.     3  7     124.34725
+Westminster (MO)  1  8     141.58561
+Westminster (PA)  6  4     483.23438
+Wheaton (MA)     10  2     533.54266
+Wheeling U.       5  5     501.63087
+Whitworth         9  1     510.53546
+Widener           7  3     414.01161
+Wilkes            4  6     365.82729
+Willamette        1  9     221.86526
+William & Mary    6  5     630.94087
+William Jewell    2  8     399.40831
+William Penn      4  6     320.88459
+Williams          3  6     264.66602
+Wilmington (DE)   3  7     322.91691
+Wingate           8  3     556.21689
+Winona St.        5  6     518.77474
+Winston-Salem     4  6     390.11114
+Wis.-Eau Claire   2  8     394.10075
+Wis.-LaCrosse    11  2     551.97098
+Wis.-Oshkosh      6  4     473.38534
+Wis.-Platteville  6  4     470.69479
+Wis.-Riv. Falls   7  3     482.73566
+Wis.-Stevens Pt.  1  9     346.30199
+Wis.-Stout        4  6     429.06812
+Wis.-Whitewater  11  2     560.43314
+Wisc. Lutheran    4  6     260.75962
+Wisconsin         7  6     797.56435
+Wittenberg        7  3     428.37551
+Wm. Paterson      2  8     295.96931
+Wofford           2  9     546.01217
+Wooster           4  6     314.89447
+Worcester St.     1  9      47.58187
+Worcester Tech    3  7     270.89262
+Wyoming           9  4     804.34692
+Yale              7  3     658.38218
+Youngstown St.    8  5     695.45392

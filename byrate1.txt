@@ -1,0 +1,136 @@
+--- Division I FBS ---
+                       W  L
+                       -  -
+  1  Washington       14  0  1001
+  2  Michigan         14  0   994
+  3  Georgia          13  1   959
+  4  Alabama          12  2   947
+  5  Oregon           12  2   923
+  6  Florida St.      13  1   922
+  7  Texas            12  2   918
+  8  Mississippi      11  2   912
+  9  Ohio State       11  2   911
+ 10  Missouri         11  2   908
+ 11  Penn State       10  3   890
+ 12  Louisiana St.    10  3   880
+ 13  Arizona          10  3   863
+ 14  Notre Dame       10  3   860
+ 15  Oklahoma         10  3   858
+ 16  Tennessee         9  4   855
+ 17  Kansas St.        9  4   850
+ 18  Iowa             10  4   848
+ 19  Southern Cal      8  5   845
+     Louisville       10  4   845
+ 21  Liberty          13  1   841
+     Utah              8  5   841
+ 23  Clemson           9  4   840
+ 24  Oklahoma St.     10  4   839
+ 25  Oregon St.        8  5   837
+     Kansas            9  4   837
+ 27  N. Carolina St.   9  4   832
+ 28  Duke              8  5   823
+ 29  James Madison    11  2   820
+     Maryland          8  5   820
+ 31  Northwestern      8  5   819
+     West Virginia     9  4   819
+ 33  Rutgers           7  6   816
+ 34  Kentucky          7  6   811
+ 35  UCLA              8  5   810
+ 36  Texas Tech        7  6   808
+     North Carolina    8  5   808
+ 38  Troy St.         11  3   807
+     Iowa St.          7  6   807
+ 40  Texas A&M         7  6   806
+ 41  Wyoming           9  4   804
+ 42  Miami (FL)        7  6   803
+     Georgia Tech      7  6   803
+     Memphis          10  3   803
+ 45  Wisconsin         7  6   798
+ 46  Tulane           11  3   797
+ 47  California        6  7   796
+ 48  Virginia Tech     7  6   791
+ 49  Southern Meth.   11  3   788
+ 50  Florida           5  7   786
+ 51  Boise St.         8  6   785
+ 52  South Carolina    5  7   784
+     Auburn            6  7   784
+ 54  Nevada Las Vegas  9  5   782
+ 55  Air Force         9  4   781
+ 56  Toledo           11  3   780
+ 57  Washington St.    5  7   779
+     Minnesota         6  7   779
+ 59  Fresno St.        9  4   778
+     Miami (OH)       11  3   778
+ 61  Appalachian St.   9  5   775
+     UCF               6  7   775
+ 63  Illinois          5  7   774
+ 64  TCU               5  7   773
+ 65  Coastal Carolina  8  5   772
+ 66  San Jose St.      7  6   770
+     Boston College    7  6   770
+     Mississippi St.   5  7   770
+ 69  Colorado          4  8   769
+ 70  Brigham Young     5  7   766
+     Michigan St.      4  8   766
+ 72  Nebraska          5  7   765
+ 73  Purdue            4  8   764
+ 74  UT San Antonio    9  4   762
+ 75  Stanford          3  9   761
+ 76  Arizona St.       3  9   759
+ 77  Ohio University  10  3   758
+ 78  New Mexico St.   10  5   755
+ 79  Syracuse          6  7   754
+ 80  Virginia          3  9   751
+     Georgia State     7  6   751
+ 82  Jacksonville St.  9  4   750
+ 83  W. Kentucky       8  5   749
+ 84  Wake Forest       4  8   748
+ 85  Marshall          6  7   746
+ 86  Old Dominion      6  7   741
+ 87  Texas State       8  5   740
+ 88  Bowling Green     7  6   739
+     South Alabama     7  6   739
+     Houston           4  8   739
+ 91  Utah St.          6  7   737
+ 92  Arkansas          4  8   735
+ 93  Pittsburgh        3  9   731
+ 94  Hawaii            5  8   726
+ 95  South Florida     7  6   725
+     Georgia Southern  6  7   725
+     Indiana           3  9   725
+ 98  Baylor            3  9   723
+ 99  Colorado St.      5  7   722
+100  Cincinnati        3  9   721
+     Arkansas St.      6  7   721
+102  San Diego St.     4  8   718
+103  Army              5  7   715
+     Navy              6  6   715
+105  New Mexico        4  8   709
+106  N. Illinois       7  6   708
+107  Rice              6  7   707
+108  Louisiana         6  7   706
+109  Vanderbilt        2 10   704
+110  North Texas       5  7   699
+111  W. Michigan       4  8   693
+112  Cent. Michigan    5  7   689
+113  UAB               4  8   684
+114  Nevada            2 10   683
+115  Southern Miss.    3  9   681
+116  Middle Tenn.      4  8   679
+117  Florida Atlantic  4  8   678
+118  Massachusetts     3  9   677
+     Connecticut       3  9   677
+120  E. Michigan       6  7   676
+121  Ball St.          4  8   673
+122  Texas-El Paso     3  9   667
+123  Tulsa             4  8   666
+124  Florida Int.      4  8   662
+125  Charlotte         3  9   657
+     Sam Houston St.   3  9   657
+127  UL Monroe         2 10   652
+     Louisiana Tech    3  9   652
+129  East Carolina     2 10   650
+     Temple            3  9   650
+131  Buffalo           3  9   641
+132  Akron             2 10   600
+133  Kent State        1 11   549

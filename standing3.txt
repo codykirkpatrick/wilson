@@ -1,0 +1,280 @@
+Division II Football
+Conference Standings as of 01-Jan-24
+Perfomance Ratings are from David Wilson's system
+
+
+                    Central Association
+
+ 421 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Virginia Union     9  1   367  115   10  2   426  166   533
+Fayetteville St.   8  1   169  132    8  3   196  175   510
+Virginia St.       6  2   320  142    8  2   374  183   501
+Johnson Smith      6  2   182  142    7  4   250  185   427
+Bowie St.          5  3   173  198    6  4   214  233   448
+Winston-Salem      4  4   232  172    4  6   267  245   390
+Livingstone        4  5   173  238    4  6   188  293   414
+Lincoln (PA)       3  5   210  317    4  6   278  379   410
+Shaw               3  6   161  215    3  7   161  267   393
+Eliz. City St.     3  6   160  189    3  7   183  220   377
+Bluefield          1  8   182  321    1  9   196  358   346
+St. Augustine's    0  9    77  225    0 10    84  270   298
+
+
+                    Great American
+
+ 574 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Harding           11  0   568  102   15  0   703  156   785
+S. Arkansas        9  2   420  265   10  2   463  292   678
+Henderson St.      9  2   405  210    9  3   419  266   659
+Ouachita           8  3   397  263    8  3   397  263   640
+Oklahoma Baptist   7  4   282  268    7  4   282  268   613
+So. Nazarene       6  5   354  307    6  6   378  362   582
+SE Oklahoma        5  6   203  280    5  6   203  280   563
+Arkansas Tech      5  6   212  285    5  6   212  285   563
+E. Cent. Oklahoma  3  8   210  284    3  8   210  284   507
+Ark Monticello     2  9   262  401    2  9   262  401   476
+NW Oklahoma        1 10   145  467    1 10   145  467   437
+SW Oklahoma St.    0 11    98  424    0 11    98  424   387
+
+
+                    Great Lakes
+
+ 537 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Grand Valley St.   7  0   346   93   11  2   569  215   706
+Ferris St.         5  2   284  140    8  3   442  197   637
+Davenport (MI)     4  2   122  102    8  2   276  199   592
+Roosevelt          0  0     0    0    6  4   284  265   484
+Saginaw Val. St.   3  3   169  165    6  5   283  263   553
+Wayne State (MI)   2  4   106  216    3  8   191  361   492
+Michigan Tech      1  5   138  168    5  5   278  242   505
+N. Michigan        0  6    63  344    0 11   144  538   323
+
+
+                    Great Lakes Valley
+
+ 481 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Indianapolis       6  1   239   92    9  2   355  164   579
+Truman State       5  2   192  140    9  2   302  188   560
+McKendree          5  2   199  195    5  6   253  370   505
+Missouri S and T   4  4   224  167    4  7   303  284   465
+Quincy             3  4   206  208    6  5   423  270   461
+SW Baptist         3  4   183  196    4  7   301  355   465
+Upper Iowa         2  6   168  228    3  8   264  331   416
+William Jewell     1  6   122  307    2  8   225  409   399
+
+
+                    Great Midwest
+
+ 479 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Tiffin             9  0   368  129   11  1   524  195   594
+Ashland            8  1   296  182    9  3   364  264   552
+Findlay            6  3   260  154    7  4   310  199   510
+Hillsdale          6  3   290  210    6  5   330  294   502
+Northwood (MI)     5  4   232  225    5  6   249  300   482
+Thomas More        4  5   216  233    5  6   270  264   473
+Ky. Wesleyan       3  6   198  303    4  7   242  372   450
+Ohio Dominican     3  6   131  181    4  7   178  218   448
+Walsh OH           1  8   125  228    3  8   163  258   426
+Lake Erie          0  9   133  404    1 10   167  451   355
+
+
+                    Gulf South
+
+ 551 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Valdosta St.       8  1   314  213   12  2   516  340   651
+Delta St.          8  2   432  199   10  2   515  226   640
+West Florida       6  3   305  179    8  4   385  216   601
+West Georgia       5  3   238  268    6  4   276  307   585
+West Alabama       4  4   115  142    5  5   156  193   565
+North Greenville   4  4   183  222    5  5   217  249   553
+Mississippi Col.   2  6   147  221    3  7   181  265   512
+Shorter            1  7   169  286    3  8   230  375   457
+Chowan             0  8   147  320    0 10   150  392   394
+
+
+                    Lone Star
+
+ 549 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+TX-Permian Basin   8  0   297  155   10  2   509  207   635
+Cent. Washington   7  1   212  163    9  4   302  303   635
+Angelo St.         6  2   255  129    7  3   314  174   611
+TX A&M-Kingsville  5  3   204  180    7  3   254  207   594
+Midwest TX St      3  5   176  152    4  6   214  206   533
+E. New Mexico      2  6   212  263    5  6   353  318   498
+W. Texas A&M       2  6   220  225    3  7   254  260   502
+W. Oregon          2  6   166  219    3  8   216  323   496
+W. New Mexico      1  7   107  363    2  8   191  439   435
+
+
+                    Mid-America Intercollegiate
+
+ 558 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Cent. Missouri    10  1   552  300   11  2   642  349   692
+Pittsburg St.      9  1   329  173   11  2   440  217   673
+Emporia St.        8  3   433  304    9  3   488  328   633
+Missouri West. St  8  3   415  256    8  4   442  299   622
+NW Missouri St.    7  4   375  225    7  4   375  225   603
+Fort Hays St.      7  4   366  236    7  4   366  236   603
+Missouri Southern  5  6   343  314    5  6   343  314   554
+Cent. Oklahoma     5  6   283  287    5  6   283  287   554
+Nebraska-Kearney   3  8   216  303    3  8   216  303   502
+Washburn           2  9   258  396    2  9   258  396   465
+NortheasternSt OK  1 10   111  463    1 10   111  463   425
+Lincoln (MO)       0 10   105  529    0 11   122  591   371
+
+
+                    Mountain East
+
+ 502 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Charleston (WV)    8  1   423  198   10  2   528  287   594
+Fairmont St.       6  3   274  264    8  3   367  308   547
+Frostburg St.      6  3   256  146    7  3   283  170   560
+UNC Pembroke       6  3   385  172    7  3   404  189   550
+Notre Dame (OH)    6  3   296  221    7  3   319  242   543
+Glenville St.      5  4   227  234    6  4   271  243   525
+Alderson-Broaddus  0  0     0    0    0  0     0    0   500
+Wheeling U.        4  5   251  236    5  5   286  260   502
+W. Virginia St.    4  5   266  260    4  6   301  297   492
+West Liberty       4  5   233  269    4  6   254  293   481
+Concord            1  9   181  389    1 10   191  445   396
+W. Va. Weslyn      0  9    83  486    0 10    89  535   331
+
+
+                    Northeast-10
+
+ 451 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+New Haven          7  1   197  106    8  3   303  185   514
+St. Anselm         5  2   118   86    6  4   174  182   477
+Bentley            5  3   192  105    6  4   251  138   475
+Assumption         4  4   171  172    5  5   209  235   477
+S. Connecticut     3  5   128  173    4  6   189  214   435
+Franklin Pierce    3  5   161  151    4  6   200  177   412
+Pace               2  5   117  176    3  7   189  285   418
+American Intl.     2  6   132  247    3  8   173  364   404
+
+
+                    Northern Sun
+
+ 523 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Augustana (SD)    10  1   388  201   11  2   425  260   645
+Minn.-Duluth       8  2   368  195    9  2   415  205   580
+Bemidji St.        8  2   339  183    9  3   366  207   618
+Minnesota St.      8  3   364  286    9  3   409  300   604
+Wayne State (NE)   7  3   317  218    8  3   355  253   582
+MSU-Moorhead       6  4   328  234    7  4   366  251   554
+Winona St.         5  5   255  264    5  6   279  298   519
+Northern St. (SD)  4  6   250  287    5  6   294  307   496
+Sioux Falls        3  7   272  341    3  8   278  396   470
+Concordia (MN)     2  8   185  337    3  8   228  357   458
+SW Minnesota       2  8   160  307    2  9   175  323   440
+Mary               2  8   151  342    2  9   185  386   434
+Minot St.          1  9   147  329    1 10   150  366   403
+
+
+                    Pennsylvania State
+
+ 519 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Kutztown          10  1   264  139   12  3   361  250   620
+Slippery Rock     10  2   500  261   12  2   573  313   618
+Shepherd           8  2   334  209    9  3   378  298   571
+East Stroudsburg   8  3   326  271    9  3   388  280   579
+California, Pa.    7  3   347  230    7  3   347  230   576
+Seton Hill         6  4   224  260    6  5   248  295   519
+West Chester       5  5   266  300    6  5   286  319   527
+Indiana, Pa.       5  5   265  200    6  5   289  217   523
+Gannon             5  5   223  247    5  6   236  269   505
+Lock Haven         4  6   221  259    5  6   279  266   484
+Shippensburg       3  7   155  233    3  8   165  247   474
+Edinboro           3  7   225  304    3  8   232  353   470
+Bloomsburg         3  7   135  199    3  8   165  233   467
+Millersville       2  8   197  280    3  8   230  287   479
+Mercyhurst         2  8   231  408    2  9   243  462   457
+Clarion            1  9   188  301    2  9   218  321   430
+
+
+                    Rocky Mountain
+
+ 534 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Colorado Mines     9  0   500   77   14  1   698  195   733
+Western Colorado   8  1   357  147   10  2   433  196   648
+CSU-Pueblo         7  2   376  197    8  3   462  262   615
+CO Mesa            5  4   268  276    6  5   306  327   551
+Black Hills St.    5  4   271  282    6  5   336  351   546
+Chadron St.        4  5   229  265    5  6   267  326   524
+S. Dakota Mines    4  5   321  228    5  6   376  270   513
+Adams St.          2  7   145  389    3  8   187  433   452
+N.Mex.Highlands    1  8   131  371    2  9   205  441   429
+Fort Lewis         0  9   115  481    0 11   146  572   327
+
+
+                    South Atlantic
+
+ 503 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Lenoir-Rhyne       8  1   350   99   13  2   559  220   636
+Limestone          8  1   290  192    8  4   363  302   573
+Mars Hill          8  2   269  166    8  2   269  166   559
+Wingate            7  3   268  149    8  3   298  156   556
+Tusculum           6  3   246  203    6  5   270  262   511
+Barton             4  5   223  235    6  5   297  266   516
+Carson-Newman      4  5   210  186    5  6   245  231   483
+Catawba            3  6   194  248    5  6   280  286   496
+Emory & Henry      3  6   220  256    5  6   313  280   462
+Newberry           3  6   190  233    4  7   218  267   486
+Virginia-Wise      1  8   134  349    2  9   182  386   410
+Erskine            0  9    95  373    0 11   119  425   345
+
+
+                    Southern
+
+ 417 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Benedict           9  0   375   90   11  1   483  128   564
+Tuskegee           7  2   251  205    7  4   257  304   446
+Miles              6  2   262  173    7  3   303  211   492
+Fort Valley St.    6  3   267  203    8  3   327  239   472
+Albany State (GA)  6  3   245  184    6  5   268  235   475
+Allen              5  3   252  247    6  3   276  264   476
+Edward Waters      5  3   231  260    6  4   293  315   444
+Central St. OH     4  4   162  204    5  5   210  287   415
+Kentucky St.       3  6   178  272    3  7   185  337   380
+Lane College       2  6   172  239    2  8   227  335   334
+Savannah St.       1  7   151  207    2  8   180  258   347
+Morehouse          1  7   139  246    1  9   171  356   329
+Clark Atlanta      0  9   168  323    0 10   181  342   248
+
+
+                    Independents  
+
+ 358 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Post               0  0     0    0    1  9   162  422   358

@@ -1,0 +1,101 @@
+--- NAIA ---
+                       W  L
+                       -  -
+  1  Northwestern (IA)14  1   602
+  2  W. Montana        9  2   593
+  3  Idaho College    10  3   592
+  4  Keiser           12  2   589
+  5  Carroll (MT)      7  3   565
+     Montana Tech      7  4   565
+  7  Georgetown, Ky.  10  2   547
+  8  Indiana Wesleyan 10  2   545
+  9  Grand View       11  1   539
+ 10  S. Oregon         6  4   538
+ 11  Bethel (TN)      11  2   530
+     Rocky Mountain    6  4   530
+ 13  Marian (IN)       9  2   527
+ 14  St. Xavier        8  4   518
+ 15  Dickinson St.    10  2   513
+ 16  Lindsey Wilson    7  3   492
+ 17  St. Thomas (FL)   9  4   484
+ 18  Concordia (MI)    7  3   483
+ 19  Morningside       9  3   469
+ 20  Dordt             9  3   466
+ 21  St. Francis, Ind. 6  4   462
+ 22  Reinhardt         8  3   460
+     Cumberland (KY)   6  4   460
+ 24  Baker             9  3   454
+ 25  Pikeville         7  3   449
+ 26  E. Oregon         2  8   448
+     MidAmerica Nazar  9  2   448
+     Siena Heights     6  4   448
+ 29  St. Francis, Ill. 7  3   440
+ 30  Ottawa (AZ)       8  1   437
+     Olivet Nazarene   6  4   437
+ 32  Evangel          11  1   433
+ 33  Florida Memorial  6  4   427
+ 34  Valley City St.   7  3   425
+ 35  Texas Wesleyan    8  2   415
+ 36  LA Christian      9  2   414
+ 37  Benedictine (KS)  8  3   411
+ 38  Bluefield St.     5  5   410
+ 39  Campbellsville    4  6   409
+ 40  Cumberland, Tenn. 5  5   406
+ 41  Arizona Chr.      2  8   397
+ 42  Midland (NE)      6  5   395
+     Concordia (NE)    5  5   395
+ 44  Dakota Wesleyan   6  5   394
+ 45  Southeastern      5  5   386
+ 46  Lincoln (CA)      0 12   383
+ 47  Hastings          5  6   382
+     Lawrence Tech     3  7   382
+ 49  Faulkner          2  8   377
+ 50  Graceland         6  5   372
+ 51  Union (Kentucky)  4  6   371
+ 52  UVA-Lynchburg     2  9   368
+ 53  Point             4  7   364
+ 54  Missouri Val.     5  5   363
+ 55  Briar Cliff (IA)  4  7   362
+ 56  Friends           9  2   361
+ 57  Peru St.          5  6   359
+ 58  Taylor            2  9   358
+ 59  Montana St.-North 1  9   355
+ 60  Langston          6  4   348
+ 61  Waldorf           4  6   347
+ 62  Kansas Weslyn     8  3   337
+     Southwestern, KS  8  3   337
+ 64  Ave Maria         4  6   332
+ 65  Webber College    3  7   330
+ 66  Mount Marty       3  8   328
+ 67  Jamestown         2  9   327
+ 68  Warner            4  6   323
+ 69  Doane             2  9   321
+     William Penn      4  6   321
+ 71  St. Ambrose       1  9   317
+ 72  Panhandle St.     5  5   313
+ 73  Clarke College    3  8   302
+ 74  Ottawa KS         6  6   296
+     Bethel, Kan.      6  5   296
+ 76  Thomas (GA)       1  8   292
+ 77  Madonna           0 11   291
+ 78  Mayville St.      3  8   284
+ 79  Kentucky Chrstn   1 10   278
+ 80  McPherson         5  6   277
+ 81  Apprentice        1  3   274
+     Missouri Baptist  2  8   274
+ 83  Dakota St.        1  9   273
+ 84  SW Assem Of God   4  6   272
+ 85  Judson IL         0  9   261
+ 86  Avila             4  7   259
+ 87  Fort Lauderdale   1  5   254
+ 88  Cent. Methodist   1 10   241
+ 89  St. Mary's, KS    3  8   239
+     Tabor             3  8   239
+ 91  Culver-Stockton   1 10   238
+ 92  St. Andrews       0 11   230
+ 93  Wayland Baptist   2  8   217
+ 94  Sterling          2  9   215
+ 95  Arkansas Baptist  1  8   203
+ 96  North American    1  9   195
+ 97  Bethany (KS)      1 10   189
+ 98  Texas College     1 10   187

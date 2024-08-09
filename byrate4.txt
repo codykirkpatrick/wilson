@@ -1,0 +1,243 @@
+--- Division III ---
+                       W  L
+                       -  -
+  1  Cortland St.     14  1   666
+  2  Grove City       11  1   647
+  3  Susquehanna      10  1   629
+  4  North Central    14  1   614
+  5  Randolph-Macon   13  1   613
+  6  Johns Hopkins    12  1   604
+  7  Carnegie-Mellon   9  1   594
+  8  Alma             12  1   577
+  9  Wartburg         13  1   575
+     Ithaca            9  3   575
+ 11  Wis.-Whitewater  11  2   560
+ 12  Wash. & Jeff.     8  2   554
+ 13  Wis.-LaCrosse    11  2   552
+ 14  Union (New York) 10  2   549
+ 15  Brockport St.     8  2   545
+ 16  Muhlenberg       10  1   535
+ 17  Wheaton (MA)     10  2   534
+ 18  Mount Union      11  1   530
+ 19  Endicott          9  2   521
+ 20  Aurora           11  1   514
+ 21  Case Reserve      7  3   513
+ 22  Whitworth         9  1   511
+ 23  Hobart            8  2   502
+ 24  DePauw           10  1   500
+ 25  Delaware Val.     9  2   498
+ 26  Utica             8  2   494
+ 27  St. John's, Minn. 8  2   493
+ 28  John Carroll      8  2   492
+ 29  Springfield       9  2   491
+ 30  Hope (MI)         8  2   487
+ 31  Trinity (TX)     10  2   485
+ 32  Bethel, Minn.     8  3   484
+ 33  Westminster (PA)  6  4   483
+     Wis.-Riv. Falls   7  3   483
+ 35  Hardin-Simmons    9  2   482
+     Augustana (IL)    8  2   482
+ 37  Rensselaer        7  3   477
+ 38  Wis.-Oshkosh      6  4   473
+     Coe               9  2   473
+ 40  Wis.-Platteville  6  4   471
+ 41  Marietta          8  2   468
+ 42  Franklin&Marshall 7  3   465
+ 43  Mount St. Joseph  9  2   456
+ 44  Ursinus           7  3   453
+ 45  Linfield          8  1   449
+ 46  Dickinson         6  4   448
+ 47  Washington StL    7  3   446
+ 48  W. New England    7  3   442
+ 49  King's Coll. (PA) 8  2   438
+     Central (Iowa)    8  2   438
+ 51  Rochester (NY)    5  5   432
+ 52  Geneva            4  6   430
+ 53  Wis.-Stout        4  6   429
+     Washington & Lee  8  2   429
+ 55  Wittenberg        7  3   428
+ 56  Wabash            7  3   427
+ 57  Carleton          7  3   425
+ 58  Christphr Newport 7  4   422
+     Baldwin-Wallace   6  4   422
+ 60  Gustav Adolphus   6  4   421
+ 61  Salisbury         6  4   419
+ 62  Albion            7  3   417
+ 63  Stevenson         7  3   415
+ 64  Widener           7  3   414
+ 65  Salve Regina      8  2   413
+ 66  Bridgewater,Va.   7  3   412
+ 67  Alfred U          4  6   409
+ 68  Denison           7  3   408
+ 69  MaryHardin-Baylor 6  4   407
+ 70  Berry College     9  1   404
+     Rose-Hulman       7  3   404
+ 72  St. John Fisher   5  5   403
+ 73  Heidelberg        6  4   402
+ 74  St. Vincent (PA)  3  7   401
+     Thiel             3  7   401
+     Allegheny         3  7   401
+     Lebanon Val.      6  5   401
+     Husson            7  3   401
+ 79  Montclair St.     5  5   396
+ 80  Augsburg          6  4   394
+     Wis.-Eau Claire   2  8   394
+ 82  Merchant Marine   7  2   393
+ 83  Claremont-Mudd    8  2   391
+ 84  Chapman           6  3   390
+     Trine             6  4   390
+ 86  Cncrdia-Mhd       5  5   387
+ 87  Middlebury        8  1   385
+     Trinity Coll (CT) 8  1   385
+     Carroll (WI)      5  5   385
+ 90  North Park        5  5   384
+ 91  Rowan             5  5   382
+ 92  Morrisville St.   4  6   380
+ 93  Dubuque           5  5   376
+ 94  Lycoming          4  6   375
+ 95  Ohio Northern     4  6   373
+ 96  College of NJ     5  5   372
+     Waynesburg        2  8   372
+ 98  Monmouth (IL)     8  2   370
+     Illinois Col.     9  2   370
+100  Hanover           7  3   369
+101  Hampden-Sydney    6  4   368
+102  Wilkes            4  6   366
+103  New England U.    6  4   363
+104  Catholic U.       5  5   359
+105  Pomona-Pitzer     6  4   357
+106  Loras             5  5   355
+107  FDU-Florham       5  5   353
+108  Illinois Weslyn   3  7   351
+109  St. Olaf          5  5   348
+     Carthage          3  7   348
+     Redlands          5  5   348
+112  St. Lawrence      3  7   347
+113  Wis.-Stevens Pt.  1  9   346
+     Belhaven          9  2   346
+115  Muskingum         4  6   345
+     Ohio Weslyn       5  5   345
+117  E. Texas Baptist  5  5   342
+118  Moravian          4  6   340
+     Huntingdon        8  2   340
+120  Maryville (TN)    8  2   339
+121  Tufts             6  3   335
+     Wesleyan          6  3   335
+123  Olivet (MI)       4  6   333
+124  Howard Payne      6  4   332
+125  Shenandoah        5  5   330
+     Misericordia      4  6   330
+127  Coast Guard       5  5   328
+128  SUNY Maritime     5  5   327
+129  Averett College   5  5   326
+130  St. Norbert       7  3   325
+131  Mass.-Dartmouth   9  1   324
+     Pac. Lutheran     5  5   324
+133  Wilmington (DE)   3  7   323
+134  McMurry           6  4   320
+135  Centre            6  4   319
+136  Kalamazoo         5  5   316
+     Curry             3  7   316
+     Gettysburg        2  8   316
+     MIT               4  5   316
+140  Wooster           4  6   315
+141  Sul Ross St.      4  6   313
+     Lake Forest       7  3   313
+143  Concordia (WI)    7  3   311
+     Lewis & Clark     5  5   311
+145  Franklin          4  6   308
+146  Cornell (IA)      6  4   306
+147  Chicago           6  4   304
+     Bethany,W.Va.     0 10   304
+149  Hamline           4  6   303
+     Alfred State      6  5   303
+151  Northwestern (MN) 6  4   299
+152  George Fox        4  6   296
+     Wm. Paterson      2  8   296
+154  Cal Lutheran      3  7   295
+155  Nebraska Weslyn   4  6   293
+156  Elmhurst          2  8   292
+157  Benedictine (IL)  5  4   291
+158  Amherst           4  5   290
+     Bowdoin           4  5   290
+160  W. Connecticut    7  3   289
+161  Rhodes (TN)       6  4   281
+     Defiance          4  6   281
+163  Eastern (VA)      2  8   279
+164  Ferrum            3  7   277
+165  Simpson (IA)      3  7   275
+     Brevard           5  5   275
+167  Ripon             5  5   273
+     Minnesota-Morris  7  4   273
+169  Nichols           3  7   272
+170  Worcester Tech    3  7   271
+     Bluffton          4  6   271
+172  Puget Sound       3  6   270
+173  Capital           1  9   269
+174  Keystone          2  8   268
+175  Colby             3  6   265
+     Hamilton          3  6   265
+     Williams          3  6   265
+178  Anna Maria        5  4   263
+179  LaVerne           2  8   262
+180  Wisc. Lutheran    4  6   261
+181  Macalester        3  7   258
+182  Bridgewater,Mass. 7  3   256
+183  Buena Vista       2  8   255
+     Pacific (OR)      2  7   255
+     Lakeland          4  6   255
+     Texas Lutheran    2  8   255
+187  Buffalo St.       2  8   253
+188  Hendrix-Henderson 3  7   251
+189  Kenyon            2  8   248
+190  Birmingham South. 3  7   247
+191  Lyon College      4  4   246
+192  NC Wesleyan       4  6   243
+     Gallaudet         4  5   243
+     Juniata           1  9   243
+195  Alvernia          1  9   241
+     Guilford          2  8   241
+197  Hartwick          1  9   238
+198  Eureka            4  6   236
+     Millikin          0 10   236
+200  Southwestern (TX) 3  7   234
+201  Kean              0 10   233
+202  McDaniel          0 10   231
+203  Hiram Col.        1  9   229
+204  Sewanee           3  7   225
+205  Willamette        1  9   222
+206  Adrian            1  9   221
+207  Norwich           1  9   220
+208  Greenville        5  5   215
+209  Knox              3  7   213
+     Otterbein         0 10   213
+211  St. Scholastica   2  8   212
+212  Framingham St.    5  4   203
+213  Austin Col.       1  9   196
+214  Millsaps          1  9   192
+215  Oberlin           1  9   191
+216  Greensboro        2  8   190
+     Manchester        1  9   190
+218  Albright          0 10   186
+     Rockford          2  8   186
+220  Martin Luther     2  8   185
+221  Grinnell          2  8   184
+222  Dean Academy      2  8   179
+223  Luther            0 10   174
+     Beloit            2  8   174
+225  Bates             0  9   171
+226  Hilbert           0  8   163
+227  Concordia (IL)    1  9   161
+228  Methodist         2  8   157
+229  Anderson (IN)     0 10   153
+230  Castleton State   2  7   149
+231  Plymouth St.      4  6   143
+232  Westminster (MO)  1  8   142
+233  Crown             1  8   132
+234  Westfield St.     3  7   124
+235  Southern Virginia 1  9   123
+236  Lawrence          0 10    99
+237  Mass. Maritime    2  8    83
+238  La Grange         0  9    66
+239  Worcester St.     1  9    48
+240  Fitchburg St.     0 10   -11

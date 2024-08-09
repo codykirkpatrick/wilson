@@ -1,0 +1,178 @@
+NAIA Football
+Conference Standings as of 01-Jan-24
+Perfomance Ratings are from David Wilson's system
+
+
+                    Appalachian
+
+ 366 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Reinhardt          6  0   313   89    8  3   423  214   460
+Pikeville          5  1   297  124    7  3   383  233   449
+Bluefield St.      3  3   207  201    5  5   333  375   410
+Union (Kentucky)   3  3   129  136    4  6   189  231   371
+Point              3  3   143  137    4  7   214  349   364
+Kentucky Chrstn    1  5    39  237    1 10    51  526   278
+St. Andrews        0  6    35  239    0 11    84  562   230
+
+
+                    Frontier
+
+ 509 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+W. Montana         8  2   356  230    9  2   405  243   593
+Idaho College      8  2   416  265   10  3   505  317   592
+Carroll (MT)       6  3   210  177    7  3   236  200   565
+Montana Tech       6  3   283  222    7  4   348  286   565
+S. Oregon          5  4   259  183    6  4   308  190   538
+Rocky Mountain     5  4   258  164    6  4   278  183   530
+E. Oregon          2  7   194  236    2  8   222  278   448
+Arizona Chr.       1  7   140  320    2  8   196  382   397
+Montana St.-North  0  9    45  364    1  9    59  364   355
+
+
+                    Great Plains
+
+ 404 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Northwestern (IA) 11  0   430  151   14  1   547  233   602
+Morningside        8  2   394  167    9  3   435  208   469
+Dordt              8  3   343  156    9  3   378  163   466
+Midland (NE)       5  5   293  273    6  5   315  287   395
+Dakota Wesleyan    5  5   228  271    6  5   251  284   394
+Concordia (NE)     5  5   303  319    5  5   303  319   395
+Hastings           4  6   223  345    5  6   260  376   382
+Briar Cliff (IA)   4  6   164  330    4  7   184  365   362
+Mount Marty        2  8   246  359    3  8   274  382   328
+Jamestown          2  8   195  279    2  9   210  302   327
+Doane              2  8   131  300    2  9   148  342   321
+
+
+                    Heart of America
+
+ 360 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Grand View        10  0   444   53   11  1   489   87   539
+MidAmerica Nazar   8  2   309  261    9  2   333  282   448
+Baker              8  2   357  165    9  3   434  235   454
+Benedictine (KS)   8  2   415  181    8  3   432  201   411
+Graceland          5  5   345  287    6  5   387  304   372
+Missouri Val.      5  5   269  353    5  5   269  353   363
+Peru St.           5  5   294  326    5  6   325  363   359
+William Penn       4  6   200  201    4  6   200  201   321
+Clarke College     3  7   150  344    3  8   164  366   302
+Missouri Baptist   2  8   238  302    2  8   238  302   274
+Cent. Methodist    1  9   159  459    1 10   179  493   241
+Culver-Stockton    1  9   102  350    1 10   125  378   238
+
+
+                    Kansas
+
+ 290 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Evangel           11  0   345  164   11  1   358  204   433
+Friends            9  2   509  188    9  2   509  188   361
+Southwestern, KS   8  3   326  218    8  3   326  218   337
+Kansas Weslyn      8  3   240  163    8  3   240  163   337
+Bethel, Kan.       6  5   317  258    6  5   317  258   296
+Ottawa KS          6  5   328  300    6  6   335  335   296
+McPherson          5  6   323  276    5  6   323  276   277
+Avila              4  7   314  378    4  7   314  378   259
+Tabor              3  8   198  314    3  8   198  314   239
+St. Mary's, KS     3  8   319  411    3  8   319  411   239
+Sterling           2  9   171  439    2  9   171  439   215
+Bethany (KS)       1 10   144  425    1 10   144  425   189
+
+
+                    Mid-South
+
+ 460 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Georgetown, Ky.    6  0   197   65   10  2   415  184   547
+Bethel (TN)        5  1   210   91   11  2   545  208   530
+Lindsey Wilson     4  2   185   95    7  3   364  174   492
+Cumberland (KY)    2  4   136  175    6  4   237  220   460
+Cumberland, Tenn.  2  4    70  165    5  5   201  226   406
+Campbellsville     2  4   143  168    4  6   284  257   409
+Faulkner           0  6    39  221    2  8   102  315   377
+
+
+                    Mid-States Association
+
+ 421 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Indiana Wesleyan   7  1   292  133   10  2   396  221   545
+Marian (IN)        9  2   355  186    9  2   355  186   527
+St. Xavier         7  2   305  161    8  4   367  241   518
+St. Francis, Ill.  6  2   231  108    7  3   318  143   440
+Concordia (MI)     6  3   306  134    7  3   330  157   483
+Siena Heights      6  3   296  208    6  4   306  246   448
+Olivet Nazarene    5  3   292  159    6  4   350  227   437
+St. Francis, Ind.  6  4   311  246    6  4   311  246   462
+Lawrence Tech      2  7   184  317    3  7   205  336   382
+Taylor             2  7   238  311    2  9   271  404   358
+St. Ambrose        1  6   118  254    1  9   168  364   317
+Judson IL          0  8    87  402    0  9   115  458   261
+Madonna            0  9    65  461    0 11    72  592   291
+
+
+                    North Star Association
+
+ 368 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Dickinson St.      8  0   346   93   10  2   427  190   513
+Valley City St.    6  2   169  175    7  3   206  221   425
+Waldorf            3  5   191  229    4  6   233  312   347
+Mayville St.       2  6   147  220    3  8   222  287   284
+Dakota St.         1  7    87  223    1  9   106  277   273
+
+
+                    Sooner Athletic
+
+ 312 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Ottawa (AZ)        7  1   460  137    8  1   497  144   437
+LA Christian       7  1   335  156    9  2   452  226   414
+Texas Wesleyan     7  1   342  118    8  2   427  166   415
+Langston           5  3   271  214    6  4   332  238   348
+Panhandle St.      4  4   210  273    5  5   274  338   313
+SW Assem Of God    3  5   187  286    4  6   212  334   272
+Wayland Baptist    1  7   153  285    2  8   210  326   217
+Arkansas Baptist   1  7   105  362    1  8   105  428   203
+Texas College      1  7   133  365    1 10   161  561   187
+
+
+                    Sun
+
+ 395 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+Keiser             8  0   387  111   12  2   571  259   589
+St. Thomas (FL)    6  2   370  142    9  4   589  243   484
+Florida Memorial   5  2   264  184    6  4   371  313   427
+Southeastern       4  3   205  167    5  5   261  226   386
+Ave Maria          2  5   130  286    4  6   226  327   332
+Webber College     2  5   139  206    3  7   229  277   330
+Warner             1  6   127  371    4  6   265  413   323
+Thomas (GA)        1  6   126  281    1  8   157  349   292
+
+
+                    Other Schools
+
+ 295 Ave. Rating  /--Conference---\  /---Over-all----\ Perf
+                   W  L   Pts  Opp    W  L   Pts  Opp  Rate
+                   -  -   ---  ---    -  -   ---  ---  ----
+UVA-Lynchburg      1  0    42   19    2  9   169  479   368
+Apprentice         0  0     0    0    1  3    88  114   274
+Fort Lauderdale    1  1    53   71    1  5    86  286   254
+Lincoln (CA)       0  0     0    0    0 12   100  460   383
+North American     0  1    29   34    1  9    92  496   195

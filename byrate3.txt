@@ -1,0 +1,168 @@
+--- Division II ---
+                       W  L
+                       -  -
+  1  Harding          15  0   785
+  2  Colorado Mines   14  1   733
+  3  Grand Valley St. 11  2   706
+  4  Cent. Missouri   11  2   692
+  5  S. Arkansas      10  2   678
+  6  Pittsburg St.    11  2   673
+  7  Henderson St.     9  3   659
+  8  Valdosta St.     12  2   651
+  9  Western Colorado 10  2   648
+ 10  Augustana (SD)   11  2   645
+ 11  Delta St.        10  2   640
+     Ouachita          8  3   640
+ 13  Ferris St.        8  3   637
+ 14  Lenoir-Rhyne     13  2   636
+ 15  Cent. Washington  9  4   635
+     TX-Permian Basin 10  2   635
+ 17  Emporia St.       9  3   633
+ 18  Missouri West. St 8  4   622
+ 19  Kutztown         12  3   620
+ 20  Slippery Rock    12  2   618
+     Bemidji St.       9  3   618
+ 22  CSU-Pueblo        8  3   615
+ 23  Oklahoma Baptist  7  4   613
+ 24  Angelo St.        7  3   611
+ 25  Minnesota St.     9  3   604
+ 26  NW Missouri St.   7  4   603
+     Fort Hays St.     7  4   603
+ 28  West Florida      8  4   601
+ 29  Tiffin           11  1   594
+     Charleston (WV)  10  2   594
+     TX A&M-Kingsville 7  3   594
+ 32  Davenport (MI)    8  2   592
+ 33  West Georgia      6  4   585
+ 34  So. Nazarene      6  6   582
+     Wayne State (NE)  8  3   582
+ 36  Minn.-Duluth      9  2   580
+ 37  East Stroudsburg  9  3   579
+     Indianapolis      9  2   579
+ 39  California, Pa.   7  3   576
+ 40  Limestone         8  4   573
+ 41  Shepherd          9  3   571
+ 42  West Alabama      5  5   565
+ 43  Benedict         11  1   564
+ 44  Arkansas Tech     5  6   563
+     SE Oklahoma       5  6   563
+ 46  Frostburg St.     7  3   560
+     Truman State      9  2   560
+ 48  Mars Hill         8  2   559
+ 49  Wingate           8  3   556
+ 50  MSU-Moorhead      7  4   554
+     Cent. Oklahoma    5  6   554
+     Missouri Southern 5  6   554
+ 53  Saginaw Val. St.  6  5   553
+     North Greenville  5  5   553
+ 55  Ashland           9  3   552
+ 56  CO Mesa           6  5   551
+ 57  UNC Pembroke      7  3   550
+ 58  Fairmont St.      8  3   547
+ 59  Black Hills St.   6  5   546
+ 60  Notre Dame (OH)   7  3   543
+ 61  Virginia Union   10  2   533
+     Midwest TX St     4  6   533
+ 63  West Chester      6  5   527
+ 64  Glenville St.     6  4   525
+ 65  Chadron St.       5  6   524
+ 66  Indiana, Pa.      6  5   523
+ 67  Seton Hill        6  5   519
+     Winona St.        5  6   519
+ 69  Barton            6  5   516
+ 70  New Haven         8  3   514
+ 71  S. Dakota Mines   5  6   513
+ 72  Mississippi Col.  3  7   512
+ 73  Tusculum          6  5   511
+ 74  Findlay           7  4   510
+     Fayetteville St.  8  3   510
+ 76  E. Cent. Oklahoma 3  8   507
+ 77  Gannon            5  6   505
+     Michigan Tech     5  5   505
+     McKendree         5  6   505
+ 80  W. Texas A&M      3  7   502
+     Nebraska-Kearney  3  8   502
+     Hillsdale         6  5   502
+     Wheeling U.       5  5   502
+ 84  Virginia St.      8  2   501
+ 85  Alderson-Broaddus 0  0   500
+ 86  E. New Mexico     5  6   498
+ 87  Northern St. (SD) 5  6   496
+     Catawba           5  6   496
+     W. Oregon         3  8   496
+ 90  Miles             7  3   492
+     W. Virginia St.   4  6   492
+     Wayne State (MI)  3  8   492
+ 93  Newberry          4  7   486
+ 94  Roosevelt         6  4   484
+     Lock Haven        5  6   484
+ 96  Carson-Newman     5  6   483
+ 97  Northwood (MI)    5  6   482
+ 98  West Liberty      4  6   481
+ 99  Millersville      3  8   479
+100  Assumption        5  5   477
+     St. Anselm        6  4   477
+102  Ark Monticello    2  9   476
+     Allen             6  3   476
+104  Bentley           6  4   475
+     Albany State (GA) 6  5   475
+106  Shippensburg      3  8   474
+107  Thomas More       5  6   473
+108  Fort Valley St.   8  3   472
+109  Sioux Falls       3  8   470
+     Edinboro          3  8   470
+111  Bloomsburg        3  8   467
+112  SW Baptist        4  7   465
+     Washburn          2  9   465
+     Missouri S and T  4  7   465
+115  Emory & Henry     5  6   462
+116  Quincy            6  5   461
+117  Concordia (MN)    3  8   458
+118  Mercyhurst        2  9   457
+     Shorter           3  8   457
+120  Adams St.         3  8   452
+121  Ky. Wesleyan      4  7   450
+122  Bowie St.         6  4   448
+     Ohio Dominican    4  7   448
+124  Tuskegee          7  4   446
+125  Edward Waters     6  4   444
+126  SW Minnesota      2  9   440
+127  NW Oklahoma       1 10   437
+128  S. Connecticut    4  6   435
+     W. New Mexico     2  8   435
+130  Mary              2  9   434
+131  Clarion           2  9   430
+132  N.Mex.Highlands   2  9   429
+133  Johnson Smith     7  4   427
+134  Walsh OH          3  8   426
+135  NortheasternSt OK 1 10   425
+136  Pace              3  7   418
+137  Upper Iowa        3  8   416
+138  Central St. OH    5  5   415
+139  Livingstone       4  6   414
+140  Franklin Pierce   4  6   412
+141  Virginia-Wise     2  9   410
+     Lincoln (PA)      4  6   410
+143  American Intl.    3  8   404
+144  Minot St.         1 10   403
+145  William Jewell    2  8   399
+146  Concord           1 10   396
+147  Chowan            0 10   394
+148  Shaw              3  7   393
+149  Winston-Salem     4  6   390
+150  SW Oklahoma St.   0 11   387
+151  Kentucky St.      3  7   380
+152  Eliz. City St.    3  7   377
+153  Lincoln (MO)      0 11   371
+154  Post              1  9   358
+155  Lake Erie         1 10   355
+156  Savannah St.      2  8   347
+157  Bluefield         1  9   346
+158  Erskine           0 11   345
+159  Lane College      2  8   334
+160  W. Va. Weslyn     0 10   331
+161  Morehouse         1  9   329
+162  Fort Lewis        0 11   327
+163  N. Michigan       0 11   323
+164  St. Augustine's   0 10   298
+165  Clark Atlanta     0 10   248

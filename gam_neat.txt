@@ -1,0 +1,4285 @@
+                   24-Aug-23
+Valley City St.   23   Jamestown         15
+                   26-Aug-23
+Albany (NY)       34   Fordham           13
+Avila             46   Bethany (KS)      23
+Bethel (TN)       51   Point             13
+Bethel, Kan.      53   Sterling           3
+Bluefield St.     50   Florida Memorial  47
+Cumberland (KY)   44   Kentucky Chrstn    0
+Dakota Wesleyan   23   Dakota St.        13
+Evangel           17   Kansas Weslyn      7
+Friends           64   St. Mary's, KS    20
+Graceland         42   Doane             17
+Hastings          37   Peru St.          31
+Idaho College     37   Lincoln (CA)       7
+Indiana Wesleyan  56   Lawrence Tech      7
+Jackson St.       37   S. Carolina St.    7
+Jacksonville St.  17   Texas-El Paso     14
+Kentucky St.      34   Clark Atlanta     20
+Louisiana Tech    22   Florida Int.      17
+Massachusetts     41   New Mexico St.    30
+McPherson         51   Tabor             17
+Mercer            17   North Alabama      7
+MidAmerica Nazar  24   Langston          21
+Midland (NE)      22   Clarke College    14
+Montana St.-North 14   Mayville St.       0
+Morningside       20   Benedictine (KS)  17
+Mount Marty       28   Culver-Stockton   23
+Notre Dame        42   Navy               3
+Ottawa (AZ)       37   Arizona Chr.       7
+Pikeville         28   Campbellsville    27
+Rocky Mountain    20   Dickinson St.     19
+San Diego St.     20   Ohio University   13
+Southern Cal      56   San Jose St.      28
+Southwestern, KS  24   Ottawa KS         22
+St. Thomas (FL)   70   Fort Lauderdale   14
+Taylor            37   St. Ambrose       34
+Union (Kentucky)  27   Cumberland, Tenn.  0
+Vanderbilt        35   Hawaii            28
+Waldorf           35   Briar Cliff (IA)  20
+Webber College    49   St. Andrews       14
+                   31-Aug-23
+Abilene Christian 31   N. Colorado       11
+Angelo St.        38   West Alabama      14
+Arizona St.       24   S. Utah           21
+Ark Monticello    49   NW Oklahoma       24
+Barton            41   Chowan             0
+Belhaven          47   Millsaps           7
+Beloit            34   Rockford          27
+Bemidji St.       49   Northern St. (SD) 13
+Birmingham South. 20   McMurry           19
+Brockport St.     42   Buffalo St.        6
+Carroll (MT)      21   Montana Tech      19
+Carson-Newman     35   UVA-Lynchburg      3
+Cent. Missouri    45   Missouri West. St 38
+Cent. Oklahoma    24   Nebraska-Kearney  21
+Chadron St.       35   Quincy            34
+Charleston (WV)   22   Gannon            13
+Charleston South. 13   North Greenville  10
+Clarion           30   Lincoln (PA)      20
+Colorado Mines    31   Grand Valley St.  28
+Concordia (MN)    43   Upper Iowa        20
+Delaware          37   Stony Brook       13
+Delta St.         48   Missouri S and T  20
+E. Illinois       27   Indiana St.        0
+E. New Mexico     28   N.Mex.Highlands   26
+East Stroudsburg  62   Pace               9
+Emporia St.       56   Lincoln (MO)      10
+Fairmont St.      34   Bloomsburg        30
+Ferris St.        54   Mercyhurst        12
+Fort Hays St.     56   NortheasternSt OK  0
+Frostburg St.     27   New Haven         24
+Furman            45   Tennessee Tech    10
+Georgia State     42   Rhode Island      35
+Glenville St.     44   Northwood (MI)     9
+Harding           53   So. Nazarene      20
+Heidelberg        68   Hiram Col.        14
+Henderson St.     41   E. Cent. Oklahoma 13
+Idaho             42   Lamar             17
+Indiana, Pa.      24   Ashland           17
+Kennesaw State    38   Tusculum           7
+LA Christian      34   E. Texas Baptist  14
+Lindenwood        77   Wis.-Stevens Pt.   9
+Millersville      33   St. Anselm         7
+Minn.-Duluth      47   N. Michigan       10
+Minnesota         13   Nebraska          10
+Minnesota St.     54   Sioux Falls       26
+Mississippi Col.  17   Keiser            14
+Missouri          35   South Dakota      10
+Morehead St.      37   W. Virginia St.   35
+N. Carolina St.   24   Connecticut       14
+NW Missouri St.   31   Missouri Southern 24
+Oklahoma Baptist  23   Arkansas Tech     21
+Ouachita          38   SW Oklahoma St.   14
+Pittsburg St.     34   Washburn           7
+Reinhardt         36   Faulkner           3
+S. Arkansas       34   SE Oklahoma       19
+S. Dakota St.     45   W. Oregon          7
+SW Minnesota      28   Minot St.         23
+Sacramento St.    38   Nicholls St.      24
+Saginaw Val. St.  34   Winona St.        24
+Samford           69   Shorter           14
+Stevenson         20   Rowan             17
+Tulsa             42   Ark Pine Bluff     7
+UAB               35   N. Carolina A&T    6
+UC Davis          48   TX A&M-Commerce   10
+UCF               56   Kent State         6
+Utah              24   Florida           11
+W. Michigan       35   St. Francis, Pa.  17
+Wake Forest       37   Elon College      17
+Walsh OH          24   West Liberty      21
+Wayne State (NE)  31   MSU-Moorhead      23
+Weber St.         35   Cent. Washington  10
+West Georgia      21   Limestone         19
+Wheeling U.       35   Seton Hill        24
+William & Mary    34   Campbell          24
+Wis.-LaCrosse     31   Dakota St.         6
+Wis.-Platteville  80   Lakeland          13
+Youngstown St.    52   Valparaiso        10
+                   01-Sep-23
+Augsburg          52   Northwestern (MN) 10
+Catholic U.       34   McDaniel           7
+E. Michigan       33   Howard U.         23
+Franklin&Marshall 16   Lebanon Val.      12
+Hardin-Simmons    47   Albright           3
+Hobart            31   Alfred U           9
+Kansas            48   Missouri St.      17
+Louisville        39   Georgia Tech      34
+Mass.-Dartmouth   57   Nichols            6
+Miami (FL)        38   Miami (OH)         3
+Michigan St.      31   Cent. Michigan     7
+Muhlenberg        53   Moravian          12
+S. Dakota Mines   31   Valley City St.   14
+Salve Regina      48   Curry              0
+Stanford          37   Hawaii            24
+UNC Pembroke      19   Fayetteville St.  17
+Ursinus           38   Alvernia           6
+West Florida      35   Ky. Wesleyan       3
+Wingate           30   Albany State (GA)  7
+Worcester Tech    44   Worcester St.     13
+                   02-Sep-23
+Adams St.         35   Lincoln (CA)      16
+Air Force         42   Robert Morris PA   7
+Alabama           56   Middle Tenn.       7
+Alabama St.       14   Southern U.       10
+Albion            41   Carthage          20
+Alfred State      24   Misericordia      14
+Allegheny         39   Waynesburg        36
+Allen             24   Erskine           17
+Alma              52   Ohio Northern      7
+Anna Maria        51   Westfield St.     26
+Appalachian St.   45   Gardner-Webb      24
+Arizona           38   N. Arizona         3
+Arkansas          56   W. Carolina       13
+Assumption        31   Kutztown          20
+Auburn            59   Massachusetts     14
+Augustana (IL)    49   Simpson (IA)      27
+Augustana (SD)    38   Mary               7
+Aurora            38   Hope (MI)         17
+Averett College   34   Apprentice        14
+Baker             36   Peru St.          17
+Benedict          52   Shaw               0
+Benedictine (KS)  63   Clarke College    14
+Berry College     67   Huntingdon        34
+Bethel, Kan.      45   St. Mary's, KS    22
+Bluefield         41   Livingstone        7
+Bluefield St.     34   Campbellsville    21
+Bluffton          51   Kenyon            35
+Bowie St.         22   Delaware St.      11
+Brigham Young     14   Sam Houston St.    0
+CSU-Pueblo        37   Midwest TX St      8
+Cal Lutheran      41   Southwestern (TX) 35
+Cal Poly-SLO      27   San Diego         10
+California        58   North Texas       21
+Carnegie-Mellon   31   Geneva             0
+Case Reserve      14   Thiel              0
+Castleton State   25   Plymouth St.      21
+Catawba           31   Eliz. City St.    23
+Central (Iowa)    34   St. Olaf          24
+Central Conn. St. 44   American Intl.     0
+Central St. OH    24   Miss. Valley St.  21
+Charlotte         24   S. Carolina St.    3
+Christphr Newport 45   Southern Virginia  0
+Cincinnati        66   E. Kentucky       13
+Claremont-Mudd    24   Chicago           15
+Coe               56   Cornell (IA)       6
+College of NJ     41   Eastern (VA)      21
+Colorado          45   TCU               42
+Concordia (MI)    54   Taylor            14
+Concordia (WI)    55   Martin Luther     14
+Cortland St.      42   Delaware Val.     13
+Cumberland (KY)   27   Pikeville         20
+Cumberland, Tenn. 19   Webber College    13
+Davenport (MI)    31   Thomas More       17
+DePauw            33   Rose-Hulman       21
+Dean Academy      33   Fitchburg St.     17
+Denison           45   Capital           35
+Dickinson St.     41   Mayville St.      18
+Dordt             49   Doane              7
+Duquesne          49   Edinboro           7
+Elmhurst          14   Adrian             3
+Emory & Henry     56   Concord           10
+Endicott          31   St. Lawrence       0
+Eureka            41   Knox              16
+Evangel           14   Tabor              7
+FDU-Florham       33   Wm. Paterson      29
+Florida Atlantic  42   Monmouth (NJ)     20
+Florida Int.      14   Maine             12
+Florida Memorial  38   Edward Waters     21
+Fordham           46   Wagner            16
+Franklin Pierce   26   Lake Erie         10
+Fresno St.        39   Purdue            35
+Friends           49   Ottawa KS         20
+Georgetown        49   Marist             7
+Georgetown, Ky.   76   Kentucky Chrstn    0
+Georgia           48   Tenn.-Martin       7
+Georgia Southern  34   Citadel            0
+Gettysburg        40   Juniata           20
+Graceland         48   Cent. Methodist    7
+Grand View        24   MidAmerica Nazar   7
+Greenville        41   Concordia (IL)    14
+Grove City        17   Westminster (PA)   7
+Guilford          36   Greensboro        21
+Gustav Adolphus   51   Buena Vista        7
+Hamline           45   Crown             13
+Hampton U.        35   Grambling St.     31
+Hanover           10   Centre             7
+Hastings          24   Dakota Wesleyan   17
+Holy Cross        42   Merrimack         20
+Houston           17   UT San Antonio    14
+Houston Chr.      66   Arkansas Baptist   0
+Howard Payne      17   George Fox         3
+Husson            28   Norwich           14
+Idaho College     42   S. Oregon         16
+Illinois          30   Toledo            28
+Illinois Col.     31   Millikin           0
+Illinois St.      41   Dayton             0
+Indianapolis      39   Hillsdale         20
+Iowa              24   Utah St.          14
+Iowa St.          30   N. Iowa            9
+Jacksonville St.  49   E. Tennessee St.   3
+James Madison     38   Bucknell           3
+Johns Hopkins     27   Ithaca            17
+Johnson Smith     49   W. Va. Weslyn      6
+Kalamazoo         42   Oberlin           10
+Kansas St.        45   SE Missouri        0
+Kansas Weslyn     31   Bethany (KS)       3
+Kentucky          44   Ball St.          14
+Keystone          27   Gallaudet          6
+King's Coll. (PA) 27   Wilkes            23
+Lafayette         19   Sacred Heart      14
+Lake Forest       24   Wisc. Lutheran     0
+Lawrence Tech     21   Ave Maria         19
+Lenoir-Rhyne      45   St. Augustine's    7
+Liberty           34   Bowling Green     24
+Lindsey Wilson    51   St. Andrews       14
+Lock Haven        58   Post               7
+Loras             42   Benedictine (IL)  41
+Louisiana         38   Northwstn St (LA) 13
+Lyon College      18   Grinnell          12
+MIT               41   Bridgewater,Mass. 27
+Macalester        44   Minnesota-Morris  30
+Marian (IN)       40   Judson IL          6
+Marietta          31   St. John Fisher    7
+Marshall          21   Albany (NY)       17
+Maryland          38   Towson St.         6
+Maryville (TN)    28   Sewanee            8
+McPherson         34   Sterling          31
+Memphis           56   Bethune-Cookman   14
+Merchant Marine   52   W. Connecticut    35
+Michigan          30   East Carolina      3
+Midland (NE)      38   Jamestown         17
+Miles             37   Lane College      24
+Mississippi       73   Mercer             7
+Mississippi St.   48   SE Louisiana       7
+Missouri Val.     28   Culver-Stockton    7
+Montana           35   Butler            20
+Montana St.       63   Utah Tech         20
+Morgan St.        17   Richmond          10
+Morrisville St.   24   Kean              14
+Mount Marty       40   Briar Cliff (IA)  14
+Mount St. Joseph  46   Baldwin-Wallace   33
+Mount Union       45   Defiance           6
+Murray St.        41   Presbyterian      10
+Muskingum         31   Ferrum            20
+N. Dakota St.     35   E. Washington     10
+N. Illinois       27   Boston College    24
+N.C. Central      47   Winston-Salem     21
+Nebraska Weslyn   19   Austin Col.        7
+Nevada Las Vegas  44   Bryant College    14
+New England U.    44   Coast Guard       28
+New Hampshire     51   Stonehill         17
+New Mexico St.    58   W. Illinois       21
+Newberry          14   Shippensburg      10
+North Alabama     41   Tn.-Chattanooga   27
+North Carolina    31   South Carolina    17
+North Central     41   Roosevelt          7
+North Dakota      55   Drake              7
+North Park        27   Manchester         0
+Northwestern (IA) 48   Concordia (NE)    35
+Notre Dame        56   Tennessee St.      3
+Notre Dame (OH)   23   Ohio Dominican    21
+Ohio State        23   Indiana            3
+Ohio University   27   LIU-Brooklyn      10
+Ohio Weslyn       35   Otterbein         21
+Oklahoma          73   Arkansas St.       0
+Oklahoma St.      27   Cent. Arkansas    13
+Olivet (MI)       35   Franklin          32
+Olivet Nazarene   55   Madonna            0
+Oregon            81   Portland St.       7
+Penn State        38   West Virginia     15
+Pittsburgh        45   Wofford            7
+Prairie View      37   Texas Southern    34
+Puget Sound       42   Lewis & Clark     38
+Randolph-Macon    51   NC Wesleyan        9
+Redlands          24   Pac. Lutheran     14
+Rensselaer        38   Dickinson         27
+Rhodes (TN)       47   Westminster (MO)   0
+Rocky Mountain    45   Montana St.-North  0
+S. Illinois       49   Austin Peay       23
+SUNY Maritime     34   Hartwick          11
+SW Baptist        65   Panhandle St.      7
+Salisbury         28   Washington & Lee   7
+San Diego St.     36   Idaho St.         28
+Savannah St.      23   Southeastern      20
+Shenandoah        44   Methodist         29
+Shepherd          27   S. Connecticut    26
+Slippery Rock     28   Wayne State (MI)  17
+Southern Cal      66   Nevada            14
+Southern Meth.    38   Louisiana Tech    14
+Southern Miss.    40   Alcorn State      14
+Southwestern, KS  49   Avila             41
+Springfield       28   W. New England    14
+St. Francis, Ill. 63   Waldorf            7
+St. John's, Minn. 34   Trinity (TX)      31
+St. Norbert       23   Ripon              7
+St. Thomas (MN)   36   Black Hills St.   26
+St. Xavier        45   St. Francis, Ind. 28
+Stetson           34   St. Thomas (FL)   33
+Susquehanna       51   Bridgewater,Va.   19
+Syracuse          65   Colgate            0
+TX A&M-Kingsville 30   CO Mesa           10
+TX-Permian Basin  96   Texas College      0
+Tarleton St.      52   McNeese St.       34
+Temple            24   Akron             21
+Tennessee         49   Virginia          13
+Texas             37   Rice              10
+Texas A&M         52   New Mexico        10
+Texas State       42   Baylor            31
+Texas Wesleyan    36   Ottawa (AZ)       20
+Texas-El Paso     28   Incarnate Word    14
+Tiffin            79   McKendree         14
+Trine             61   Anderson (IN)      0
+Troy St.          48   Stephen F.Austin  30
+Truman State      20   Findlay           10
+Tulane            37   South Alabama     17
+UCLA              27   Coastal Carolina  13
+UL Monroe         17   Army              13
+Union (New York)  65   Hilbert            0
+Utica             20   Rochester (NY)    17
+VMI               12   Davidson           7
+Valdosta St.      63   Point             10
+Vanderbilt        47   Alabama A&M       13
+Villanova         38   Lehigh            10
+Virginia St.      33   Norfolk St.       24
+Virginia Tech     36   Old Dominion      17
+Virginia-Wise     48   Union (Kentucky)   0
+W. Kentucky       41   South Florida     24
+W. Montana        38   E. Oregon         14
+W. New Mexico     42   Sul Ross St.      28
+Wabash            29   Hampden-Sydney    28
+Warner            29   Brevard           23
+Wartburg          62   Monmouth (IL)     35
+Wash. & Jeff.     51   St. Vincent (PA)   0
+Washington        56   Boise St.         19
+Washington St.    50   Colorado St.      24
+Washington StL    44   Hendrix-Henderson 27
+Wayland Baptist   50   North American    14
+West Chester      20   Bentley           19
+Western Colorado  28   W. Texas A&M       6
+Widener           42   Lycoming          21
+Willamette        24   LaVerne           21
+William Jewell    42   Fort Lewis         6
+William Penn       6   Missouri Baptist   2
+Wilmington (DE)   63   Wooster           43
+Wis.-Eau Claire   31   Cncrdia-Mhd       28
+Wis.-Oshkosh      48   Texas Lutheran    31
+Wis.-Riv. Falls   45   MaryHardin-Baylor 22
+Wis.-Stout        35   St. Ambrose        7
+Wis.-Whitewater   27   John Carroll      23
+Wisconsin         38   Buffalo           17
+Wittenberg        28   Dubuque           27
+Wyoming           35   Texas Tech        33
+                   03-Sep-23
+Florida A&M       28   Jackson St.       10
+Florida St.       45   Louisiana St.     24
+Oregon St.        42   San Jose St.      17
+Rutgers           24   Northwestern       7
+Tuskegee          37   Fort Valley St.   31
+Virginia Union    45   Morehouse         13
+                   04-Sep-23
+Duke              28   Clemson            7
+                   07-Sep-23
+Charleston (WV)   54   Concord           14
+Emporia St.       33   NW Missouri St.   13
+Fairmont St.      42   West Liberty      29
+Louisville        56   Murray St.         0
+Mars Hill         15   Wingate           10
+Missouri Southern 30   Washburn          23
+Pittsburg St.     40   Fort Hays St.     14
+S. Arkansas       24   E. Cent. Oklahoma 17
+Salve Regina      29   Framingham St.     0
+W. Virginia St.   37   UNC Pembroke      35
+                   08-Sep-23
+Barton            33   Davidson          31
+Indiana           41   Indiana St.        7
+Kansas            34   Illinois          23
+Rhode Island      35   Stony Brook       14
+SUNY Maritime     14   Mass. Maritime     7
+St. Lawrence      14   Norwich            7
+W. New England    46   Westfield St.      0
+Worcester Tech    24   Bridgewater,Mass. 21
+                   09-Sep-23
+Abilene Christian 45   Prairie View      16
+Air Force         13   Sam Houston St.    3
+Akron             24   Morgan St.        21
+Alabama A&M       51   Lane College      13
+Albion            42   Bluffton          20
+Alfred U          34   Juniata            0
+Alma              68   Manchester         0
+American Intl.    27   Franklin Pierce   24
+Apprentice        37   Buffalo St.       23
+Arizona Chr.      49   Fort Lewis        25
+Ark Monticello    58   SW Oklahoma St.   21
+Arkansas          28   Kent State         6
+Army              57   Delaware St.       0
+Assumption        42   S. Connecticut    29
+Auburn            14   California        10
+Augustana (SD)    27   Chadron St.        3
+Aurora            45   Franklin          30
+Averett College   34   Greensboro         7
+Baker             45   Clarke College     0
+Baldwin-Wallace   61   Wilmington (DE)   25
+Belhaven          48   Lyon College      15
+Bemidji St.       34   SW Minnesota      14
+Benedict          34   Edward Waters      0
+Berry College     70   La Grange          3
+Bethany (KS)      28   Tabor             17
+Bethel (TN)       77   St. Andrews        0
+Bethune-Cookman   31   Savannah St.       6
+Black Hills St.   39   SW Baptist        33
+Bloomsburg        21   Clarion            7
+Boston College    31   Holy Cross        28
+Bowling Green     38   E. Illinois       15
+Bridgewater,Va.   35   Southern Virginia  9
+Brigham Young     41   S. Utah           16
+Bryant College    21   LIU-Brooklyn      10
+Bucknell          21   VMI               13
+Butler            41   Taylor            13
+CO Mesa           28   San Diego         21
+California, Pa.   31   Kutztown          20
+Campbell          56   Citadel            7
+Campbellsville    56   Kentucky Chrstn    0
+Carleton          45   Pomona-Pitzer     24
+Carnegie-Mellon   38   St. Vincent (PA)   0
+Carroll (MT)      26   St. Thomas (FL)   23
+Carroll (WI)      51   Wisc. Lutheran     7
+Castleton State   32   Fitchburg St.      3
+Catawba           55   Livingstone       15
+Cent. Arkansas    70   Texas College      2
+Cent. Methodist   16   Culver-Stockton   11
+Cent. Michigan    45   New Hampshire     42
+Cent. Missouri    41   Cent. Oklahoma    17
+Central (Iowa)    38   Illinois Weslyn   13
+Cincinnati        27   Pittsburgh        21
+Clemson           66   Charleston South. 17
+Cncrdia-Mhd       26   Pac. Lutheran     21
+Coast Guard       93   Anna Maria        24
+Coastal Carolina  30   Jacksonville St.  16
+Coe               44   Wis.-Eau Claire   14
+Colorado          36   Nebraska          14
+Colorado Mines    31   Angelo St.        21
+Concordia (MI)    34   Olivet Nazarene   28
+Concordia (NE)    27   Jamestown         23
+Cornell (IA)      31   Lawrence           7
+Cortland St.      62   Lycoming           7
+Cumberland (KY)   10   Union (Kentucky)   6
+Dakota Wesleyan   17   Doane             10
+Davenport (MI)    24   Bowie St.         19
+Dayton            62   Central St. OH    24
+DePauw            68   Anderson (IN)     19
+Defiance          34   Adrian            17
+Delaware Val.     41   Albright          10
+Delta St.         42   Chowan            18
+Dickinson         29   Wm. Paterson      17
+Dickinson St.     24   Wis.-Stout        21
+Dordt             49   Mount Marty       20
+Duke              42   Lafayette          7
+E. New Mexico     51   Sul Ross St.      12
+E. Tennessee St.  42   Carson-Newman      0
+E. Texas Baptist  38   Hendrix-Henderson 37
+East Stroudsburg  13   Indiana, Pa.      12
+Eastern (VA)      30   Alvernia          23
+Eliz. City St.    13   St. Augustine's    0
+Emory & Henry     37   Bluefield         14
+Eureka            23   Greenville        14
+Evangel           55   Sterling           0
+Ferris St.        38   Ashland           28
+Ferrum            34   NC Wesleyan        0
+Findlay           40   Pace              25
+Florida           49   McNeese St.        7
+Florida Int.      46   North Texas       39
+Florida St.       66   Southern Miss.    13
+Fordham           40   Buffalo           37
+Fort Valley St.   40   Clark Atlanta     17
+Fresno St.        34   E. Washington     31
+Friends           54   Avila             20
+Frostburg St.     20   Wheeling U.       16
+Gardner-Webb      34   Elon College      27
+Geneva            27   Allegheny         21
+George Fox        14   Pacific (OR)       9
+Georgetown        27   Sacred Heart      10
+Georgetown, Ky.   35   Pikeville         14
+Georgia           45   Ball St.           3
+Georgia Southern  49   UAB               35
+Georgia State     35   Connecticut       14
+Georgia Tech      48   S. Carolina St.   13
+Graceland         37   Benedictine (KS)  35
+Grand Valley St.  57   CSU-Pueblo        49
+Grand View        45   Missouri Baptist  13
+Grove City        43   Waynesburg        27
+Guilford          39   Methodist         21
+Hamline           49   Minnesota-Morris  28
+Hampden-Sydney    31   Brevard           17
+Hardin-Simmons    28   Wis.-LaCrosse     21
+Harding           49   Oklahoma Baptist  10
+Hartwick          31   Keystone          21
+Hawaii            31   Albany (NY)       20
+Henderson St.     38   SE Oklahoma       28
+Hobart            27   Morrisville St.   10
+Hope (MI)         42   Loras             28
+Howard Payne      42   SW Assem Of God   10
+Howard U.         65   Morehouse         19
+Huntingdon        16   Birmingham South.  0
+Idaho             33   Nevada             6
+Idaho College     37   W. Montana        35
+Illinois St.      34   W. Illinois       18
+Incarnate Word    42   N. Colorado        7
+Indiana Wesleyan  24   Valparaiso        22
+Iowa              20   Iowa St.          13
+Ithaca            20   Endicott          17
+Jackson St.       27   Southern U.       14
+James Madison     36   Virginia          35
+Johns Hopkins     20   Christphr Newport 14
+Kalamazoo         48   Kenyon            16
+Kansas St.        42   Troy St.          13
+Keiser            30   Lindsey Wilson    26
+Kentucky          28   E. Kentucky       17
+King's Coll. (PA) 42   Misericordia      10
+Knox              31   Beloit            14
+Ky. Wesleyan      41   William Jewell    34
+LA Christian      55   Arkansas Baptist  18
+Lake Erie         24   N. Michigan       21
+Lake Forest       37   Illinois Col.      6
+Lakeland          34   Buena Vista       16
+Lebanon Val.      45   Stevenson         38
+Lehigh            14   Merrimack         12
+Lenoir-Rhyne      24   Fayetteville St.  10
+Lewis & Clark     38   Willamette         7
+Liberty           33   New Mexico St.    17
+Lincoln (PA)      48   Post              32
+Linfield          28   Denison           14
+Louisiana St.     72   Grambling St.     10
+Louisiana Tech    51   Northwstn St (LA) 21
+MSU-Moorhead      56   Minot St.         14
+Macalester        56   Martin Luther     27
+Marian (IN)       28   St. Xavier        21
+Marshall          31   East Carolina     13
+Maryland          38   Charlotte         20
+Maryville (TN)    34   Centre            23
+Mass.-Dartmouth   28   Curry             14
+McMurry           53   Millsaps           2
+Memphis           37   Arkansas St.       3
+Mercer            48   Morehead St.      22
+Merchant Marine   30   Gallaudet         13
+Mercyhurst        41   Lock Haven        29
+Miami (FL)        48   Texas A&M         33
+Miami (OH)        41   Massachusetts     28
+Michigan          35   Nevada Las Vegas   7
+Michigan St.      45   Richmond          14
+Michigan Tech     45   Hillsdale         20
+MidAmerica Nazar  45   Peru St.          44
+Midland (NE)      56   Briar Cliff (IA)  14
+Midwest TX St     30   Mississippi Col.  17
+Miles             21   Alabama St.       17
+Millersville      28   Gannon            21
+Minn.-Duluth      41   Northern St. (SD) 21
+Minnesota         25   E. Michigan        6
+Minnesota St.     31   Wayne State (NE)  14
+Mississippi       37   Tulane            20
+Mississippi St.   31   Arizona           24
+Missouri          23   Middle Tenn.      19
+Missouri Val.     33   William Penn      28
+Missouri West. St 68   Lincoln (MO)      14
+Monmouth (IL)     39   Chicago            6
+Monmouth (NJ)     42   Towson St.        23
+Montana           43   Utah Tech         13
+Montana Tech      37   Cent. Washington  29
+Montclair St.     32   Gettysburg        21
+Morningside       55   Hastings          18
+Mount St. Joseph  62   Hiram Col.        21
+Muhlenberg        29   Salisbury         17
+Muskingum         27   Otterbein         14
+N. Dakota St.     44   Maine              7
+N.C. Central      30   N. Carolina A&T   16
+N.Mex.Highlands   48   W. New Mexico     42
+Navy              24   Wagner             0
+Nebraska Weslyn   33   Mayville St.      30
+Nebraska-Kearney  31   NortheasternSt OK 17
+New England U.    31   Plymouth St.      21
+New Haven         14   Bentley           13
+New Mexico        56   Tennessee Tech    10
+Nichols           70   Dean Academy       7
+Norfolk St.       31   Hampton U.        23
+North Carolina    40   Appalachian St.   34
+North Dakota      37   N. Arizona        22
+North Greenville  24   Newberry          14
+Northwestern      38   Texas-El Paso      7
+Northwestern (IA) 27   Drake             24
+Northwestern (MN) 26   Concordia (WI)    10
+Notre Dame        45   N. Carolina St.   24
+Notre Dame (OH)   87   W. Va. Weslyn      9
+Oberlin           37   Concordia (IL)    35
+Ohio Dominican    26   Winston-Salem     14
+Ohio Northern     40   Capital            7
+Ohio State        35   Youngstown St.     7
+Ohio University   17   Florida Atlantic  10
+Oklahoma          28   Southern Meth.    11
+Oklahoma St.      27   Arizona St.       15
+Old Dominion      38   Louisiana         31
+Oregon            38   Texas Tech        30
+Oregon St.        55   UC Davis           7
+Ottawa KS         28   Bethel, Kan.      24
+Ouachita          66   NW Oklahoma        0
+Panhandle St.     33   Wayland Baptist   17
+Penn State        63   Delaware           7
+Point             20   Thomas (GA)       17
+Presbyterian      48   UVA-Lynchburg     17
+Purdue            24   Virginia Tech     17
+Quincy            89   Madonna            0
+Randolph-Macon    59   Catholic U.       14
+Rensselaer        38   Wilkes            14
+Rhodes (TN)       19   Austin Col.       17
+Rice              43   Houston           41
+Ripon             31   Grinnell          12
+Robert Morris PA  31   St. Francis, Pa.  21
+Rochester (NY)    49   Alfred State       7
+Rockford          38   St. Scholastica   37
+Roosevelt         38   Siena Heights     10
+Rose-Hulman       30   Trine             28
+Rowan             49   McDaniel          28
+Rutgers           36   Temple             7
+S. Dakota St.     20   Montana St.       16
+S. Illinois       14   N. Illinois       11
+SE Missouri       45   Lindenwood         7
+Sacramento St.    34   TX A&M-Commerce    6
+Saginaw Val. St.  31   Northwood (MI)     8
+San Jose St.      59   Cal Poly-SLO       3
+Seton Hill        28   Shippensburg      23
+Sewanee           32   Westminster (MO)  14
+Shepherd          35   Edinboro          28
+Shorter           28   Erskine            7
+Simpson (IA)      48   Crown             46
+Sioux Falls       36   Mary              17
+Slippery Rock     49   West Chester      24
+So. Nazarene      38   Arkansas Tech     31
+South Alabama     35   SE Louisiana      17
+South Carolina    47   Furman            21
+South Dakota      24   St. Thomas (MN)    0
+South Florida     38   Florida A&M       24
+Southeastern      23   Reinhardt         20
+Southern Cal      56   Stanford          10
+Southwestern, KS  24   Kansas Weslyn      3
+Springfield       45   Husson            20
+St. Francis, Ill. 17   St. Francis, Ind.  0
+St. John Fisher   62   Hilbert            7
+St. Mary's, KS    36   McPherson         32
+St. Olaf          52   Luther            21
+Stephen F.Austin  38   Alcorn State      10
+Stetson           38   Webber College    28
+Stonehill         33   Central Conn. St. 30
+Susquehanna        6   Brockport St.      5
+Syracuse          48   W. Michigan        7
+TCU               41   Nicholls St.       6
+TX A&M-Kingsville 20   West Georgia      17
+Tarleton St.      52   North Alabama     31
+Tenn.-Martin      38   Missouri St.      31
+Tennessee         30   Austin Peay       13
+Tennessee St.     24   Ark Pine Bluff    14
+Texas             34   Alabama           24
+Texas Lutheran    39   Southwestern (TX)  7
+Texas Wesleyan    65   North American    10
+Thomas More       37   Virginia-Wise      0
+Tiffin            42   St. Anselm         7
+Tn.-Chattanooga   27   Kennesaw State    20
+Toledo            71   Texas Southern     3
+Trinity (TX)      35   MaryHardin-Baylor 16
+Truman State      28   S. Dakota Mines   24
+Tuskegee          36   Kentucky St.      10
+UCF               18   Boise St.         16
+UCLA              35   San Diego St.     10
+UL Monroe         24   Lamar             14
+UT San Antonio    20   Texas State       13
+Union (New York)  63   Worcester St.      0
+Upper Iowa        45   St. Ambrose       26
+Ursinus           30   Kean              14
+Utah              20   Baylor            13
+Utah St.          78   Idaho St.         28
+Utica             35   Moravian          20
+Valdosta St.      21   Albany State (GA) 16
+Villanova         42   Colgate           19
+Virginia St.      21   Tusculum          17
+Virginia Union    26   Shaw              13
+W. Carolina       30   Samford            7
+W. Kentucky       52   Houston Chr.      22
+W. Oregon         29   Lincoln (CA)      14
+W. Texas A&M      28   Adams St.          7
+Wake Forest       36   Vanderbilt        20
+Waldorf           35   Dakota St.        20
+Walsh OH          14   Johnson Smith      9
+Warner            46   Fort Lauderdale   13
+Wartburg          16   Bethel, Minn.      2
+Wash. & Jeff.     42   Bethany,W.Va.      7
+Washington        43   Tulsa             10
+Washington St.    31   Wisconsin         22
+Wayne State (MI)  31   Missouri S and T  24
+Weber St.         34   N. Iowa           17
+West Alabama      27   Limestone         13
+West Florida      35   McKendree          3
+West Virginia     56   Duquesne          17
+Western Colorado  35   TX-Permian Basin  27
+Westminster (PA)  28   Thiel              7
+Wheaton (MA)      30   Wis.-Oshkosh      21
+Whitworth         42   E. Oregon         28
+Widener           30   FDU-Florham       20
+William & Mary    23   Wofford            6
+Winona St.        33   Concordia (MN)     8
+Wis.-Platteville  35   Dubuque           19
+Wis.-Riv. Falls   37   Ohio Weslyn       10
+Wis.-Stevens Pt.  31   St. Norbert       28
+Wis.-Whitewater   56   St. John's, Minn. 28
+Wooster           24   Olivet (MI)       22
+Wyoming           31   Portland St.      17
+                   14-Sep-23
+Memphis           28   Navy              24
+Miami (FL)        48   Bethune-Cookman    7
+                   15-Sep-23
+Air Force         39   Utah St.          21
+Army              37   UT San Antonio    29
+Maryland          42   Virginia          14
+Rensselaer        25   Worcester Tech     0
+Rhode Island      34   Maine             17
+Union (New York)  34   Springfield        7
+W. Connecticut    42   Westfield St.      0
+Wesleyan          28   Bates             17
+                   16-Sep-23
+Adrian            23   Bluffton          15
+Alabama           17   South Florida      3
+Albany State (GA) 24   Morehouse         14
+Albion            48   Rose-Hulman       19
+Alcorn State      17   McNeese St.        3
+Allen             34   Kentucky St.      30
+Alma              60   Anderson (IN)     14
+Anna Maria        37   Mass. Maritime    30
+Appalachian St.   43   East Carolina     28
+Arizona           31   Texas-El Paso     10
+Arizona Chr.      21   Montana St.-North 20
+Ark Pine Bluff    21   Miles             20
+Arkansas St.      31   Stony Brook        7
+Ashland           38   Hillsdale         14
+Auburn            45   Samford           13
+Augsburg          62   Martin Luther      0
+Augustana (IL)    74   Elmhurst           6
+Augustana (SD)    24   Concordia (MN)    16
+Aurora            63   Benedictine (IL)   7
+Austin Peay       63   E. Tennessee St.   3
+Ave Maria         27   Texas Lutheran    14
+Averett College   17   Brevard           14
+Ball St.          45   Indiana St.        7
+Barton            28   Virginia-Wise     24
+Baylor            30   LIU-Brooklyn       7
+Bemidji St.       36   Winona St.        10
+Benedict          54   Lane College       7
+Benedictine (KS)  62   Peru St.          28
+Bentley           40   Post              13
+Bethel (TN)       61   Bluefield St.     14
+Bethel, Kan.      42   Avila             26
+Bethel, Minn.     24   Wis.-Eau Claire    0
+Black Hills St.   55   Chadron St.       19
+Boise St.         42   North Dakota      18
+Bowdoin           26   Hamilton          12
+Bowie St.         21   Shaw               7
+Bridgewater,Mass. 41   Plymouth St.      19
+Bridgewater,Va.   41   NC Wesleyan       12
+Brigham Young     38   Arkansas          31
+Brockport St.     31   Wilkes             7
+Brown             29   Bryant College    25
+Buffalo St.       41   Dean Academy       7
+Butler            47   Wabash            21
+CO Mesa           38   S. Dakota Mines   30
+Cal Poly-SLO      41   Lincoln (CA)      20
+California        31   Idaho             17
+Campbell          45   Monmouth (NJ)     31
+Carleton          38   Minnesota-Morris  12
+Carnegie-Mellon   41   Waynesburg        10
+Carroll (MT)      21   Rocky Mountain    20
+Carroll (WI)      41   North Park        27
+Catholic U.       31   Morrisville St.   20
+Cent. Washington  27   Angelo St.        24
+Centre            28   Rhodes (TN)       26
+Charleston (WV)   37   UNC Pembroke      29
+Chicago           63   Knox               0
+Christphr Newport 49   Gettysburg        17
+Claremont-Mudd    16   George Fox         7
+Clarke College    27   Cent. Methodist   24
+Clemson           48   Florida Atlantic  14
+Coast Guard       49   Nichols           42
+Coastal Carolina  66   Duquesne           7
+Coe               19   Central (Iowa)    11
+Colorado          43   Colorado St.      35
+Colorado Mines    70   Adams St.          7
+Concordia (MI)    54   Judson IL          0
+Concordia (WI)    31   Lakeland          28
+Cornell           23   Lehigh            20
+Culver-Stockton   33   Missouri Baptist  30
+Cumberland (KY)   20   Reinhardt         19
+Cumberland, Tenn. 50   Kentucky Chrstn    6
+Curry             20   MIT               16
+Dakota Wesleyan   33   Midland (NE)      32
+Davidson          49   Marist            21
+Dayton            52   Taylor            20
+DePauw            49   Hiram Col.         0
+Delaware          42   St. Francis, Pa.  14
+Delaware Val.     29   Eastern (VA)       6
+Delta St.         35   Miss. Valley St.   7
+Denison           70   Oberlin            0
+Dickinson         24   Kean              13
+Dordt             38   Concordia (NE)     7
+Duke              38   Northwestern      14
+E. Cent. Oklahoma 24   SW Oklahoma St.   13
+E. Illinois       14   Illinois St.      13
+E. Michigan       19   Massachusetts     17
+E. New Mexico     30   W. Oregon         29
+E. Washington     40   SE Louisiana      29
+East Stroudsburg  55   Seton Hill        21
+Edinboro          23   Bloomsburg        13
+Elon College      27   N. Carolina A&T    3
+Emporia St.       38   NortheasternSt OK  0
+Endicott          27   SUNY Maritime      0
+Eureka            35   Rockford          28
+Evangel           59   St. Mary's, KS    42
+Fayetteville St.  20   Lincoln (PA)      17
+Ferrum            13   La Grange         10
+Findlay           45   Lake Erie          3
+Florida           29   Tennessee         16
+Florida A&M       31   West Florida      10
+Florida Int.      24   Connecticut       17
+Florida St.       31   Boston College    29
+Fort Hays St.     17   NW Missouri St.    6
+Fort Valley St.   34   Edward Waters     31
+Franklin Pierce   41   Pace               2
+Franklin&Marshall 31   Montclair St.     25
+Fresno St.        29   Arizona St.        0
+Frostburg St.     37   West Liberty       7
+Furman            31   Kennesaw State    28
+Georgia           24   South Carolina    14
+Georgia State     41   Charlotte         25
+Glenville St.     24   Notre Dame (OH)   21
+Grambling St.     58   Florida Memorial  22
+Grand Valley St.  43   Assumption         7
+Grand View        24   Baker              0
+Greenville        59   Manchester         7
+Grinnell          33   Beloit            23
+Grove City        27   Case Reserve      24
+Hampden-Sydney    58   Greensboro        28
+Hampton U.        35   Howard U.         34
+Hanover           67   Olivet (MI)       17
+Harding           59   Ark Monticello    19
+Harvard           45   St. Thomas (MN)   13
+Hastings          17   Jamestown         10
+Heidelberg        35   Ohio Northern     14
+Henderson St.     27   Arkansas Tech     24
+Hendrix-Henderson 51   Southwestern (TX) 38
+Holy Cross        49   Yale              24
+Hope (MI)         40   Mount St. Joseph  35
+Howard Payne      85   Lyon College       0
+Huntingdon        40   Guilford          14
+Husson            31   Alfred State      13
+Illinois Col.     52   Ripon             21
+Incarnate Word    27   Abilene Christian 20
+Indiana Wesleyan  16   St. Xavier        15
+Indiana, Pa.      49   Shippensburg      14
+Indianapolis      28   Wayne State (MI)   7
+Iowa              41   W. Michigan       10
+Ithaca            22   Alfred U           0
+James Madison     16   Troy St.          14
+John Carroll      30   Baldwin-Wallace    7
+Johns Hopkins     42   Salisbury          7
+Johnson Smith     30   Bluefield         13
+Juniata           31   Hartwick          21
+Kalamazoo         42   Defiance          35
+Kansas            31   Nevada            24
+Kansas Weslyn     35   Friends           28
+Kent State        38   Central Conn. St. 10
+Kentucky          35   Akron              3
+King's Coll. (PA) 56   Albright           0
+Kutztown          47   Mercyhurst        14
+Ky. Wesleyan      31   Walsh OH          28
+LA Christian      35   Langston          22
+LaVerne           26   Puget Sound       21
+Lafayette         24   Columbia           3
+Lake Forest       41   Cornell (IA)       7
+Lebanon Val.      31   Misericordia       3
+Lenoir-Rhyne      62   Erskine            0
+Liberty           55   Buffalo           27
+Limestone         45   Carson-Newman     14
+Lindenwood        43   W. Illinois       40
+Lindsey Wilson    57   Point              7
+Linfield          17   Redlands          10
+Lock Haven        21   Clarion           20
+Loras             44   Luther            29
+Louisiana         41   UAB               21
+Louisiana St.     41   Mississippi St.   14
+Louisville        21   Indiana           14
+MSU-Moorhead      38   McKendree         17
+Marian (IN)       45   Olivet Nazarene   14
+Mars Hill         35   Catawba           20
+Maryville (TN)    27   Shenandoah        20
+Mass.-Dartmouth   33   Framingham St.     7
+McPherson         60   Ottawa KS         17
+Merrimack         44   UVA-Lynchburg      0
+Miami (OH)        31   Cincinnati        24
+Michigan          31   Bowling Green      6
+Michigan Tech     24   Wis.-Platteville  20
+MidAmerica Nazar  29   William Penn      20
+Middle Tenn.      35   Murray St.        14
+Middlebury        21   Amherst            7
+Minn.-Duluth      42   Sioux Falls       34
+Minnesota St.     52   Minot St.         25
+Mississippi       48   Georgia Tech      23
+Missouri          30   Kansas St.        27
+Missouri Southern 18   Nebraska-Kearney  13
+Missouri Val.     49   Graceland         42
+Missouri West. St 27   Cent. Oklahoma    17
+Monmouth (IL)     70   Lawrence          13
+Montana           17   Ferris St.        10
+Montana St.       57   Stetson           20
+Montana Tech      49   E. Oregon         31
+Moravian          29   Apprentice        28
+Morningside       47   Mount Marty       17
+Mount Union       28   Marietta           0
+Muhlenberg        38   College of NJ     10
+Muskingum         45   Capital           38
+N. Carolina St.   45   VMI                7
+N. Dakota St.     49   Cent. Arkansas    31
+N. Iowa           41   Idaho St.         17
+N.Mex.Highlands   31   Fort Lewis        17
+Nebraska          35   N. Illinois       11
+Nebraska Weslyn   21   Simpson (IA)      13
+Nevada Las Vegas  40   Vanderbilt        37
+New England U.    31   Gallaudet         10
+New Hampshire     24   Dartmouth          7
+New Haven         34   S. Connecticut     7
+New Mexico St.    27   New Mexico        17
+Newberry          25   Emory & Henry     23
+North Alabama     20   Tennessee Tech     7
+North Carolina    31   Minnesota         13
+North Central     70   Carthage           0
+North Greenville  23   West Alabama      16
+North Texas       40   Louisiana Tech    37
+Northern St. (SD) 41   Mary              10
+Northwestern (IA) 51   Doane              7
+Norwich           28   Castleton State   14
+Notre Dame        41   Cent. Michigan    17
+Ohio State        63   W. Kentucky       10
+Ohio University   10   Iowa St.           7
+Ohio Weslyn       49   Wooster           20
+Oklahoma          66   Tulsa             17
+Oklahoma Baptist  36   SE Oklahoma        3
+Oregon            55   Hawaii            10
+Oregon St.        26   San Diego St.      9
+Ottawa (AZ)       62   Texas College     14
+Ouachita          52   S. Arkansas       24
+Pac. Lutheran     37   Cal Lutheran      27
+Penn State        30   Illinois          13
+Pennsylvania      20   Colgate            6
+Pikeville         24   Faulkner          20
+Pittsburg St.     38   Cent. Missouri    37
+Pomona-Pitzer     24   Pacific (OR)      17
+Portland St.      91   North American     0
+Presbyterian      23   Wofford           20
+Princeton         23   San Diego         12
+Quincy            49   Fort Lauderdale    0
+Randolph-Macon    51   Southern Virginia 10
+Rice              59   Texas Southern     7
+Richmond          38   Delaware St.       6
+Rochester (NY)    17   Salve Regina      10
+Roosevelt         42   Madonna            7
+Rutgers           35   Virginia Tech     16
+S. Dakota St.     70   Drake              7
+S. Illinois       26   SE Missouri       25
+S. Oregon         49   Willamette         7
+SW Assem Of God   40   Arkansas Baptist  18
+Sacramento St.    30   Stanford          23
+Savannah St.      28   Clark Atlanta     21
+Sewanee           27   Millsaps          21
+Shepherd          44   California, Pa.   34
+Shorter           57   Chowan            20
+Siena Heights     28   St. Ambrose       14
+Slippery Rock     42   Millersville      21
+So. Nazarene      42   NW Oklahoma       29
+South Alabama     33   Oklahoma St.       7
+South Dakota      35   Lamar              6
+Southern Meth.    69   Prairie View       0
+Southern U.       20   Alabama A&M       10
+Southwestern, KS  20   Tabor             10
+St. Anselm        24   American Intl.    14
+St. Francis, Ill. 14   Lawrence Tech     12
+St. John Fisher   35   Keystone          20
+St. Norbert       37   Wisc. Lutheran    32
+St. Scholastica   38   Crown             18
+St. Vincent (PA)  23   Allegheny         19
+Stephen F.Austin  41   Northwstn St (LA)  7
+Sterling          27   Bethany (KS)      20
+Stevenson         24   FDU-Florham       21
+Stonehill         23   Georgetown        20
+Sul Ross St.      27   Wayland Baptist    7
+Susquehanna       38   Cortland St.      35
+Syracuse          35   Purdue            20
+TCU               36   Houston           13
+TX A&M-Kingsville 30   W. New Mexico      9
+TX-Permian Basin  86   SW Baptist         7
+Temple            41   Norfolk St.        9
+Tenn.-Martin      66   Houston Chr.       7
+Tennessee St.     27   Gardner-Webb      25
+Texas             31   Wyoming           10
+Texas A&M         47   UL Monroe          3
+Texas State       77   Jackson St.       34
+Texas Tech        41   Tarleton St.       3
+Texas Wesleyan    31   Panhandle St.     16
+Thiel             22   Bethany,W.Va.     14
+Thomas More       18   Ohio Dominican    17
+Tiffin            34   Northwood (MI)    27
+Tn.-Chattanooga   48   Citadel            3
+Toledo            21   San Jose St.      17
+Towson St.        20   Morgan St.        10
+Trine             58   Franklin          43
+Trinity (TX)      38   Birmingham South.  3
+Trinity Coll (CT) 44   Tufts             19
+Truman State      21   Saginaw Val. St.   7
+Tulane            21   Southern Miss.     3
+Tusculum          23   Wingate           21
+Tuskegee          27   Central St. OH    21
+UC Davis          23   S. Utah           21
+UCF               48   Villanova         14
+UCLA              59   N.C. Central       7
+Upper Iowa        38   Missouri S and T  26
+Ursinus           44   Rowan             21
+Utah              31   Weber St.          7
+Utah Tech         50   N. Arizona        36
+Utica             38   Lycoming          35
+Valdosta St.      49   Keiser            25
+Valley City St.   14   Dakota St.         6
+Virginia St.      55   St. Augustine's   12
+Virginia Union    28   Livingstone       20
+W. Carolina       27   E. Kentucky       24
+W. Montana        49   Lewis & Clark     13
+W. New England    42   St. Lawrence      21
+W. Texas A&M      23   Midwest TX St      0
+W. Virginia St.   47   Concord           27
+Wagner            17   Sacred Heart      10
+Wake Forest       27   Old Dominion      24
+Waldorf           56   Mayville St.      34
+Wartburg          47   Buena Vista        0
+Wash. & Jeff.     48   Westminster (PA)   3
+Washburn          24   Lincoln (MO)      10
+Washington        41   Michigan St.       7
+Washington & Lee  54   Methodist         14
+Washington St.    64   N. Colorado       21
+Washington StL    63   Millikin          13
+Wayne State (NE)  49   SW Minnesota      10
+West Chester      38   Gannon            31
+West Georgia      38   Mississippi Col.  35
+West Virginia     17   Pittsburgh         6
+Western Colorado  30   CSU-Pueblo        14
+Wheaton (MA)      47   Illinois Weslyn   16
+Wheeling U.       43   Fairmont St.      37
+Whitworth         24   Chapman           17
+Widener           57   Alvernia           7
+William & Mary    15   Charleston South.  7
+Williams          25   Colby             22
+Wilmington (DE)   47   Otterbein         21
+Winston-Salem     24   Eliz. City St.     7
+Wis.-LaCrosse     34   N. Michigan        3
+Wis.-Oshkosh      60   E. Texas Baptist   7
+Wis.-Riv. Falls   75   Northwestern (MN)  3
+Wis.-Stout        24   Gustav Adolphus    7
+Wis.-Whitewater   17   MaryHardin-Baylor 14
+Wisconsin         35   Georgia Southern  14
+Wittenberg        56   Kenyon            17
+Wm. Paterson      35   McDaniel          14
+Worcester St.     33   Fitchburg St.     13
+Youngstown St.    48   Robert Morris PA  28
+                   21-Sep-23
+Alabama A&M       31   Ark Pine Bluff    24
+Franklin&Marshall 34   College of NJ      9
+Georgia State     30   Coastal Carolina  17
+                   22-Sep-23
+Air Force         45   San Jose St.      20
+Boise St.         34   San Diego St.     31
+Endicott          37   Hardin-Simmons    10
+Harvard           34   Brown             31
+N. Carolina St.   24   Virginia          21
+Wisconsin         38   Purdue            17
+                   23-Sep-23
+Adams St.         25   Fort Lewis        24
+Alabama           24   Mississippi       10
+Albany (NY)       23   Morgan St.        17
+Albany State (GA) 15   Savannah St.      12
+Albion            30   Wis.-Stevens Pt.   7
+Alfred State      48   Hilbert            7
+Alfred U           9   Catholic U.        6
+Allegheny         31   Bethany,W.Va.     20
+Allen             34   Central St. OH    28
+Alma              48   Wittenberg        28
+Amherst           17   Hamilton          14
+Angelo St.        62   W. New Mexico      9
+Arizona           21   Stanford          20
+Arkansas St.      44   Southern Miss.    37
+Augsburg          33   Gustav Adolphus   31
+Augustana (SD)    31   MSU-Moorhead      27
+Austin Col.       34   Crown             23
+Austin Peay       22   Stephen F.Austin  20
+Ave Maria         50   Fort Lauderdale    6
+Baker             45   Graceland         42
+Baldwin-Wallace   31   Ohio Northern     21
+Belhaven          34   Greensboro         0
+Bemidji St.       41   Mary              10
+Benedict          31   Chowan             3
+Benedictine (IL)  48   Concordia (IL)    14
+Benedictine (KS)  60   Culver-Stockton    7
+Bentley           13   S. Connecticut     6
+Berry College     49   Centre            16
+Bethel (TN)       48   Thomas (GA)       14
+Black Hills St.   25   CO Mesa           23
+Bowdoin           20   Williams           0
+Bowie St.         10   St. Augustine's    7
+Brevard           37   Maryville (TN)    35
+Briar Cliff (IA)  19   Hastings          16
+Bridgewater,Mass. 35   W. Connecticut    28
+Brockport St.     59   Lycoming           3
+Bryant College    16   Princeton         13
+Butler            28   Stetson           18
+California, Pa.   31   Edinboro          10
+Campbellsville    37   Union (Kentucky)  27
+Carleton          31   Hamline           27
+Carroll (MT)      35   Arizona Chr.      20
+Carroll (WI)      70   Illinois Weslyn   23
+Case Reserve      42   Geneva             7
+Cent. Arkansas    52   Abilene Christian 17
+Cent. Michigan    34   South Alabama     30
+Cent. Missouri    58   Washburn          28
+Cent. Washington  17   W. Oregon          7
+Central (Iowa)    41   Luther            16
+Charleston (WV)   76   W. Va. Weslyn     16
+Claremont-Mudd    49   Cal Lutheran      28
+Cncrdia-Mhd       49   St. Scholastica   16
+Coe               56   Nebraska Weslyn    6
+Colorado Mines    55   CSU-Pueblo        14
+Colorado St.      31   Middle Tenn.      23
+Columbia          30   Georgetown         0
+Concordia (WI)    41   Wisc. Lutheran     0
+Cornell           23   Yale              21
+Dakota Wesleyan   16   Concordia (NE)    12
+Dartmouth         34   Lehigh            17
+Davenport (MI)    55   William Jewell    27
+Davidson          84   St. Andrews        6
+DePauw            28   Ohio Weslyn        7
+Delaware          29   New Hampshire     25
+Delaware Val.     28   King's Coll. (PA)  0
+Delta St.         56   Shorter           20
+Denison           55   Hiram Col.        24
+Dickinson St.     41   Waldorf           14
+Dubuque           35   Loras             23
+Duke              41   Connecticut        7
+E. Illinois       31   McNeese St.       28
+E. Kentucky       41   SE Missouri       38
+E. Washington     27   UC Davis          24
+East Carolina     44   Gardner-Webb       0
+East Stroudsburg  35   Lock Haven        21
+Edward Waters     44   Morehouse         13
+Elon College      28   Campbell          24
+Emporia St.       38   Cent. Oklahoma    27
+Eureka            21   St. Norbert       17
+Evangel           27   Ottawa KS         21
+FDU-Florham       14   Albright           6
+Fairmont St.      17   Notre Dame (OH)   14
+Faulkner          16   Southeastern      13
+Fayetteville St.  10   Virginia Union     7
+Findlay           31   Hillsdale         21
+Florida           22   Charlotte          7
+Florida A&M       23   Alabama St.       10
+Florida St.       31   Clemson           24
+Fordham           44   Stonehill          0
+Fort Valley St.   31   Kentucky St.       9
+Framingham St.     9   Westfield St.      8
+Fresno St.        53   Kent State        10
+Friends           36   Tabor             13
+Furman            38   Mercer            14
+Gannon            27   Clarion           20
+Georgia           49   UAB               21
+Georgia Southern  40   Ball St.           3
+Georgia Tech      30   Wake Forest       16
+Grambling St.     35   Texas Southern    23
+Grand View        70   Missouri Val.      7
+Greenville        45   Adrian            35
+Grove City        21   Carnegie-Mellon   14
+Hanover           38   Trine             14
+Harding           27   Henderson St.     16
+Hawaii            20   New Mexico St.    17
+Hendrix-Henderson 53   Millsaps          42
+Hobart            43   Keystone          10
+Holy Cross        47   Colgate            7
+Hope (MI)         54   Northwestern (MN) 17
+Houston           38   Sam Houston St.    7
+Houston Chr.      34   SE Louisiana      19
+Huntingdon        41   La Grange          6
+Husson            50   Anna Maria        49
+Idaho             36   Sacramento St.    27
+Idaho St.         35   N. Colorado       21
+Illinois          23   Florida Atlantic  17
+Illinois St.      48   Lindenwood        17
+Incarnate Word    63   North American     3
+Indiana           29   Akron             27
+Indiana Wesleyan  35   Roosevelt         14
+Indiana, Pa.      30   Mercyhurst        13
+Indianapolis      35   Saginaw Val. St.  10
+Iowa St.          34   Oklahoma St.      27
+Jackson St.       22   Bethune-Cookman   16
+Jacksonville St.  21   E. Michigan        0
+James Madison     45   Utah St.          38
+Jamestown         10   Doane              7
+John Carroll      34   Heidelberg         7
+Johnson Smith     27   Lincoln (PA)      20
+Kansas            38   Brigham Young     27
+Kansas St.        44   UCF               31
+Kansas Weslyn     24   Bethel, Kan.      14
+Kentucky          45   Vanderbilt        28
+Kutztown          20   Shepherd           3
+Ky. Wesleyan      13   Ohio Dominican    10
+LA Christian      60   Wayland Baptist   14
+Lafayette         28   Monmouth (NJ)     20
+Lakeland          41   Rockford          20
+Lamar             38   Lincoln (CA)       0
+Langston          47   Texas College      6
+Lebanon Val.      45   Eastern (VA)       7
+Lenoir-Rhyne      24   Carson-Newman      7
+Liberty           38   Florida Int.       6
+Limestone         38   Virginia-Wise     17
+Lindsey Wilson    45   Bluefield St.     28
+Louisiana         45   Buffalo           38
+Louisiana St.     34   Arkansas          31
+Louisville        56   Boston College    28
+Lyon College      30   Westminster (MO)   7
+Marietta          50   Otterbein          0
+Marist            36   Valparaiso        30
+Mars Hill         16   Barton            14
+Marshall          24   Virginia Tech     17
+MaryHardin-Baylor 50   McMurry            9
+Maryland          31   Michigan St.       9
+Mass. Maritime    21   Fitchburg St.      3
+Mass.-Dartmouth   59   Worcester St.      0
+McPherson         42   Avila             21
+Merchant Marine   36   SUNY Maritime     19
+Methodist         27   Southern Virginia 21
+Miami (FL)        41   Temple             7
+Miami (OH)        62   Delaware St.      20
+Michigan          31   Rutgers            7
+Michigan Tech     34   Upper Iowa        31
+MidAmerica Nazar  27   Clarke College    24
+Midwest TX St     34   E. New Mexico     31
+Miles             55   Clark Atlanta     14
+Millersville      23   West Chester      14
+Minn.-Duluth      33   SW Minnesota       0
+Minnesota St.     42   Concordia (MN)    10
+Minnesota-Morris  38   Lawrence          22
+Misericordia      35   Alvernia          15
+Missouri          34   Memphis           27
+Missouri Southern 42   NortheasternSt OK  0
+Missouri St.      59   Utah Tech         14
+Missouri West. St 28   Fort Hays St.      7
+Montana St.       40   Weber St.          0
+Montana Tech      44   Idaho College     35
+Morningside       48   Midland (NE)      17
+Morrisville St.   20   Moravian          19
+Mount Union       74   Muskingum          7
+N. Arizona        28   Montana           14
+N.C. Central      45   Miss. Valley St.   3
+NW Missouri St.   59   Lincoln (MO)       0
+Nebraska          28   Louisiana Tech    14
+Nevada Las Vegas  45   Texas-El Paso     28
+New Haven         41   Franklin Pierce   14
+New Mexico        34   Massachusetts     31
+Newberry          24   Erskine           17
+Nichols           52   Hartwick           3
+Norfolk St.       21   Towson St.        14
+North Carolina    41   Pittsburgh        24
+North Central     59   Elmhurst           6
+North Park        38   Millikin           0
+Northwestern      37   Minnesota         34
+Northwestern (IA) 42   Mount Marty        0
+Northwood (MI)    68   Lake Erie         14
+Ohio State        17   Notre Dame        14
+Ohio University   38   Bowling Green      7
+Oklahoma          20   Cincinnati         6
+Oklahoma Baptist  23   E. Cent. Oklahoma 15
+Old Dominion      10   TX A&M-Commerce    9
+Olivet Nazarene   34   Lawrence Tech     14
+Oregon            42   Colorado           6
+Ottawa (AZ)       52   SW Assem Of God   10
+Ouachita          45   Ark Monticello    25
+Pace              24   American Intl.    14
+Panhandle St.     31   Arkansas Baptist  19
+Penn State        31   Iowa               0
+Pennsylvania      37   Bucknell          21
+Peru St.          43   Missouri Baptist  32
+Pittsburg St.     33   Nebraska-Kearney  14
+Pomona-Pitzer     34   LaVerne            7
+Portland St.      59   Cal Poly-SLO      21
+Prairie View      23   Alcorn State      20
+Quincy            45   N. Michigan       27
+Redlands          38   Chapman           21
+Reinhardt         28   Georgetown, Ky.   24
+Rensselaer        63   Dean Academy       0
+Richmond          20   Stony Brook       19
+Robert Morris PA  46   UVA-Lynchburg      0
+Rochester (NY)    29   New England U.    27
+Rocky Mountain    13   E. Oregon          7
+S. Arkansas       49   Arkansas Tech      3
+S. Carolina St.   31   Citadel           10
+S. Dakota Mines   42   N.Mex.Highlands    7
+S. Utah           37   W. Illinois       17
+SE Oklahoma       41   NW Oklahoma        2
+Sacred Heart      37   St. Francis, Pa.  34
+Salve Regina      34   MIT                7
+San Diego         40   Dayton            25
+Shenandoah        48   Juniata            7
+Shippensburg       7   Bloomsburg         0
+Siena Heights     58   Judson IL         14
+Sioux Falls        7   Minot St.          0
+Slippery Rock     35   Seton Hill        14
+So. Nazarene      41   SW Oklahoma St.    7
+South Carolina    37   Mississippi St.   30
+South Florida     42   Rice              29
+Southern Cal      42   Arizona St.       28
+Southwestern (TX) 43   Birmingham South. 20
+Southwestern, KS  48   Sterling          10
+Springfield       63   Coast Guard       14
+St. Anselm        42   Post              21
+St. Francis, Ill. 24   Taylor             7
+St. Francis, Ind. 28   St. Ambrose        9
+St. John Fisher   29   Wilkes            20
+St. John's, Minn. 27   Bethel, Minn.      7
+St. Lawrence      28   Castleton State    0
+St. Mary's, KS    57   Bethany (KS)      18
+St. Olaf          38   Macalester        13
+St. Thomas (FL)   38   Texas Wesleyan    20
+St. Thomas (MN)   35   Morehead St.      28
+St. Xavier        31   Madonna            7
+Susquehanna       26   W. New England    18
+Syracuse          29   Army              16
+TCU               34   Southern Meth.    17
+TX-Permian Basin  41   W. Texas A&M      40
+Tarleton St.      27   SW Baptist        13
+Tenn.-Martin      37   North Alabama     21
+Tennessee         45   UT San Antonio    14
+Tennessee Tech    17   Kennesaw State     7
+Texas             38   Baylor             6
+Texas A&M         27   Auburn            10
+Texas State       35   Nevada            24
+Thomas More       26   Walsh OH          10
+Tiffin            55   Ashland           30
+Tn.-Chattanooga   47   Samford           24
+Toledo            49   W. Michigan       31
+Trinity (TX)      63   Rhodes (TN)       14
+Trinity Coll (CT) 48   Colby              7
+Troy St.          27   W. Kentucky       24
+Truman State      41   Wayne State (MI)   7
+Tufts             44   Bates             16
+Tulane            36   Nicholls St.       7
+Tulsa             22   N. Illinois       14
+Tusculum          35   Catawba           21
+Tuskegee          28   Lane College      22
+UNC Pembroke      37   West Liberty      19
+Union (New York)  43   Montclair St.      7
+Utah              14   UCLA               7
+Utica             31   Curry              7
+VMI               17   Wofford           14
+Valdosta St.      28   North Greenville   3
+Valley City St.   24   Mayville St.      21
+Villanova         35   Rhode Island       9
+Virginia St.      33   Livingstone        0
+W. Carolina       77   Charleston South. 21
+W. Montana        24   S. Oregon         23
+W. Virginia St.   31   Glenville St.     21
+Wabash            59   Oberlin            6
+Wagner            30   Merrimack         27
+Warner            63   Kentucky Chrstn    6
+Wartburg          63   Simpson (IA)       0
+Wash. & Jeff.     56   Thiel             14
+Washington        59   California        32
+Washington St.    38   Oregon St.        35
+Washington StL    38   Carthage           7
+Wayne State (NE)  38   Missouri S and T  35
+Wesleyan          24   Middlebury        21
+West Alabama      10   Mississippi Col.   7
+West Florida      49   West Georgia      21
+West Virginia     20   Texas Tech        13
+Western Colorado  35   Chadron St.       17
+Westminster (PA)  31   Waynesburg        20
+Wheaton (MA)      41   Augustana (IL)    34
+Wheeling U.       44   Concord           27
+William & Mary    28   Maine              3
+Wilmington (DE)   49   Capital           24
+Wingate           31   Emory & Henry     10
+Winona St.        39   Northern St. (SD) 16
+Winston-Salem     30   Bluefield          0
+Wooster           70   Kenyon            21
+Worcester Tech    38   Norwich           17
+Wyoming           22   Appalachian St.   19
+                   24-Sep-23
+Shaw              20   Eliz. City St.    17
+Stevenson         49   Widener            7
+Washington & Lee  28   Apprentice         9
+William Penn      35   Cent. Methodist   17
+                   28-Sep-23
+Jacksonville St.  35   Sam Houston St.   28
+Tulsa             48   Temple            26
+W. Kentucky       31   Middle Tenn.      10
+                   29-Sep-23
+Brigham Young     35   Cincinnati        27
+Dickinson         19   Franklin&Marshall 17
+Husson            75   Dean Academy      17
+Louisiana Tech    24   Texas-El Paso     10
+Louisville        13   N. Carolina St.   10
+Muhlenberg        28   Ursinus           20
+New Haven         33   American Intl.    14
+Oregon St.        21   Utah               7
+Princeton         10   Columbia           7
+                   30-Sep-23
+Adams St.         21   N.Mex.Highlands   14
+Air Force         49   San Diego St.     10
+Alabama           40   Mississippi St.   17
+Alabama A&M       58   Tuskegee           3
+Albany (NY)       31   Villanova         10
+Albany State (GA) 33   Kentucky St.      27
+Albion            44   Kalamazoo         17
+Alcorn State      23   Alabama St.       20
+Alma              70   Trine             30
+Angelo St.        23   E. New Mexico     14
+Appalachian St.   41   UL Monroe         40
+Arkansas St.      52   Massachusetts     28
+Arkansas Tech     44   NW Oklahoma       21
+Ashland           20   Ohio Dominican     6
+Assumption        36   Pace              22
+Augustana (IL)    23   Carroll (WI)      19
+Augustana (SD)    49   Sioux Falls       29
+Aurora            70   Eureka            10
+Austin Peay       52   Lindenwood        10
+Baker             38   Culver-Stockton    7
+Barton            17   Tusculum          14
+Baylor            36   UCF               35
+Belhaven          35   NC Wesleyan       14
+Benedict          27   Morehouse          3
+Benedictine (KS)  10   William Penn       7
+Bethel (TN)       30   Cumberland (KY)   10
+Bethel, Minn.     37   Gustav Adolphus   28
+Bluefield St.     49   St. Andrews       14
+Boston College    27   Virginia          24
+Bowling Green     38   Georgia Tech      27
+Brevard           34   Greensboro        24
+Bridgewater,Mass. 38   Fitchburg St.     14
+Bridgewater,Va.   39   Hampden-Sydney    38
+Brockport St.     35   St. John Fisher   18
+Brown             42   Central Conn. St. 20
+Buffalo           13   Akron             10
+Butler            27   Presbyterian      17
+CSU-Pueblo        85   Fort Lewis         7
+Cal Lutheran      24   Chapman           21
+California        24   Arizona St.       21
+California, Pa.   37   Clarion            7
+Campbellsville    34   Cumberland, Tenn. 16
+Capital           35   Otterbein         31
+Carleton          36   Cncrdia-Mhd       35
+Carnegie-Mellon   19   Allegheny          3
+Carroll (MT)      43   Montana St.-North  3
+Carson-Newman     34   Newberry          21
+Carthage          27   Elmhurst          20
+Case Reserve      34   Bethany,W.Va.     12
+Catawba           30   Emory & Henry     13
+Cent. Arkansas    29   S. Utah           27
+Cent. Michigan    26   E. Michigan       23
+Cent. Missouri    41   NW Missouri St.   38
+Cent. Oklahoma    30   Missouri Southern 27
+Cent. Washington  55   W. New Mexico     17
+Central (Iowa)    55   Dubuque           16
+Charleston (WV)   52   Glenville St.     17
+Charleston South. 13   Kennesaw State    10
+Chicago           48   Beloit             7
+Christphr Newport 24   Salisbury         14
+Claremont-Mudd    30   Pomona-Pitzer     20
+Clemson           31   Syracuse          14
+Coast Guard       36   MIT               14
+Colby             30   Bates             24
+Colgate           35   Cornell           25
+Colorado Mines    35   Chadron St.        7
+Colorado St.      41   Utah Tech         20
+Concordia (MI)    24   Wayne State (MI)  23
+Concordia (MN)    37   Mary              34
+Concordia (NE)    35   Briar Cliff (IA)  23
+Concordia (WI)    57   Concordia (IL)    42
+Cornell (IA)      36   Ripon             33
+Cortland St.      52   Morrisville St.   15
+Crown             25   Westminster (MO)  17
+Dakota Wesleyan   51   Mount Marty       45
+Dartmouth         23   Pennsylvania      20
+Davenport (MI)    28   Michigan Tech      0
+Davidson          55   San Diego         33
+DePauw            66   Oberlin            7
+Defiance          27   Hanover           21
+Delaware St.      48   UVA-Lynchburg     10
+Delta St.         47   West Alabama      17
+Dickinson St.     34   Valley City St.   10
+Dordt             61   Hastings          21
+Drake             16   Morehead St.       9
+Duquesne          31   LIU-Brooklyn      28
+E. Cent. Oklahoma 35   Ark Monticello    28
+E. Illinois       19   Northwstn St (LA) 10
+E. Kentucky       32   North Alabama     22
+E. Oregon         34   Arizona Chr.       0
+E. Texas Baptist  35   Austin Col.        7
+Edinboro          40   Mercyhurst        24
+Edward Waters     26   Savannah St.      25
+Elon College      14   William & Mary     6
+Endicott          66   Hilbert            0
+Evangel           44   Avila              6
+Fairmont St.      59   Post              14
+Fayetteville St.  28   Bluefield         18
+Ferris St.        78   N. Michigan        3
+Findlay           27   Ky. Wesleyan      21
+Florida A&M       31   Miss. Valley St.   7
+Florida Memorial  56   Ave Maria         13
+Fort Hays St.     71   Lincoln (MO)       3
+Fort Valley St.   49   Allen             21
+Framingham St.    24   Plymouth St.      14
+Franklin          31   Bluffton          24
+Fresno St.        27   Nevada             9
+Friends           55   Sterling          17
+Gannon            23   Seton Hill         6
+Georgetown        28   Fordham           24
+Georgia           27   Auburn            20
+Georgia Southern  38   Coastal Carolina  28
+Gettysburg        27   McDaniel          20
+Grambling St.     35   Prairie View      20
+Grand Valley St.  55   Saginaw Val. St.  14
+Grand View        65   Cent. Methodist    0
+Grinnell          34   Lawrence          16
+Grove City        31   Wash. & Jeff.     24
+Hampton U.        31   Richmond          14
+Hardin-Simmons    40   Howard Payne      33
+Harding           64   SW Oklahoma St.    0
+Harvard           38   Holy Cross        28
+Heidelberg        20   Muskingum         17
+Henderson St.     27   Oklahoma Baptist  14
+Hillsdale         40   Northwood (MI)    18
+Hope (MI)         30   Adrian            21
+Howard U.         35   Robert Morris PA  10
+Huntingdon        52   Methodist          7
+Idaho             44   E. Washington     36
+Idaho College     45   Rocky Mountain    21
+Illinois Col.     20   Monmouth (IL)     17
+Illinois Weslyn   45   Millikin          17
+Indiana Wesleyan  48   Siena Heights     12
+Indianapolis      26   Missouri S and T  13
+Iowa              26   Michigan St.      16
+Ithaca            24   Hobart            14
+James Madison     31   South Alabama     23
+John Carroll      59   Wilmington (DE)    7
+Johns Hopkins     55   Rowan             20
+Johnson Smith     21   Eliz. City St.    20
+Kansas Weslyn     10   McPherson          7
+Keiser            44   Thomas (GA)       12
+Kentucky          33   Florida           14
+Kenyon            40   Hiram Col.        16
+Kutztown          34   East Stroudsburg  27
+LA Christian      29   Panhandle St.     17
+Lafayette         56   Bucknell          22
+Lake Forest       50   Knox               0
+Lamar             21   Houston Chr.      19
+Lane College      34   Clark Atlanta     24
+Langston          45   SW Assem Of God   21
+Lenoir-Rhyne      56   Virginia-Wise      3
+Lewis & Clark     37   George Fox        31
+Limestone         27   Mars Hill         23
+Lincoln (PA)      30   Winston-Salem     27
+Lindsey Wilson    49   Faulkner          21
+Linfield          70   Willamette        14
+Livingstone       31   Bowie St.         18
+Lock Haven        38   Millersville      31
+MSU-Moorhead      45   Northern St. (SD) 26
+Maine             56   Stony Brook       28
+Marian (IN)       44   Lawrence Tech     17
+Marietta          42   Baldwin-Wallace   21
+Marist            34   Stetson           24
+Marshall          41   Old Dominion      35
+Maryland          44   Indiana           17
+Mayville St.      13   Dakota St.         0
+McMurry           52   Lyon College      14
+Memphis           35   Boise St.         32
+Mercer            38   VMI                3
+Merrimack         17   Sacred Heart       7
+Miami (OH)        23   Kent State         3
+Michigan          45   Nebraska           7
+MidAmerica Nazar  41   Graceland         21
+Middlebury        34   Bowdoin           27
+Miles             40   Central St. OH     7
+Millsaps          14   Birmingham South.  8
+Minn.-Duluth      38   Winona St.        14
+Minnesota         35   Louisiana         24
+Minnesota St.     27   Bemidji St.       24
+Minnesota-Morris  24   Greenville        10
+Mississippi       55   Louisiana St.     49
+Mississippi Col.  30   Shorter           14
+Missouri          38   Vanderbilt        21
+Missouri Baptist  31   Clarke College    13
+Missouri West. St 34   Emporia St.       31
+Monmouth (NJ)     49   Lehigh             7
+Montana           28   Idaho St.         20
+Montana St.       38   Portland St.      22
+Montana Tech      31   S. Oregon         21
+Montclair St.     42   College of NJ      7
+Moravian          58   Keystone          34
+Morningside       38   Doane              7
+Mount St. Joseph  69   Manchester        14
+Mount Union       35   Ohio Northern      0
+Murray St.        30   Indiana St.       28
+N. Carolina A&T   28   Norfolk St.       26
+N. Iowa           44   Youngstown St.    41
+N.C. Central      49   Campbell          48
+Nebraska Weslyn   35   Luther            10
+Nebraska-Kearney  27   Washburn          21
+Nevada Las Vegas  44   Hawaii            20
+New England U.    31   Castleton State   14
+Nicholls St.      31   McNeese St.       10
+Nichols           55   Gallaudet         28
+North American    30   Texas College     26
+North Central     54   Wheaton (MA)      35
+North Texas       45   Abilene Christian 31
+Northwestern (IA) 42   Midland (NE)      21
+Northwestern (MN) 42   Martin Luther     38
+Notre Dame        21   Duke              14
+Notre Dame (OH)   24   Frostburg St.     21
+Oklahoma          50   Iowa St.          20
+Olivet (MI)       40   Alfred State      19
+Olivet Nazarene   58   Judson IL         14
+Oregon            42   Stanford           6
+Ottawa (AZ)       59   Wayland Baptist    6
+Ottawa KS         40   Bethany (KS)      13
+Ouachita          34   SE Oklahoma        7
+Pacific (OR)      28   Puget Sound       14
+Penn State        41   Northwestern      13
+Peru St.          48   Missouri Val.     31
+Pikeville         52   Union (Kentucky)  10
+Pittsburg St.     42   NortheasternSt OK  7
+Point             35   Kentucky Chrstn    0
+Purdue            44   Illinois          19
+Quincy            38   SW Baptist        33
+Randolph-Macon    70   Guilford          14
+Redlands          24   LaVerne            7
+Rhode Island      49   Bryant College    26
+Rhodes (TN)       31   Southwestern (TX)  7
+Rice              24   East Carolina     17
+Rochester (NY)    29   Buffalo St.       22
+Roosevelt         30   St. Ambrose       17
+Rose-Hulman       64   Anderson (IN)      3
+Rutgers           52   Wagner             3
+S. Arkansas       28   So. Nazarene      21
+S. Connecticut     6   St. Anselm         3
+S. Dakota Mines   49   Black Hills St.   14
+S. Dakota St.     42   North Dakota      21
+S. Illinois       33   Missouri St.      20
+SUNY Maritime     24   Norwich           21
+Sacramento St.    31   N. Arizona        30
+Salve Regina      35   Merchant Marine   17
+Samford           42   E. Tennessee St.  28
+Sewanee           20   Hendrix-Henderson 19
+Shenandoah        38   Ferrum             3
+Shepherd          30   Shippensburg      23
+Simpson (IA)      55   Buena Vista       28
+Slippery Rock     42   Indiana, Pa.      21
+South Dakota      24   N. Dakota St.     19
+South Florida     44   Navy              30
+Southeastern      54   Warner             9
+Southern Cal      48   Colorado          41
+Southern Meth.    34   Charlotte         16
+Southern U.       27   Ark Pine Bluff     0
+Southern Virginia 52   La Grange         26
+Southwestern, KS  36   St. Mary's, KS    20
+Springfield       42   Worcester Tech    10
+St. Francis, Ind. 44   Madonna            9
+St. Francis, Pa.  15   Stonehill         10
+St. John's, Minn. 27   Augsburg          24
+St. Norbert       24   Lakeland          21
+St. Olaf          49   Hamline           25
+St. Scholastica   23   Macalester        17
+St. Thomas (FL)   41   Webber College    16
+St. Thomas (MN)   20   Dayton            14
+St. Vincent (PA)  28   Geneva            19
+St. Xavier        28   St. Francis, Ill. 21
+Stephen F.Austin  56   TX A&M-Commerce   27
+Sul Ross St.      37   Texas Lutheran    34
+Susquehanna       50   Catholic U.       21
+TX-Permian Basin  29   TX A&M-Kingsville 17
+Tabor             31   Bethel, Kan.      21
+Tarleton St.      14   SE Louisiana      13
+Tenn.-Martin      20   Tennessee St.     10
+Tennessee         41   South Carolina    20
+Texas             40   Kansas            14
+Texas A&M         34   Arkansas          22
+Texas Southern    52   Lincoln (CA)       7
+Texas State       50   Southern Miss.    36
+Texas Tech        49   Houston           28
+Texas Wesleyan    62   Arkansas Baptist   0
+Thiel             15   Waynesburg        14
+Tiffin            47   Thomas More        9
+Tn.-Chattanooga   23   Wofford           13
+Toledo            35   N. Illinois       33
+Towson St.        54   New Hampshire     51
+Trinity (TX)      46   Berry College     37
+Trinity Coll (CT) 49   Amherst            0
+Troy St.          28   Georgia State      7
+Truman State      56   McKendree         24
+Tufts             28   Williams          10
+Tulane            35   UAB               23
+UC Davis          31   Cal Poly-SLO      13
+UNC Pembroke      41   Wheeling U.       20
+Union (New York)  34   St. Lawrence       0
+Utah St.          34   Connecticut       33
+Utica             48   Hartwick           7
+Valdosta St.      51   Chowan            36
+Valparaiso        16   SW Minnesota      15
+Virginia St.      38   Shaw              19
+Virginia Tech     38   Pittsburgh        21
+Virginia Union    47   St. Augustine's    7
+W. Carolina       49   Citadel           14
+W. Connecticut    52   Mass.-Dartmouth   21
+W. Michigan       42   Ball St.          24
+W. Oregon         37   W. Texas A&M      36
+W. Virginia St.   51   W. Va. Weslyn     16
+Wabash            31   Ohio Weslyn       13
+Walsh OH          30   Lake Erie         16
+Wartburg          27   Coe               21
+Washington        31   Arizona           24
+Washington & Lee  25   Averett College   20
+Washington StL    41   North Park         7
+Wayne State (NE)  48   Minot St.         22
+Weber St.         28   N. Colorado       21
+Wesleyan          35   Hamilton          14
+West Chester      24   Bloomsburg        21
+West Florida      48   North Greenville  24
+West Liberty      23   Concord           21
+West Virginia     24   TCU               21
+Western Colorado  43   CO Mesa            7
+Westfield St.     17   Mass. Maritime    10
+Whitworth         42   Pac. Lutheran     13
+Wilkes            63   Juniata           14
+William Jewell    30   Upper Iowa        13
+Wingate           45   Erskine            0
+Wis.-Eau Claire   24   Wis.-Stevens Pt.  17
+Wis.-LaCrosse     45   Wis.-Stout        40
+Wis.-Riv. Falls   27   Wis.-Platteville  16
+Wis.-Whitewater   37   Wis.-Oshkosh      21
+Wisc. Lutheran    52   Rockford          20
+Wittenberg        27   Denison           24
+Wm. Paterson      21   Kean               9
+Wyoming           35   New Mexico        26
+Yale              45   Morgan St.         3
+                   04-Oct-23
+Jacksonville St.  45   Middle Tenn.      30
+New Mexico St.    34   Florida Int.      17
+                   05-Oct-23
+Fairmont St.      42   Concord            9
+Liberty           21   Sam Houston St.   16
+W. Kentucky       35   Louisiana Tech    28
+                   06-Oct-23
+Bridgewater,Mass. 35   Worcester St.      7
+Harvard           41   Cornell           23
+Johns Hopkins     49   Gettysburg        28
+Nebraska          20   Illinois           7
+Oklahoma St.      29   Kansas St.        21
+                   07-Oct-23
+Alabama           26   Texas A&M         20
+Alabama St.       19   Bethune-Cookman   14
+Albany (NY)       24   Towson St.        17
+Albany State (GA) 48   Central St. OH     0
+Alcorn State      25   Grambling St.     24
+Alfred State      41   Lyon College      15
+Alfred U          14   Morrisville St.   10
+Allen             35   Clark Atlanta     27
+Amherst           17   Bates              7
+Arkansas Baptist  23   Texas College      8
+Arkansas Tech      9   SW Oklahoma St.    7
+Ashland           21   Walsh OH           7
+Assumption        38   American Intl.    14
+Augsburg          41   Hamline            7
+Augustana (IL)    42   Millikin           3
+Augustana (SD)    38   SW Minnesota       6
+Aurora            91   Concordia (IL)     0
+Ave Maria         28   Thomas (GA)       22
+Barton            34   Newberry          17
+Belhaven          29   Huntingdon         3
+Benedict          27   Miles             24
+Berry College     52   Southwestern (TX) 10
+Bethel, Minn.     49   Macalester        14
+Birmingham South. 38   Sewanee           32
+Black Hills St.   34   N.Mex.Highlands   24
+Boise St.         35   San Jose St.      27
+Boston College    27   Army              24
+Brevard           49   Southern Virginia 28
+Briar Cliff (IA)  18   Doane             16
+Bridgewater,Va.   24   Shenandoah        10
+Brockport St.     63   Hartwick           0
+Buffalo           37   Cent. Michigan    13
+CSU-Pueblo        43   Adams St.         10
+Cal Lutheran      55   LaVerne            0
+California, Pa.   30   Indiana, Pa.      20
+Campbell          30   Hampton U.        27
+Campbellsville    36   Faulkner           5
+Carleton          33   St. Olaf          31
+Carnegie-Mellon   80   Thiel             22
+Case Reserve      19   St. Vincent (PA)   0
+Cent. Arkansas    38   SE Missouri       33
+Cent. Missouri    38   Nebraska-Kearney  14
+Cent. Washington  38   E. New Mexico     35
+Central (Iowa)    38   Loras             14
+Central Conn. St. 51   Delaware St.      44
+Chadron St.       57   Fort Lewis        20
+Chapman           20   Claremont-Mudd     7
+Clemson           17   Wake Forest       12
+Coe               52   Buena Vista        7
+Colby             20   Wesleyan          13
+Colorado          27   Arizona St.       24
+Colorado Mines    52   CO Mesa            0
+Columbia          16   Marist             0
+Concordia (MI)    24   Lawrence Tech     10
+Concordia (WI)    28   Benedictine (IL)   0
+Connecticut       38   Rice              31
+Cornell (IA)      36   Beloit            24
+Cortland St.      56   Utica              3
+Cumberland, Tenn. 21   Cumberland (KY)   17
+Curry             47   Dean Academy      14
+Davenport (MI)    28   N. Michigan       12
+DePauw            17   Denison            6
+Delaware          43   Duquesne          17
+Delaware Val.     28   Alvernia          12
+Delta St.         49   Valdosta St.      25
+Dickinson         27   Christphr Newport 24
+Dickinson St.     40   Dakota St.        14
+Drake             20   Valparaiso        14
+Dubuque           56   Nebraska Weslyn   28
+E. Michigan       24   Ball St.          10
+E. Oregon         28   Montana St.-North  3
+East Stroudsburg  38   Millersville      17
+Edward Waters     37   Lane College      30
+Emory & Henry     41   Virginia-Wise     24
+Fayetteville St.   7   St. Augustine's    0
+Ferris St.        38   Saginaw Val. St.  17
+Florida           38   Vanderbilt        14
+Florida A&M       26   Southern U.       19
+Florida Atlantic  20   Tulsa             17
+Florida Memorial  72   Warner            19
+Florida St.       39   Virginia Tech     17
+Fordham           38   Lehigh            35
+Fort Hays St.     35   Missouri Southern 22
+Fort Valley St.   38   Savannah St.      24
+Framingham St.    40   Fitchburg St.      7
+Franklin          36   Anderson (IN)     28
+Franklin Pierce   17   S. Connecticut    14
+Franklin&Marshall 20   Ursinus           16
+Frostburg St.     31   UNC Pembroke      21
+Furman            28   Citadel           14
+Gallaudet         34   Hilbert           20
+Gannon            23   Edinboro          12
+Gardner-Webb      31   Robert Morris PA  16
+Georgetown, Ky.   52   Bethel (TN)       24
+Georgia           51   Kentucky          13
+Georgia Tech      23   Miami (FL)        20
+Grand Valley St.  65   Kentucky St.       7
+Grove City        48   Geneva            21
+Gustav Adolphus   63   St. Scholastica   12
+Hampden-Sydney    48   Ferrum            10
+Hanover           21   Bluffton           0
+Hardin-Simmons    19   McMurry           16
+Harding           62   NW Oklahoma        0
+Henderson St.     42   So. Nazarene      28
+Hobart            45   Buffalo St.       21
+Holy Cross        55   Bucknell          27
+Hope (MI)         14   Albion             6
+Howard Payne      28   E. Texas Baptist  14
+Idaho             42   Cal Poly-SLO      14
+Idaho College     56   Arizona Chr.      17
+Illinois Col.     41   Chicago           20
+Incarnate Word    33   SE Louisiana      26
+Indiana Wesleyan  42   Taylor            17
+Indianapolis      59   William Jewell    17
+Iowa              20   Purdue            14
+Iowa St.          27   TCU               14
+Ithaca            20   Rensselaer        17
+Jackson St.       45   Alabama A&M       30
+Jamestown         24   Mount Marty       13
+John Carroll      31   Marietta          28
+Kansas            51   UCF               22
+Keiser            21   St. Thomas (FL)   14
+King's Coll. (PA) 17   FDU-Florham       14
+Kutztown          24   Bloomsburg         3
+LA Christian      55   North American     0
+LIU-Brooklyn      23   Sacred Heart      13
+Lafayette         12   Princeton          9
+Lake Forest       76   Lawrence           0
+Lamar             27   Northwstn St (LA) 13
+Langston          33   Panhandle St.      3
+Lebanon Val.      27   Widener           24
+Lenoir-Rhyne      31   Limestone         28
+Lincoln (PA)      52   Bluefield         44
+Lindenwood        23   Tennessee Tech     0
+Linfield          57   Lewis & Clark     15
+Livingstone       23   Winston-Salem     21
+Louisiana         34   Texas State       30
+Louisiana St.     49   Missouri          39
+Louisville        33   Notre Dame        20
+Marian (IN)       41   Madonna            0
+Mars Hill         38   Erskine            3
+MaryHardin-Baylor 55   Texas Lutheran    21
+Maryville (TN)    35   Greensboro         7
+Mass.-Dartmouth   26   Mass. Maritime     0
+Mercer            24   E. Tennessee St.   6
+Merchant Marine   28   Norwich           21
+Merrimack         45   Stonehill         34
+Miami (OH)        27   Bowling Green      0
+Michigan          52   Minnesota         10
+Middlebury        12   Williams          10
+Midland (NE)      10   Dordt              7
+Minnesota St.     24   MSU-Moorhead      21
+Misericordia      25   Eastern (VA)       8
+Mississippi       27   Arkansas          20
+Mississippi St.   41   W. Michigan       28
+Missouri S and T  31   Upper Iowa         6
+Missouri West. St 61   Washburn          21
+Monmouth (IL)     69   Grinnell           6
+Montana           31   UC Davis          23
+Montclair St.     27   Kean              14
+Moravian          36   Catholic U.       28
+Morehead St.      31   Dayton             7
+Morningside       62   Concordia (NE)     6
+Mount St. Joseph  62   Defiance          21
+Mount Union       41   Heidelberg         3
+Muhlenberg        50   McDaniel           6
+N. Arizona        27   Weber St.         10
+N. Carolina St.   48   Marshall          41
+N. Dakota St.     38   Missouri St.      10
+N. Illinois       55   Akron             14
+N. Iowa           27   Indiana St.       20
+N.C. Central      34   Elon College      23
+NC Wesleyan       35   La Grange         14
+NW Missouri St.   34   Cent. Oklahoma    21
+Navy              27   North Texas       24
+New Haven         38   Lincoln (CA)       0
+Nicholls St.      38   Houston Chr.       7
+North Carolina    40   Syracuse           7
+North Central     69   Carroll (WI)      24
+North Dakota      49   W. Illinois       10
+North Greenville  31   Chowan            16
+North Park        35   Carthage          20
+NortheasternSt OK 28   Lincoln (MO)      13
+Northern St. (SD) 46   Minot St.          9
+Northwestern      23   Howard U.         20
+Northwestern (IA) 45   Hastings           7
+Northwestern (MN) 47   Crown             23
+Northwood (MI)    33   Findlay           30
+Notre Dame (OH)   31   W. Virginia St.   24
+Ohio Dominican    41   Lake Erie         17
+Ohio State        37   Maryland          17
+Ohio University   42   Kent State        17
+Ohio Weslyn       48   Kenyon             7
+Oklahoma          34   Texas             30
+Old Dominion      17   Southern Miss.    13
+Olivet (MI)       42   Kalamazoo         14
+Olivet Nazarene   34   Cent. Methodist   20
+Oregon St.        52   California        40
+Ouachita          31   E. Cent. Oklahoma 14
+Pac. Lutheran     17   Pacific (OR)      10
+Pace              38   Post               7
+Pennsylvania      42   Georgetown        39
+Pittsburg St.     33   Emporia St.       25
+Point             33   Bluefield St.     31
+Pomona-Pitzer     10   Redlands           9
+Prairie View      31   Miss. Valley St.  12
+Puget Sound       29   George Fox        27
+Randolph-Macon    59   Averett College    7
+Reinhardt         41   Pikeville         35
+Rhode Island      34   Brown             30
+Rhodes (TN)       37   Millsaps           7
+Richmond          42   Maine             31
+Ripon             10   Knox               3
+Roosevelt         28   St. Francis, Ill. 24
+Rose-Hulman       44   Manchester         7
+Rowan              9   College of NJ      7
+S. Arkansas       63   Oklahoma Baptist  24
+S. Carolina St.   56   UVA-Lynchburg      6
+S. Dakota St.     40   Illinois St.      21
+S. Oregon         23   Rocky Mountain     5
+S. Utah           27   Tarleton St.      26
+SE Oklahoma       22   Ark Monticello    21
+SUNY Maritime     28   Worcester Tech    21
+SW Assem Of God   37   Wayland Baptist   16
+SW Baptist        24   McKendree         17
+Salisbury         36   Wm. Paterson      19
+Salve Regina      38   Coast Guard        7
+Samford           31   Wofford           10
+Seton Hill        24   Clarion           17
+Shaw              21   Johnson Smith     10
+Shepherd          27   Lock Haven        10
+Sioux Falls       35   Concordia (MN)    28
+Slippery Rock     75   Mercyhurst        31
+South Alabama     55   UL Monroe          7
+South Dakota      38   Murray St.         7
+Southeastern      17   Webber College     9
+Southern Cal      43   Arizona           41
+Springfield       38   MIT               10
+St. Anselm        24   Bentley           17
+St. Francis, Ind. 42   Siena Heights     28
+St. John's, Minn. 42   Cncrdia-Mhd       23
+St. Norbert       58   Rockford           6
+St. Thomas (MN)   17   Butler            10
+St. Xavier        58   Judson IL          6
+Stetson           28   Presbyterian      24
+Stevenson         38   Albright           0
+Sul Ross St.      49   Austin Col.        7
+Susquehanna       69   Keystone           0
+TX A&M-Commerce   41   McNeese St.       10
+TX A&M-Kingsville 28   W. Texas A&M      21
+TX-Permian Basin  21   Midwest TX St     13
+Tenn.-Martin      28   E. Illinois       27
+Tennessee St.     27   Kennesaw State    20
+Texas Tech        39   Baylor            14
+Thomas More       36   Ky. Wesleyan      28
+Tiffin            35   Hillsdale         21
+Toledo            41   Massachusetts     24
+Trine             34   Adrian            14
+Trinity (TX)      31   Centre             3
+Trinity Coll (CT) 34   Hamilton          21
+Troy St.          37   Arkansas St.       3
+Truman State      33   Quincy            27
+Tufts             24   Bowdoin           10
+Tusculum          27   Carson-Newman     21
+Tuskegee          40   Morehouse         28
+UAB               56   South Florida     35
+UCLA              25   Washington St.    17
+UT San Antonio    49   Temple            34
+Union (Kentucky)  33   St. Andrews        6
+Union (New York)  21   Rochester (NY)    17
+Utah St.          44   Colorado St.      24
+Utah Tech         37   Stephen F.Austin  31
+Valley City St.   28   Waldorf           24
+Villanova         37   N. Carolina A&T   14
+Virginia          27   William & Mary    13
+Virginia St.      44   Bowie St.         16
+Virginia Union    42   Eliz. City St.    20
+W. Carolina       52   Tn.-Chattanooga   50
+W. Connecticut    55   Plymouth St.      20
+W. Montana        38   Montana Tech      28
+W. New England    33   Anna Maria        17
+W. Oregon         31   W. New Mexico     10
+Wabash            45   Wooster           35
+Wartburg          54   Luther             0
+Wash. & Jeff.     35   Allegheny         28
+Washington & Lee  48   Guilford          25
+Washington StL    38   Illinois Weslyn   10
+Wayne State (MI)  23   Michigan Tech     21
+Wayne State (NE)  28   Minn.-Duluth      18
+West Chester      38   Shippensburg      28
+West Florida      42   Shorter            3
+West Georgia      24   West Alabama       6
+West Liberty      48   Glenville St.     40
+Western Colorado  43   S. Dakota Mines   20
+Westminster (MO)  28   Martin Luther     14
+Westminster (PA)  42   Bethany,W.Va.      7
+Wheaton (MA)      61   Elmhurst           6
+Wheeling U.       58   W. Va. Weslyn      3
+Whitworth         59   Willamette         7
+Wilkes            48   Lycoming          35
+Wingate           31   Catawba           13
+Winona St.        17   Mary               7
+Wis.-LaCrosse     37   Wis.-Whitewater   34
+Wis.-Oshkosh      48   Wis.-Stout        46
+Wis.-Platteville  51   Wis.-Stevens Pt.  10
+Wis.-Riv. Falls   49   Wis.-Eau Claire    7
+Wisc. Lutheran    34   Lakeland          14
+Wisconsin         24   Rutgers           13
+Wittenberg        21   Hiram Col.         7
+Wyoming           24   Fresno St.        19
+Yale              31   Dartmouth         24
+Youngstown St.    31   S. Illinois        3
+                   10-Oct-23
+Coastal Carolina  27   Appalachian St.   24
+Liberty           31   Jacksonville St.  13
+Middle Tenn.      31   Louisiana Tech    23
+                   11-Oct-23
+New Mexico St.    27   Sam Houston St.   13
+Texas-El Paso     27   Florida Int.      14
+                   12-Oct-23
+Benedict          48   Fort Valley St.    6
+Grand View        44   Culver-Stockton    7
+Houston           41   West Virginia     39
+Mass. Maritime    22   Worcester St.     19
+Southern Meth.    31   East Carolina     10
+St. Francis, Pa.  31   Wagner             7
+                   13-Oct-23
+Fresno St.        37   Utah St.          32
+Stanford          46   Colorado          43
+Tulane            31   Memphis           21
+                   14-Oct-23
+Abilene Christian 30   North Alabama     13
+Air Force         34   Wyoming           27
+Alabama           24   Arkansas          21
+Alabama A&M       45   Grambling St.     24
+Alabama St.       24   Jackson St.       19
+Alfred State      46   Anna Maria        20
+Allen             39   Albany State (GA) 27
+Alma              35   Hope (MI)         17
+American Intl.    27   S. Connecticut    21
+Angelo St.        38   TX A&M-Kingsville 16
+Arizona           44   Washington St.     6
+Arkansas Tech     24   Ark Monticello    10
+Ashland           35   Northwood (MI)     3
+Assumption        21   Franklin Pierce   17
+Augustana (IL)    35   Washington StL    17
+Augustana (SD)    48   Winona St.        28
+Aurora            37   St. Norbert        9
+Austin Peay       41   Gardner-Webb      14
+Ave Maria         30   Webber College     7
+Baker             40   MidAmerica Nazar   7
+Baldwin-Wallace   34   Muskingum         22
+Belhaven          42   La Grange         20
+Beloit            34   Lawrence          14
+Bemidji St.       33   Wayne State (NE)  23
+Benedictine (IL)  19   Rockford           7
+Benedictine (KS)  59   Cent. Methodist   21
+Bentley           27   Pace               9
+Berry College     64   Millsaps           7
+Bethel (TN)       44   Roosevelt          7
+Bethel, Kan.      33   McPherson         24
+Bethel, Minn.     38   Augsburg           7
+Birmingham South. 16   Hendrix-Henderson 15
+Bowdoin           35   Bates             20
+Bowling Green     24   Buffalo           14
+Brevard           52   Methodist         20
+Brown             28   Princeton         27
+Bryant College    43   Robert Morris PA  24
+Bucknell          21   Cornell           13
+Buena Vista       17   Luther            10
+CO Mesa           62   Fort Lewis        14
+CSU-Pueblo        56   N.Mex.Highlands    7
+California, Pa.   41   Seton Hill        14
+Carnegie-Mellon   41   Bethany,W.Va.      7
+Carroll (MT)      14   E. Oregon          6
+Carroll (WI)      62   Elmhurst          14
+Carson-Newman     14   Erskine           10
+Case Reserve      31   Westminster (PA)   6
+Cent. Arkansas    24   Stephen F.Austin  21
+Cent. Michigan    17   Akron             10
+Cent. Missouri    63   NortheasternSt OK 24
+Cent. Oklahoma    59   Lincoln (MO)      17
+Cent. Washington  10   Midwest TX St      7
+Central St. OH    21   Savannah St.      10
+Centre            45   Southwestern (TX) 21
+Chadron St.       53   Adams St.         14
+Chapman           21   Pomona-Pitzer      0
+Charleston (WV)   52   Notre Dame (OH)   27
+Charleston South. 24   Lindenwood        10
+Chicago           21   Ripon              6
+Christphr Newport 21   Rowan             18
+Claremont-Mudd    30   LaVerne           17
+Cncrdia-Mhd       58   Hamline           14
+Coe               28   Simpson (IA)       0
+Colby             19   Amherst           16
+Colgate           27   Dartmouth         24
+College of NJ     27   Kean               0
+Colorado Mines    45   S. Dakota Mines   22
+Colorado St.      31   Boise St.         30
+Concordia (NE)    44   Hastings          23
+Cortland St.      59   Alfred U          21
+Cumberland (KY)   37   Faulkner           7
+Davenport (MI)    32   Wayne State (MI)   3
+Davidson          35   Butler            33
+DePauw            53   Wooster            7
+Delaware          21   N. Carolina A&T    6
+Delaware Val.     20   FDU-Florham        0
+Delta St.         49   North Greenville  27
+Denison           28   Wabash            24
+Dickinson         40   McDaniel          20
+Dickinson St.     49   Mayville St.      20
+Dordt             25   Jamestown         13
+Drake             52   St. Thomas (MN)   21
+Duke              24   N. Carolina St.    3
+Duquesne          44   Central Conn. St. 20
+E. Cent. Oklahoma 42   NW Oklahoma        7
+E. Kentucky       41   Tarleton St.      35
+E. Michigan       28   Kent State        14
+E. Tennessee St.  41   Wofford           10
+E. Texas Baptist  14   McMurry           13
+East Stroudsburg  28   West Chester      14
+Eastern (VA)      21   Albright           9
+Edward Waters     41   Tuskegee          38
+Emporia St.       38   Washburn          23
+Endicott          24   W. New England    21
+Evangel           34   Bethany (KS)      11
+Fayetteville St.  19   Livingstone       14
+Findlay           38   Thomas More       10
+Florida           41   South Carolina    39
+Florida Atlantic  56   South Florida     14
+Florida St.       41   Syracuse           3
+Fordham           26   Stony Brook        7
+Fort Hays St.     31   Nebraska-Kearney  17
+Franklin          35   Defiance          21
+Friends           35   Southwestern, KS  20
+Frostburg St.     34   Concord            3
+Furman            27   Samford           21
+Gallaudet         24   Castleton State   23
+Geneva            20   Thiel              9
+Georgetown        17   Lehigh             7
+Georgetown, Ky.   42   Cumberland, Tenn. 14
+Georgia           37   Vanderbilt        20
+Georgia State     41   Marshall          24
+Glenville St.     27   Wheeling U.       13
+Grand Valley St.  49   Ferris St.        28
+Grove City        31   Allegheny          7
+Gustav Adolphus   55   Macalester        18
+Hampden-Sydney    31   Averett College   28
+Hanover           34   Manchester         0
+Hardin-Simmons    27   Texas Lutheran    22
+Harding           41   Ouachita          10
+Harvard           48   Howard U.          7
+Heidelberg        28   Otterbein          8
+Hillsdale         44   Ky. Wesleyan      14
+Hobart            49   Hilbert            3
+Houston Chr.      30   Prairie View       0
+Howard Payne      35   Austin Col.       11
+Huntingdon        28   Maryville (TN)    21
+Husson            28   Curry              7
+Idaho College     59   Montana St.-North  0
+Idaho St.         42   E. Washington     41
+Illinois          27   Maryland          24
+Illinois Col.     61   Knox               7
+Illinois St.      44   Indiana St.        7
+Incarnate Word    28   TX A&M-Commerce   11
+Indiana Wesleyan  26   Madonna            0
+Indiana, Pa.      20   Edinboro          10
+Indianapolis      38   Truman State      17
+Iowa              15   Wisconsin          6
+Iowa St.          30   Cincinnati        10
+Ithaca            17   Union (New York)   9
+James Madison     41   Georgia Southern  13
+John Carroll      44   Ohio Northern     14
+Johns Hopkins     34   Franklin&Marshall 27
+Johnson Smith     14   St. Augustine's    6
+Kalamazoo         45   Adrian            23
+Kansas St.        38   Texas Tech        21
+Kansas Weslyn     34   Avila             16
+Keiser            69   Warner             6
+Kentucky St.      21   Lane College      14
+King's Coll. (PA) 35   Lebanon Val.      21
+Kutztown           9   Shippensburg       6
+LA Christian      52   Texas College      7
+Lake Forest       47   Grinnell           0
+Lakeland          17   Concordia (IL)     9
+Lamar             30   SE Louisiana      24
+Langston          40   North American     0
+Lenoir-Rhyne      47   Barton             3
+Lewis & Clark     51   Pacific (OR)      35
+Limestone         17   Wingate           10
+Lincoln (PA)      27   Eliz. City St.    21
+Lindsey Wilson    35   Campbellsville    14
+Linfield          41   George Fox        13
+Lock Haven        21   Bloomsburg        13
+Loras             41   Nebraska Weslyn   38
+Louisiana St.     48   Auburn            18
+Lycoming          28   Catholic U.       25
+MSU-Moorhead      53   Sioux Falls       40
+Maine             24   LIU-Brooklyn      13
+Marian (IN)       14   Concordia (MI)     7
+Marietta          45   Wilmington (DE)   15
+Marist            30   San Diego         16
+Mars Hill         24   Emory & Henry     14
+Martin Luther     31   Greenville        29
+MaryHardin-Baylor 37   Sul Ross St.      13
+Mass.-Dartmouth   26   Westfield St.     23
+McKendree         41   Upper Iowa        34
+Merchant Marine   28   MIT               14
+Mercyhurst        36   Clarion           35
+Miami (OH)        34   W. Michigan       21
+Michigan          52   Indiana            7
+Michigan Tech     62   N. Michigan        0
+Middlebury        20   Trinity Coll (CT) 15
+Miles             36   Morehouse         22
+Minn.-Duluth      46   Mary               0
+Minnesota St.     45   W. Oregon         14
+Minnesota-Morris  45   Westminster (MO)   0
+Minot St.         17   Concordia (MN)    10
+Miss. Valley St.  42   Ark Pine Bluff    17
+Missouri          38   Kentucky          21
+Missouri S and T  45   SW Baptist        19
+Missouri St.      48   W. Illinois        7
+Missouri Val.     35   Missouri Baptist  20
+Monmouth (IL)     43   Cornell (IA)       6
+Monmouth (NJ)     61   Hampton U.        10
+Montana           23   Idaho             21
+Montana St.       59   Cal Poly-SLO      19
+Morehead St.      24   Valparaiso        21
+Morningside       27   Dakota Wesleyan    3
+Mount Marty       28   Midland (NE)      21
+Mount St. Joseph  77   Anderson (IN)     14
+Mount Union       76   Capital            0
+Muhlenberg        41   Gettysburg        13
+N. Illinois       23   Ohio University   13
+NC Wesleyan       34   Greensboro        28
+NW Missouri St.   27   Missouri West. St 23
+Navy              14   Charlotte          0
+Nevada Las Vegas  45   Nevada            27
+New England U.    62   Nichols           26
+New Hampshire     38   Albany (NY)       31
+Newberry          38   Catawba           31
+North Carolina    41   Miami (FL)        31
+North Central     75   Millikin           3
+North Dakota      49   N. Dakota St.     24
+North Park        20   Illinois Weslyn   18
+North Texas       45   Temple            14
+Northern St. (SD) 24   SW Minnesota      17
+Northwestern (IA) 37   Briar Cliff (IA)   8
+Notre Dame        48   Southern Cal      20
+Ohio Dominican    12   Walsh OH          10
+Ohio State        41   Purdue             7
+Ohio Weslyn       19   Hiram Col.        18
+Oklahoma Baptist  20   SW Oklahoma St.   13
+Oklahoma St.      39   Kansas            32
+Oregon St.        36   UCLA              24
+Ottawa (AZ)       83   Arkansas Baptist   0
+Ottawa KS         28   St. Mary's, KS    17
+Pac. Lutheran     62   Willamette         7
+Penn State        63   Massachusetts      0
+Pennsylvania      20   Columbia          17
+Peru St.          37   Graceland         31
+Pikeville         49   Kentucky Chrstn    0
+Pittsburg St.     31   Missouri Southern 21
+Pittsburgh        38   Louisville        21
+Plymouth St.      40   Fitchburg St.     21
+Portland St.      45   N. Arizona        21
+Presbyterian      20   Dayton            17
+Quincy            41   William Jewell    28
+Randolph-Macon    38   Bridgewater,Va.    3
+Redlands          20   Cal Lutheran      10
+Reinhardt         57   St. Andrews        0
+Rensselaer        51   Buffalo St.       28
+Rhodes (TN)       30   Sewanee           10
+Richmond          24   Rhode Island      17
+Rochester (NY)    37   St. Lawrence      27
+Rose-Hulman       52   Bluffton          28
+Rutgers           27   Michigan St.      24
+S. Arkansas       35   Henderson St.     34
+S. Dakota St.     41   N. Iowa            6
+S. Illinois       27   Murray St.         6
+S. Oregon         49   Arizona Chr.       7
+SE Missouri       35   E. Illinois       28
+SE Oklahoma       20   So. Nazarene      19
+Sacramento St.    21   N. Colorado       13
+Saginaw Val. St.  32   St. Xavier        10
+Salisbury         31   Montclair St.     12
+San Diego St.     41   Hawaii            34
+San Jose St.      52   New Mexico        24
+Shenandoah        31   Guilford          20
+Shepherd          33   Millersville      17
+Shorter           19   Clark Atlanta     13
+Siena Heights     24   Taylor            21
+Slippery Rock     49   Gannon            24
+South Dakota      34   Youngstown St.    31
+Southeastern      34   Thomas (GA)       20
+Southern U.       45   Lincoln (CA)      18
+St. Anselm        13   New Haven          9
+St. Francis, Ill. 56   Judson IL         26
+St. Francis, Ind. 56   Lawrence Tech      7
+St. John Fisher   38   Hartwick          21
+St. John's, Minn. 63   Carleton           7
+St. Olaf          37   St. Scholastica   17
+St. Thomas (FL)   31   Florida Memorial  17
+Stevenson         42   Alvernia           6
+Susquehanna       56   Juniata            0
+TCU               44   Brigham Young     11
+TX-Permian Basin  52   E. New Mexico     29
+Tabor             24   Sterling          10
+Tennessee         20   Texas A&M         13
+Tennessee St.     24   Norfolk St.       17
+Tennessee Tech    28   S. Carolina St.    7
+Texas Southern    34   Bethune-Cookman   31
+Texas State       21   UL Monroe         20
+Texas Wesleyan    51   SW Assem Of God    0
+Tiffin            50   Lake Erie          0
+Tn.-Chattanooga   22   Mercer            10
+Toledo            13   Ball St.           6
+Trine             28   Olivet (MI)       14
+Troy St.          19   Army               0
+Tufts             49   Wesleyan          14
+Tusculum          35   Virginia-Wise      7
+UC Davis          17   Weber St.         16
+UNC Pembroke      49   Fairmont St.       7
+UT San Antonio    41   UAB               20
+UVA-Lynchburg     42   Fort Lauderdale   19
+Union (Kentucky)  20   Point             13
+Ursinus           39   Wm. Paterson      15
+Utah              34   California        14
+Utica             24   Morrisville St.    6
+VMI               17   Citadel           13
+Valdosta St.      21   Mississippi Col.  10
+Villanova         21   Elon College       0
+Virginia St.      39   Bluefield         23
+Virginia Tech     30   Wake Forest       13
+Virginia Union    52   Bowie St.          3
+W. Connecticut    56   Framingham St.    34
+W. Montana        27   Rocky Mountain    20
+W. Texas A&M      49   W. New Mexico     27
+Waldorf           34   Dakota St.        14
+Wartburg          31   Dubuque           10
+Washington        36   Oregon            33
+Washington & Lee  41   Ferrum            16
+Waynesburg        24   St. Vincent (PA)   0
+West Alabama      10   West Florida       6
+West Georgia      35   Chowan            24
+West Liberty      24   W. Va. Weslyn      7
+Western Colorado  35   Black Hills St.   20
+Wheaton (MA)      50   Carthage          13
+Whitworth         63   Puget Sound       21
+Widener           31   Misericordia      27
+Wilkes            42   Keystone           7
+William Penn      41   Clarke College    20
+Williams          24   Hamilton          17
+Winston-Salem     41   Shaw              20
+Wis.-LaCrosse     21   Wis.-Platteville  17
+Wis.-Oshkosh      35   Wis.-Eau Claire    7
+Wis.-Stout        51   Wis.-Stevens Pt.  14
+Wis.-Whitewater   21   Wis.-Riv. Falls   14
+Wisc. Lutheran    42   Eureka            14
+Wittenberg        72   Oberlin            7
+Yale              31   Sacred Heart       3
+                   17-Oct-23
+Jacksonville St.  20   W. Kentucky       17
+Liberty           42   Middle Tenn.      35
+South Alabama     55   Southern Miss.     3
+                   18-Oct-23
+Florida Int.      33   Sam Houston St.   27
+New Mexico St.    28   Texas-El Paso      7
+                   19-Oct-23
+Frostburg St.     28   W. Virginia St.   14
+James Madison     20   Marshall           9
+N.C. Central      16   Morgan St.        10
+Rice              42   Tulsa             10
+SE Louisiana      37   Northwstn St (LA) 20
+                   20-Oct-23
+Southern Meth.    55   Temple             0
+W. Connecticut    28   Mass. Maritime     0
+                   21-Oct-23
+Abilene Christian 34   Stephen F.Austin  27
+Air Force         17   Navy               6
+Alabama           34   Tennessee         20
+Albany (NY)       35   Rhode Island      10
+Alcorn State      31   Ark Pine Bluff     7
+Alma              43   Kalamazoo         10
+Anna Maria        52   Dean Academy      20
+Ashland           31   Lake Erie         19
+Augsburg          56   St. Olaf          36
+Augustana (IL)    42   North Park        28
+Augustana (SD)    28   Minnesota St.     10
+Aurora            70   Wisc. Lutheran     7
+Austin Peay       48   S. Utah           45
+Avila             35   Tabor             17
+Baker             41   Missouri Baptist  17
+Baldwin-Wallace   24   Otterbein          0
+Ball St.          24   Cent. Michigan    17
+Baylor            32   Cincinnati        29
+Belhaven          45   Methodist         10
+Bemidji St.       38   Concordia (MN)     3
+Benedict          63   Kentucky St.      14
+Benedictine (IL)  31   Lakeland           6
+Benedictine (KS)  31   Missouri Val.      7
+Bentley           62   American Intl.    12
+Berry College     61   Sewanee           23
+Bethel (TN)       24   Cumberland, Tenn.  7
+Bethel, Kan.      20   Southwestern, KS  13
+Bethel, Minn.     49   Hamline            7
+Bluffton          50   Manchester        12
+Boston College    38   Georgia Tech      23
+Bowie St.         40   Bluefield         11
+Bowling Green     41   Akron             14
+Briar Cliff (IA)  21   Dakota Wesleyan   17
+Bridgewater,Mass. 21   Westfield St.      0
+Bridgewater,Va.   53   Averett College   24
+Brigham Young     27   Texas Tech        14
+Brockport St.     49   Morrisville St.    0
+Buffalo           24   Kent State         6
+Buffalo St.       44   Hilbert           12
+Butler            37   Dayton            10
+CO Mesa           42   Adams St.          7
+CSU-Pueblo        28   Chadron St.        3
+Cal Poly-SLO      24   N. Colorado       17
+Campbell          34   Maine             28
+Carleton          42   St. Scholastica   21
+Carnegie-Mellon   35   Wash. & Jeff.     14
+Case Reserve      35   Waynesburg         0
+Cent. Missouri    77   Emporia St.       27
+Cent. Oklahoma    37   NortheasternSt OK 21
+Cent. Washington  30   W. Texas A&M      14
+Central (Iowa)    72   Nebraska Weslyn    0
+Central Conn. St. 17   Wagner             3
+Central St. OH    48   Clark Atlanta     21
+Centre            59   Millsaps          20
+Chapman           38   Cal Lutheran      10
+Charlotte         10   East Carolina      7
+Christphr Newport 34   Kean              10
+Claremont-Mudd    31   Redlands          17
+Clarion           34   Edinboro          20
+Clarke College    14   Culver-Stockton    7
+Cncrdia-Mhd       49   Macalester         8
+Coast Guard       52   Norwich           17
+Coastal Carolina  27   Arkansas St.      17
+Colgate           28   Georgetown        18
+College of NJ     30   Gettysburg        13
+Colorado Mines    42   Black Hills St.   17
+Concordia (IL)    28   Eureka            27
+Cornell           36   Brown             14
+Cornell (IA)      47   Chicago           34
+Cortland St.      42   St. John Fisher   14
+Dartmouth         20   Columbia           9
+Davenport (MI)    44   Mary              34
+Davidson          42   Valparaiso        21
+DePauw            41   Wittenberg        35
+Defiance          36   Anderson (IN)      6
+Delaware          47   Hampton U.         3
+Delaware Val.     21   Lebanon Val.      17
+Denison           35   Wooster           31
+Drake             25   San Diego         20
+Dubuque           41   Buena Vista        0
+Duquesne          38   St. Francis, Pa.  35
+E. Illinois       25   Bryant College    24
+E. Texas Baptist  16   Texas Lutheran     6
+E. Washington     31   Weber St.         23
+East Stroudsburg  21   Bloomsburg        16
+Edward Waters     31   Albany State (GA) 27
+Eliz. City St.    17   Virginia St.      16
+Elmhurst          29   Millikin          27
+Elon College      28   Monmouth (NJ)     26
+Emory & Henry     27   Tusculum          24
+Endicott          48   Nichols            0
+Evangel           20   Friends           11
+FDU-Florham       41   Alvernia          16
+Fairmont St.      33   Charleston (WV)   30
+Fayetteville St.  14   Johnson Smith      7
+Ferris St.        35   Michigan Tech     21
+Ferrum            28   Guilford           0
+Findlay           23   Walsh OH           0
+Florida A&M       31   Texas Southern    21
+Florida Memorial  34   Webber College    29
+Florida St.       38   Duke              20
+Fort Hays St.     31   Washburn          28
+Fort Valley St.   31   Morehouse          3
+Franklin&Marshall 27   McDaniel          17
+Furman            29   W. Carolina       17
+Gallaudet         38   Alfred State      24
+Gannon            31   Mercyhurst        28
+Gardner-Webb      35   E. Kentucky       32
+Geneva            45   Bethany,W.Va.     20
+George Fox        63   Willamette        10
+Georgetown, Ky.   27   Faulkner           3
+Georgia Southern  38   UL Monroe         28
+Georgia State     20   Louisiana         17
+Glenville St.     44   Concord            7
+Grand Valley St.  73   N. Michigan       14
+Grand View        52   Graceland         13
+Grove City        49   St. Vincent (PA)   0
+Gustav Adolphus   38   St. John's, Minn. 35
+Hamilton          17   Colby              6
+Hardin-Simmons    55   Sul Ross St.       7
+Harding           54   S. Arkansas       20
+Hastings          45   Mount Marty       42
+Henderson St.     42   Ark Monticello    14
+Hendrix-Henderson 50   Rhodes (TN)       49
+Hillsdale         35   Thomas More       33
+Hiram Col.        27   Oberlin           19
+Hope (MI)         45   Olivet (MI)        7
+Howard U.         27   Norfolk St.       23
+Huntingdon        56   Greensboro         8
+Idaho College     35   Carroll (MT)      21
+Idaho St.         38   Portland St.      24
+Illinois Col.     72   Lawrence           0
+Illinois Weslyn   34   Carthage           7
+Incarnate Word    35   McNeese St.       24
+Indianapolis      24   Quincy            14
+Ithaca            24   Rochester (NY)    10
+Jackson St.       21   Miss. Valley St.   6
+John Carroll      63   Capital           17
+Johns Hopkins     42   Ursinus           14
+Kansas St.        41   TCU                3
+Kansas Weslyn     17   St. Mary's, KS    14
+Keiser            51   Southeastern      21
+Kentucky Chrstn   18   St. Andrews       15
+King's Coll. (PA) 28   Eastern (VA)      18
+Knox              14   Grinnell           7
+Kutztown           7   Lock Haven         3
+Lafayette         38   Holy Cross        35
+Langston          51   Arkansas Baptist  20
+Lehigh            27   Bucknell          18
+Lenoir-Rhyne      24   Newberry          10
+Limestone         27   Catawba           16
+Lindsey Wilson    48   Cumberland (KY)   14
+Linfield          55   Puget Sound        6
+Livingstone       27   Shaw              26
+Louisiana St.     62   Army               0
+Lycoming          34   Keystone           7
+MIT               35   SUNY Maritime     28
+MSU-Moorhead      34   SW Minnesota      17
+Marian (IN)       24   St. Francis, Ind. 14
+Marietta          37   Heidelberg        14
+Marist            19   Presbyterian      10
+Mars Hill         21   Carson-Newman     17
+Martin Luther     13   Crown              3
+MaryHardin-Baylor 49   Austin Col.       14
+Maryville (TN)    26   La Grange          6
+Mass.-Dartmouth   42   Fitchburg St.      7
+Mayville St.      20   Waldorf            7
+McKendree         20   Missouri S and T  17
+McMurry           45   Howard Payne      21
+McPherson         28   Bethany (KS)       0
+Memphis           45   UAB               21
+Mercer            31   Wofford           17
+Merchant Marine   40   Worcester Tech    28
+Merrimack         39   LIU-Brooklyn       0
+Miami (FL)        28   Clemson           20
+Michigan          49   Michigan St.       0
+MidAmerica Nazar  59   Cent. Methodist   12
+Middlebury        48   Bates              7
+Midland (NE)      27   Doane             10
+Midwest TX St     33   W. Oregon          6
+Miles             28   Allen             21
+Minn.-Duluth      42   Minot St.          7
+Minnesota         12   Iowa              10
+Minnesota-Morris  34   Westminster (MO)  13
+Mississippi       28   Auburn            21
+Mississippi Col.  38   Chowan            21
+Mississippi St.    7   Arkansas           3
+Missouri          34   South Carolina    12
+Missouri Southern 63   Lincoln (MO)       5
+Missouri St.      28   Murray St.        24
+Missouri West. St 20   Nebraska-Kearney  17
+Monmouth (IL)     59   Beloit             3
+Montana St.       42   Sacramento St.    30
+Montclair St.     14   Wm. Paterson      13
+Moravian          44   Juniata           13
+Morningside       39   Jamestown         29
+Mount St. Joseph  52   Hanover           27
+Mount Union       69   Wilmington (DE)    0
+Muhlenberg        42   Dickinson         21
+N. Dakota St.     52   W. Illinois        7
+N. Illinois       20   E. Michigan       13
+N. Iowa           27   North Dakota       0
+NC Wesleyan       34   Southern Virginia  7
+Nebraska          17   Northwestern       9
+Nevada             6   San Diego St.      0
+Nevada Las Vegas  25   Colorado St.      23
+New England U.    19   Curry             13
+New Hampshire     45   Stony Brook       14
+New Mexico        42   Hawaii            21
+Nicholls St.      27   TX A&M-Commerce    7
+North Alabama     31   Utah Tech         30
+North Central     49   Washington StL     3
+Northern St. (SD) 28   Wayne State (NE)  26
+Northwestern (IA) 35   Dordt             14
+Northwestern (MN) 32   Greenville        12
+Notre Dame (OH)   40   West Liberty      35
+Ohio Dominican    15   Northwood (MI)     0
+Ohio Northern     27   Muskingum         17
+Ohio State        20   Penn State        12
+Ohio University   20   W. Michigan       17
+Oklahoma          31   UCF               29
+Oklahoma Baptist  28   NW Oklahoma        7
+Oklahoma St.      48   West Virginia     34
+Old Dominion      28   Appalachian St.   21
+Oregon            38   Washington St.    24
+Ottawa (AZ)       27   LA Christian      24
+Ottawa KS         55   Sterling          17
+Ouachita          31   Arkansas Tech     24
+Pac. Lutheran     49   Lewis & Clark     14
+Panhandle St.     44   Texas College     32
+Pennsylvania      27   Yale              17
+Peru St.          24   William Penn      13
+Pikeville         51   Bluefield St.     42
+Pittsburg St.     28   NW Missouri St.    7
+Plymouth St.      35   Worcester St.      0
+Pomona-Pitzer     20   LaVerne            7
+Post              16   Franklin Pierce   13
+Princeton         21   Harvard           14
+Randolph-Macon    48   Shenandoah        13
+Reinhardt         44   Point             17
+Rensselaer        37   St. Lawrence       7
+Richmond          33   N. Carolina A&T   10
+Ripon             12   Lake Forest        0
+Rocky Mountain    28   Montana Tech      21
+Roosevelt         48   Olivet Nazarene   24
+Rose-Hulman       50   Franklin          35
+Rutgers           31   Indiana           14
+S. Carolina St.   35   Delaware St.       7
+S. Connecticut    25   Pace              23
+S. Dakota Mines   48   Fort Lewis        10
+S. Dakota St.     17   S. Illinois       10
+S. Oregon         42   Montana St.-North 13
+SE Missouri       28   Tennessee Tech     3
+SE Oklahoma       32   SW Oklahoma St.   13
+SW Assem Of God   15   North American     6
+Saginaw Val. St.  17   Wayne State (MI)  10
+Salisbury         35   Rowan             20
+Samford           27   VMI               14
+San Jose St.      42   Utah St.          21
+Seton Hill        35   Indiana, Pa.      28
+Shepherd          59   West Chester      21
+Shippensburg      13   Millersville       7
+Siena Heights     24   Concordia (MI)    21
+Simpson (IA)      56   Luther            14
+Slippery Rock     42   California, Pa.   21
+So. Nazarene      27   E. Cent. Oklahoma 13
+South Dakota      17   Indiana St.        3
+South Florida     24   Connecticut       21
+Southern U.       28   Bethune-Cookman   18
+Springfield       31   Salve Regina      21
+St. Anselm        14   Assumption         0
+St. Francis, Ill. 55   St. Ambrose        0
+St. Norbert       13   Concordia (WI)     7
+St. Thomas (FL)   73   Ave Maria         10
+St. Thomas (MN)   38   Stetson            6
+Stevenson         33   Misericordia      21
+Stonehill         22   Sacred Heart      19
+Susquehanna       34   Wilkes             7
+TX A&M-Kingsville 35   E. New Mexico     14
+TX-Permian Basin  28   Angelo St.        23
+Tarleton St.      42   Morehead St.       0
+Taylor            54   Madonna           14
+Tenn.-Martin      17   Charleston South.  0
+Tennessee St.     54   Lincoln (CA)       0
+Texas             31   Houston           24
+Texas Wesleyan    24   Wayland Baptist   13
+Thomas (GA)       38   Warner            26
+Tiffin            37   Ky. Wesleyan      12
+Tn.-Chattanooga   34   E. Tennessee St.   3
+Toledo            21   Miami (OH)        17
+Towson St.        34   William & Mary    24
+Trine             35   Albion            28
+Trinity (TX)      57   Southwestern (TX)  7
+Trinity Coll (CT) 41   Williams          14
+Truman State      31   William Jewell    10
+Tufts             34   Amherst           14
+Tulane            35   North Texas       28
+Tuskegee          21   Savannah St.      14
+UCLA              42   Stanford           7
+UNC Pembroke      56   W. Va. Weslyn      0
+UT San Antonio    36   Florida Atlantic  10
+UVA-Lynchburg     45   Lane College      42
+Union (New York)  27   Hobart            10
+Upper Iowa        35   SW Baptist        13
+Utah              34   Southern Cal      32
+Utica             28   Alfred U           0
+Valdosta St.      42   Shorter           14
+Valley City St.   21   Dakota St.        14
+Virginia          31   North Carolina    27
+Virginia Union    57   Lincoln (PA)       0
+Virginia-Wise     34   Erskine           23
+W. Montana        34   Arizona Chr.      30
+W. New England    10   Husson             9
+Wabash            67   Kenyon            18
+Wake Forest       21   Pittsburgh        17
+Wartburg          62   Loras              7
+Washington        15   Arizona St.        7
+Washington & Lee  21   Hampden-Sydney    17
+Wesleyan          35   Bowdoin           30
+West Florida      24   Delta St.         21
+West Georgia      38   North Greenville  14
+Western Colorado  62   N.Mex.Highlands    0
+Westminster (PA)  27   Allegheny         17
+Wheaton (MA)      52   Carroll (WI)       6
+Whitworth         42   Pacific (OR)      20
+Widener           48   Albright           3
+Wingate           38   Barton            24
+Winona St.        42   Sioux Falls       35
+Winston-Salem     24   St. Augustine's   17
+Wis.-LaCrosse     31   Wis.-Oshkosh      28
+Wis.-Platteville  47   Wis.-Eau Claire   14
+Wis.-Riv. Falls   75   Wis.-Stevens Pt.  14
+Wis.-Whitewater   37   Wis.-Stout        20
+Wisconsin         25   Illinois          21
+Youngstown St.    41   Illinois St.      38
+                   24-Oct-23
+Liberty           42   W. Kentucky       29
+New Mexico St.    27   Louisiana Tech    24
+                   25-Oct-23
+Jacksonville St.  41   Florida Int.      16
+Texas-El Paso     37   Sam Houston St.   34
+                   26-Oct-23
+E. New Mexico     62   Lincoln (MO)      17
+Georgia Southern  44   Georgia State     27
+LIU-Brooklyn      24   Central Conn. St. 23
+N.C. Central      62   S. Carolina St.   28
+Ouachita          49   So. Nazarene      28
+Virginia Tech     38   Syracuse          10
+West Georgia      41   Shorter           35
+                   27-Oct-23
+Brown             30   Pennsylvania      26
+Florida Atlantic  38   Charlotte         16
+                   28-Oct-23
+Air Force         30   Colorado St.      13
+Alabama St.       31   Alabama A&M       16
+Albany (NY)       37   Maine             21
+Albany State (GA) 48   Miles              7
+Albion            34   Adrian            21
+Alcorn State      24   Miss. Valley St.   3
+Allegheny         27   Thiel              3
+Allen             59   Edward Waters     21
+Alma              41   Olivet (MI)       20
+Angelo St.        27   W. Texas A&M      10
+Anna Maria        49   Gallaudet         14
+Appalachian St.   48   Southern Miss.    38
+Arizona           27   Oregon St.        24
+Arizona St.       38   Washington St.    27
+Arkansas St.      34   UL Monroe         24
+Arkansas Tech     18   E. Cent. Oklahoma 16
+Ashland           28   Thomas More       20
+Auburn            27   Mississippi St.   13
+Augustana (IL)    44   Illinois Weslyn   14
+Aurora            77   Rockford          10
+Austin Peay       49   North Alabama     39
+Baldwin-Wallace   59   Capital           35
+Bemidji St.       38   Minn.-Duluth      31
+Benedict          38   Savannah St.      17
+Benedictine (IL)  34   Wisc. Lutheran    24
+Benedictine (KS)  30   Baker              6
+Bentley           12   Franklin Pierce   10
+Berry College     53   Hendrix-Henderson  6
+Bethel (TN)       62   Faulkner           0
+Bethel, Minn.     40   Carleton           0
+Black Hills St.   34   Fort Lewis        20
+Bloomsburg        14   Shepherd          10
+Bluefield St.     38   Kentucky Chrstn   21
+Bluffton          45   Anderson (IN)      7
+Boise St.         32   Wyoming            7
+Boston College    21   Connecticut       14
+Bowie St.         19   Eliz. City St.     7
+Brevard           30   La Grange         20
+Bridgewater,Va.   48   Ferrum            16
+Brockport St.     38   Utica              3
+Bryant College    47   Charleston South. 24
+Bucknell          49   Colgate           34
+Butler            17   Valparaiso         7
+CSU-Pueblo        59   CO Mesa           20
+California, Pa.   58   Mercyhurst        19
+Carroll (MT)      21   S. Oregon         13
+Carson-Newman     37   Emory & Henry      7
+Carthage          30   Carroll (WI)      27
+Catawba           32   Barton            27
+Catholic U.       26   Keystone          14
+Cent. Missouri    42   Missouri Southern 21
+Cent. Washington  21   TX A&M-Kingsville 17
+Central St. OH    17   Lane College      14
+Centre            54   Sewanee           22
+Chadron St.       24   N.Mex.Highlands   21
+Chapman           14   Claremont-Mudd    10
+Charleston (WV)   28   Frostburg St.     25
+Chicago           55   Lawrence          12
+Christphr Newport 33   Wm. Paterson      13
+Cncrdia-Mhd       30   Augsburg          10
+Coastal Carolina  34   Marshall           6
+Coe               64   Luther             2
+College of NJ     36   Salisbury         27
+Colorado Mines    42   Western Colorado   7
+Concord           38   W. Va. Weslyn      9
+Concordia (MI)    67   Madonna            0
+Concordia (MN)    20   Northern St. (SD) 14
+Concordia (WI)    35   Eureka            21
+Cornell (IA)      28   Knox              21
+Cortland St.      73   Hartwick           7
+Cumberland (KY)   41   Campbellsville    38
+Cumberland, Tenn. 62   St. Andrews       15
+Curry             48   Nichols           46
+Dakota Wesleyan   34   Jamestown         28
+Davenport (MI)    24   Saginaw Val. St.  21
+Davidson          45   Presbyterian      28
+DePauw            58   Kenyon             7
+Dean Academy      19   Castleton State   18
+Defiance          51   Manchester        27
+Delaware          51   Towson St.        13
+Delaware Val.     21   Stevenson         14
+Dickinson         28   Gettysburg        25
+Dickinson St.     41   Waldorf            0
+Doane             21   Mount Marty       20
+Dordt             49   Briar Cliff (IA)   0
+Drake             33   Stetson            7
+Dubuque           45   Simpson (IA)      21
+Duquesne          27   Sacred Heart       0
+E. Kentucky       34   Utah Tech         30
+E. Texas Baptist  24   Sul Ross St.      10
+East Stroudsburg  41   Shippensburg      17
+Emporia St.       39   Nebraska-Kearney  17
+Endicott          23   Husson            13
+Evangel           17   McPherson          7
+FDU-Florham       24   Eastern (VA)      19
+Fairmont St.      21   W. Virginia St.   20
+Fayetteville St.  21   Shaw              14
+Ferris St.        56   American Intl.     0
+Findlay           24   Ohio Dominican     3
+Florida A&M       45   Prairie View       7
+Florida Memorial  35   Southeastern      24
+Florida St.       41   Wake Forest       16
+Fort Hays St.     34   Cent. Oklahoma     0
+Fort Valley St.   37   UVA-Lynchburg     26
+Framingham St.    28   Mass. Maritime     3
+Franklin&Marshall 40   Kean              14
+Fresno St.        31   Nevada Las Vegas  24
+Friends           43   Bethel, Kan.       0
+Furman            16   E. Tennessee St.   8
+Gannon            16   Indiana, Pa.      15
+Gardner-Webb      38   Tenn.-Martin      34
+Geneva            43   Waynesburg        29
+George Fox        35   Pac. Lutheran     25
+Georgetown, Ky.   10   Lindsey Wilson     0
+Georgia           43   Florida           20
+Georgia Tech      46   North Carolina    42
+Graceland         49   Clarke College     7
+Grambling St.     28   Bethune-Cookman   14
+Grand Valley St.  44   Michigan Tech     13
+Grand View        45   Peru St.           0
+Greensboro        47   Southern Virginia  7
+Greenville        38   Westminster (MO)   6
+Grove City        56   Bethany,W.Va.     14
+Gustav Adolphus   41   St. Olaf          40
+Hamilton          36   Tufts             34
+Hamline           38   Macalester        27
+Hampden-Sydney    42   Guilford          21
+Hampton U.        26   N. Carolina A&T   24
+Hardin-Simmons    24   MaryHardin-Baylor 14
+Harding           55   SE Oklahoma        0
+Harvard           17   Dartmouth          9
+Heidelberg        49   Wilmington (DE)   35
+Henderson St.     51   NW Oklahoma        0
+Hillsdale         52   Lake Erie         21
+Hobart            35   St. Lawrence       0
+Holy Cross        49   Fordham           47
+Hope (MI)         63   Kalamazoo         17
+Houston Chr.      17   TX A&M-Commerce   13
+Howard Payne      31   Texas Lutheran    27
+Howard U.         17   Delaware St.      10
+Idaho             24   Montana St.       21
+Idaho College     42   E. Oregon         38
+Illinois Col.     93   Grinnell           0
+Incarnate Word    17   Lamar              7
+Indiana Wesleyan  52   St. Francis, Ind. 21
+Indianapolis      35   Upper Iowa         7
+Iowa St.          30   Baylor            18
+Ithaca            62   Buffalo St.        0
+Jackson St.       40   Ark Pine Bluff    14
+James Madison     30   Old Dominion      27
+John Carroll      42   Muskingum         13
+Johns Hopkins     34   Muhlenberg        28
+Johnson Smith     35   Winston-Salem     31
+Kansas            38   Oklahoma          33
+Kansas St.        41   Houston            0
+Kansas Weslyn     31   Tabor              0
+Keiser            54   Ave Maria          7
+Kennesaw State    28   Lincoln (CA)      12
+Kentucky St.      23   Morehouse         21
+Kutztown          17   Millersville      12
+LA Christian      46   SW Assem Of God   27
+Lafayette         35   Georgetown        25
+Lake Forest       41   Beloit             0
+Lebanon Val.      34   Alvernia          26
+Limestone         28   Newberry          24
+Linfield          42   Pacific (OR)      27
+Livingstone       34   St. Augustine's   14
+Loras             49   Buena Vista       21
+Louisiana         33   South Alabama     20
+Louisville        23   Duke               0
+Lycoming          56   Juniata           10
+Lyon College      43   Hilbert           27
+MIT               29   Norwich           26
+MSU-Moorhead      20   Winona St.        17
+Marian (IN)       34   Taylor            20
+Marietta          21   Ohio Northern     17
+Mars Hill         49   Virginia-Wise     18
+Mary              27   Minot St.         23
+Maryville (TN)    20   Belhaven           7
+Mass.-Dartmouth   34   Bridgewater,Mass. 14
+Massachusetts     21   Army              14
+McKendree         41   Quincy            34
+McMurry           51   Austin Col.       13
+Memphis           45   North Texas       42
+Mercer            45   W. Carolina       38
+Miami (FL)        29   Virginia          26
+Miami (OH)        30   Ohio University   16
+MidAmerica Nazar  28   Missouri Baptist  21
+Midland (NE)      39   Concordia (NE)    37
+Midwest TX St     56   W. New Mexico      7
+Minnesota         27   Michigan St.      12
+Minnesota St.     30   SW Minnesota      12
+Minnesota-Morris  56   Crown             23
+Misericordia      38   Albright           9
+Mississippi       33   Vanderbilt         7
+Missouri S and T  57   William Jewell    20
+Missouri Val.     41   Cent. Methodist   31
+Missouri West. St 44   NortheasternSt OK  0
+Monmouth (IL)     45   Ripon              3
+Montana           40   N. Colorado        0
+Montana Tech      40   Arizona Chr.      31
+Morgan St.        32   Norfolk St.       28
+Mount St. Joseph  55   Franklin           0
+Mount Union       51   Otterbein         14
+N. Arizona        38   UC Davis          21
+N. Carolina St.   24   Clemson           17
+N. Dakota St.     38   Murray St.         6
+N. Iowa           24   Illinois St.      21
+NC Wesleyan       27   Methodist          3
+NW Missouri St.   52   Washburn          31
+Nebraska          31   Purdue            14
+Nevada            34   New Mexico        24
+New Haven         25   Assumption        14
+North Central     56   North Park         0
+North Dakota      36   Indiana St.       33
+North Greenville  34   Mississippi Col.  10
+Northwestern      33   Maryland          27
+Northwestern (IA) 34   Morningside       20
+Northwestern (MN) 21   Martin Luther     14
+Northwood (MI)    28   Ky. Wesleyan      13
+Notre Dame        58   Pittsburgh         7
+Notre Dame (OH)   28   Wheeling U.       25
+Ohio State        24   Wisconsin         10
+Ohio Weslyn       50   Oberlin            7
+Oklahoma Baptist  28   Ark Monticello     7
+Oklahoma St.      45   Cincinnati        13
+Olivet Nazarene   35   St. Francis, Ill.  7
+Oregon            35   Utah               6
+Ottawa (AZ)       68   Langston          27
+Ottawa KS         42   Avila             14
+Pace              23   St. Anselm        16
+Panhandle St.     57   North American     0
+Penn State        33   Indiana           24
+Pikeville         42   Point             31
+Pittsburg St.     55   Sioux Falls        6
+Plymouth St.      20   Westfield St.     19
+Pomona-Pitzer     38   Cal Lutheran      24
+Portland St.      47   E. Washington     35
+Princeton         14   Cornell            3
+Puget Sound       40   Willamette        21
+Randolph-Macon    35   Washington & Lee  12
+Redlands          40   LaVerne           12
+Reinhardt         45   Union (Kentucky)  10
+Rensselaer        49   Rochester (NY)    10
+Rhode Island      34   New Hampshire     28
+Rhodes (TN)       34   Birmingham South.  8
+Richmond          44   Campbell          13
+Roosevelt         56   Judson IL         28
+Rose-Hulman       44   Hanover           39
+Rowan             21   Montclair St.     14
+S. Arkansas       41   SW Oklahoma St.   10
+S. Connecticut    35   Post              14
+S. Dakota Mines   63   Adams St.          9
+S. Dakota St.     37   South Dakota       3
+S. Illinois       63   W. Illinois        0
+S. Utah           52   Abilene Christian 14
+SE Missouri       35   Nicholls St.      31
+SUNY Maritime     24   Coast Guard       21
+SW Baptist        20   Truman State      17
+Sacramento St.    51   Idaho St.         16
+Salve Regina      27   Worcester Tech    24
+Samford           37   Citadel            7
+San Diego         17   Morehead St.      11
+San Jose St.      35   Hawaii             0
+Seton Hill        38   Edinboro          28
+Shenandoah        49   Averett College   35
+Siena Heights     31   Lawrence Tech     10
+Slippery Rock     42   Clarion           14
+Southern Cal      50   California        49
+Southern Meth.    69   Tulsa             10
+Southern U.       23   Texas Southern    17
+Southwestern, KS  50   Bethany (KS)      19
+Springfield       21   Merchant Marine   14
+St. Francis, Pa.  28   Merrimack         21
+St. John Fisher   30   Alfred U          12
+St. John's, Minn. 62   St. Scholastica    7
+St. Norbert       56   Concordia (IL)     7
+St. Thomas (FL)   73   Warner            12
+St. Thomas (MN)   49   Marist            14
+St. Xavier        38   St. Ambrose       13
+Sterling          33   St. Mary's, KS    30
+Susquehanna       33   Moravian          14
+TX-Permian Basin  28   W. Oregon         16
+Tarleton St.      25   Cent. Arkansas    23
+Tennessee         33   Kentucky          27
+Tennessee St.     43   Lindenwood        20
+Tennessee Tech    38   Robert Morris PA  13
+Texas             35   Brigham Young      6
+Texas A&M         30   South Carolina    17
+Texas Wesleyan    72   Texas College     16
+Tiffin            40   Walsh OH          13
+Tn.-Chattanooga   24   VMI               23
+Trinity (TX)      63   Millsaps           0
+Troy St.          31   Texas State       13
+Tulane            30   Rice              28
+Tusculum          52   Erskine           14
+Tuskegee          14   Clark Atlanta      3
+UCLA              28   Colorado          16
+UNC Pembroke      49   Glenville St.      0
+UT San Antonio    41   East Carolina     27
+Ursinus           49   McDaniel           6
+Valdosta St.      31   West Florida      28
+Valley City St.   24   Mayville St.       7
+Villanova         48   Stony Brook       13
+Virginia St.      75   Lincoln (PA)      25
+Virginia Union    57   Bluefield         12
+W. Michigan       45   E. Michigan       21
+W. Montana        44   Montana St.-North  0
+W. New England    42   New England U.     7
+Wabash            52   Wittenberg        20
+Wagner            28   Stonehill         17
+Wartburg          24   Central (Iowa)    14
+Wash. & Jeff.     38   Case Reserve      33
+Washington        42   Stanford          33
+Washington StL    66   Elmhurst           0
+Wayland Baptist   32   Arkansas Baptist   7
+Wayne State (MI)  41   N. Michigan       17
+Wayne State (NE)  14   Augustana (SD)    12
+Webber College    28   Thomas (GA)       10
+Wesleyan          34   Amherst            7
+West Alabama      14   Chowan             6
+West Chester      42   Lock Haven        27
+West Virginia     41   UCF               28
+Westminster (PA)  22   St. Vincent (PA)  20
+Wheaton (MA)      75   Millikin           0
+Whitworth         63   Lewis & Clark     21
+Widener           31   King's Coll. (PA) 14
+William & Mary    31   Monmouth (NJ)     28
+William Penn      37   Culver-Stockton   16
+Wingate           34   Lenoir-Rhyne      30
+Wis.-LaCrosse     59   Wis.-Eau Claire   14
+Wis.-Oshkosh      66   Wis.-Stevens Pt.  28
+Wis.-Riv. Falls   49   Wis.-Stout        35
+Wis.-Whitewater   45   Wis.-Platteville  23
+Wooster           47   Hiram Col.        14
+Yale              35   Columbia           7
+Youngstown St.    44   Missouri St.      28
+                   30-Oct-23
+W. Connecticut    58   Worcester St.     10
+                   31-Oct-23
+Cent. Michigan    37   N. Illinois       31
+Toledo            31   Buffalo           13
+                   01-Nov-23
+Akron             31   Kent State        27
+Bowling Green     24   Ball St.          21
+                   02-Nov-23
+Bethune-Cookman   20   Miss. Valley St.   7
+Charleston (WV)   42   West Liberty      17
+Duke              24   Wake Forest       21
+Texas Tech        35   TCU               28
+Troy St.          28   South Alabama     10
+                   03-Nov-23
+Boston College    17   Syracuse          10
+Dartmouth         23   Princeton         21
+Kalamazoo         33   Greenville        23
+Wyoming           24   Colorado St.      15
+                   04-Nov-23
+Abilene Christian 24   Utah Tech          7
+Alabama           42   Louisiana St.     28
+Alabama St.       17   Grambling St.      6
+Albany (NY)       24   William & Mary     8
+Albany State (GA) 13   Fort Valley St.    7
+Albion            35   Olivet (MI)        7
+Alcorn State      44   Southern U.       21
+Alfred State      44   Castleton State    8
+Alfred U          42   Hartwick           6
+Alma              45   Adrian            24
+Alvernia          28   Albright          16
+American Intl.    41   Post              17
+Amherst           27   Bowdoin           23
+Angelo St.        27   Midwest TX St     12
+Appalachian St.   31   Marshall           9
+Arizona           27   UCLA              10
+Arkansas          39   Florida           36
+Arkansas St.      37   Louisiana         17
+Arkansas Tech     14   SE Oklahoma        7
+Army              23   Air Force          3
+Ashland           37   Findlay           35
+Auburn            31   Vanderbilt        15
+Augsburg          42   Macalester        34
+Augustana (IL)    16   Carthage          13
+Augustana (SD)    31   Northern St. (SD) 21
+Aurora            70   Lakeland          14
+Austin Peay       33   E. Kentucky       30
+Averett College   34   Guilford          13
+Avila             41   Sterling          10
+Baker             58   Cent. Methodist    7
+Baldwin-Wallace   24   Heidelberg        21
+Belhaven          61   Southern Virginia  7
+Bemidji St.       27   MSU-Moorhead      14
+Benedict          37   Allen              9
+Benedictine (IL)  41   Eureka            21
+Benedictine (KS)  34   Missouri Baptist  16
+Bentley           31   Assumption         6
+Berry College     53   Birmingham South.  6
+Bethel (TN)       36   Campbellsville    14
+Bethel, Kan.      27   Bethany (KS)       3
+Bethel, Minn.     31   Cncrdia-Mhd       14
+Black Hills St.   35   Adams St.         28
+Bloomsburg        34   Millersville      31
+Bluefield St.     20   Union (Kentucky)  12
+Bowie St.         46   Lincoln (PA)      39
+Briar Cliff (IA)  39   Jamestown         30
+Bridgewater,Mass. 21   Framingham St.     7
+Butler            49   Morehead St.       7
+CO Mesa           38   Chadron St.       22
+CSU-Pueblo        35   S. Dakota Mines   28
+California, Pa.   34   Gannon            17
+Carnegie-Mellon   21   Westminster (PA)   7
+Carroll (WI)      41   Millikin           0
+Carson-Newman     52   Virginia-Wise      7
+Case Reserve      42   Allegheny         14
+Catholic U.       40   Wilkes            35
+Cent. Arkansas    27   North Alabama     14
+Cent. Missouri    47   Fort Hays St.     28
+Cent. Oklahoma    41   Washburn           7
+Central (Iowa)    56   Buena Vista       22
+Central St. OH    20   Kentucky St.      10
+Centre            47   Hendrix-Henderson 29
+Chapman           37   LaVerne            7
+Charleston South. 35   Tennessee St.     21
+Charlotte         33   Tulsa             26
+Chicago           48   Grinnell          14
+Claremont-Mudd    30   Cal Lutheran      13
+Clarke College    31   Peru St.          17
+Clemson           31   Notre Dame        23
+Coast Guard       28   Worcester Tech    21
+Coastal Carolina  28   Old Dominion      24
+Coe               23   Dubuque           20
+Colgate           37   Lafayette         34
+College of NJ     31   Wm. Paterson      14
+Colorado Mines    77   N.Mex.Highlands    3
+Concordia (NE)    55   Doane             26
+Concordia (WI)    66   Rockford          21
+Cortland St.      41   Brockport St.     17
+Dakota St.        19   Mayville St.      14
+Davidson          61   Stetson           41
+Delaware Val.     28   Misericordia       6
+Delta St.         47   West Georgia      13
+Denison           38   Kenyon            15
+Dickinson St.     48   Valley City St.   17
+Dordt             28   Morningside       24
+Drake             10   Marist             3
+Duquesne          34   Wagner            26
+E. Illinois       16   Lindenwood        10
+E. New Mexico     35   W. Texas A&M      27
+E. Washington     48   Cal Poly-SLO      13
+Edward Waters     41   UVA-Lynchburg     17
+Eliz. City St.    38   Bluefield         20
+Elon College      33   Delaware          27
+Emory & Henry     56   Erskine           14
+Emporia St.       63   Missouri Southern 28
+Endicott          48   Curry              6
+Evangel           17   Southwestern, KS  14
+FDU-Florham       28   Lebanon Val.      21
+Fairmont St.      55   W. Va. Weslyn     20
+Faulkner          24   Point             21
+Fayetteville St.  40   Winston-Salem     34
+Ferris St.        28   Davenport (MI)    10
+Florida A&M       42   Alabama A&M       28
+Florida Memorial  37   Thomas (GA)       24
+Florida St.       24   Pittsburgh         7
+Fordham           27   Bucknell          21
+Fort Lauderdale   34   North American    29
+Franklin          36   Manchester         0
+Fresno St.        37   Boise St.         30
+Friends           66   McPherson         17
+Furman            17   Tn.-Chattanooga   14
+Gallaudet         38   Dean Academy      16
+Gardner-Webb      45   Bryant College    44
+Georgetown, Ky.   31   Cumberland (KY)   17
+Georgia           30   Missouri          21
+Georgia Tech      45   Virginia          17
+Glenville St.     13   Frostburg St.     10
+Graceland         47   Culver-Stockton    7
+Grand Valley St.  66   Wayne State (MI)  10
+Grand View        35   William Penn       6
+Gustav Adolphus   38   Carleton          20
+Hamline           33   St. Scholastica   26
+Hampden-Sydney    26   Shenandoah        25
+Hampton U.        42   Maine             35
+Hanover           69   Anderson (IN)      0
+Hardin-Simmons    59   Austin Col.       19
+Harding           48   E. Cent. Oklahoma  7
+Harvard           38   Columbia          24
+Hastings          37   Midland (NE)      32
+Hawaii            27   Nevada            14
+Henderson St.     56   SW Oklahoma St.    0
+Hillsdale         28   Walsh OH           3
+Hobart            31   Rensselaer        21
+Holy Cross        28   Lehigh            24
+Hope (MI)         38   Trine             28
+Houston           25   Baylor            24
+Huntingdon        31   Brevard           27
+Husson            30   New England U.    27
+Idaho             27   N. Colorado       13
+Illinois          27   Minnesota         26
+Illinois Col.     76   Cornell (IA)      34
+Illinois St.      36   Missouri St.      35
+Indiana           20   Wisconsin         14
+Indiana Wesleyan  42   Marian (IN)       40
+Indiana, Pa.      39   Clarion           27
+Iowa              10   Northwestern       7
+Ithaca            51   St. Lawrence      14
+Jackson St.       21   Texas Southern    19
+James Madison     42   Georgia State     14
+Johns Hopkins     34   Dickinson         23
+Johnson Smith     38   Livingstone       17
+Kansas            28   Iowa St.          21
+Keiser            59   Webber College    17
+Kentucky          24   Mississippi St.    3
+Keystone          42   Juniata           35
+King's Coll. (PA) 16   Stevenson          8
+Knox              48   Lawrence          28
+Kutztown          27   West Chester      17
+Ky. Wesleyan      43   Lake Erie         37
+LIU-Brooklyn      29   St. Francis, Pa.  28
+Lamar             41   TX A&M-Commerce   21
+Lane College      27   Savannah St.      21
+Lawrence Tech     41   Taylor            37
+Lenoir-Rhyne      28   Catawba            7
+Lewis & Clark     66   Puget Sound       24
+Liberty           56   Louisiana Tech    30
+Limestone         33   Barton            28
+Lindsey Wilson    45   Cumberland, Tenn.  2
+Linfield          42   Pac. Lutheran     19
+Lock Haven        21   Shippensburg       7
+Loras             82   Simpson (IA)      16
+Louisville        34   Virginia Tech      3
+Lycoming          31   Moravian          20
+Lyon College      28   Luther            21
+Marietta          45   Capital           14
+Mary              32   SW Minnesota      28
+MaryHardin-Baylor 21   E. Texas Baptist  12
+Maryville (TN)    49   NC Wesleyan       14
+Massachusetts     31   Merrimack         21
+McKendree         21   Indianapolis      16
+McMurry           36   Texas Lutheran    33
+Memphis           59   South Florida     50
+Mercer            38   Citadel           16
+Methodist         38   La Grange         27
+Michigan          41   Purdue            13
+Michigan St.      20   Nebraska          17
+Michigan Tech     37   Minot St.          3
+MidAmerica Nazar  28   Missouri Val.     24
+Middlebury        41   Hamilton           7
+Miles             35   Tuskegee          10
+Minn.-Duluth      44   Concordia (MN)    32
+Minnesota St.     49   Winona St.        42
+Minnesota-Morris  30   Martin Luther     27
+Mississippi       38   Texas A&M         35
+Missouri S and T  21   Quincy            14
+Missouri West. St 31   Pittsburg St.     30
+Monmouth (IL)     16   Lake Forest       14
+Monmouth (NJ)     56   Stony Brook       17
+Montana           34   Sacramento St.     7
+Montana St.       45   N. Arizona        21
+Montana Tech      28   Montana St.-North  0
+Montclair St.     19   Christphr Newport 14
+Morehouse         35   Clark Atlanta     21
+Morgan St.        24   Delaware St.      17
+Morrisville St.   30   St. John Fisher   15
+Mount St. Joseph  49   Bluffton          27
+Mount Union       49   John Carroll      14
+Muhlenberg        48   Franklin&Marshall 45
+Muskingum         64   Wilmington (DE)   63
+N. Carolina St.   20   Miami (FL)         6
+N. Iowa           50   W. Illinois        6
+N.C. Central      38   Norfolk St.       24
+NW Missouri St.   52   NortheasternSt OK  0
+Nebraska-Kearney  38   Lincoln (MO)       6
+Nevada Las Vegas  56   New Mexico        14
+New Haven         17   Pace              14
+New Mexico St.    13   Middle Tenn.       7
+Nicholls St.      45   Incarnate Word    32
+North Carolina    59   Campbell           7
+North Central     83   Illinois Weslyn   26
+North Dakota      45   Murray St.        31
+North Greenville  27   Shorter           17
+North Park        31   Elmhurst           8
+Northwestern (IA) 49   Dakota Wesleyan   28
+Northwestern (MN) 36   Westminster (MO)  18
+Northwood (MI)    24   Thomas More       20
+Notre Dame (OH)   24   Concord           14
+Ohio Northern     49   Otterbein          6
+Ohio State        35   Rutgers           16
+Oklahoma Baptist  55   Ouachita          14
+Oklahoma St.      27   Oklahoma          24
+Oregon            63   California        19
+Oregon St.        26   Colorado          19
+Ottawa KS         27   Kansas Weslyn     24
+Pacific (OR)      64   Willamette         6
+Panhandle St.     46   SW Assem Of God   23
+Penn State        51   Maryland          15
+Pennsylvania      23   Cornell            8
+Pikeville         68   St. Andrews        0
+Plymouth St.      31   Mass. Maritime    21
+Pomona-Pitzer     20   Redlands           7
+Prairie View      38   Ark Pine Bluff    14
+Randolph-Macon    49   Ferrum            16
+Reinhardt         56   Kentucky Chrstn    0
+Ripon             52   Beloit            17
+Robert Morris PA  21   SE Missouri       20
+Rocky Mountain    52   Arizona Chr.      14
+Rose-Hulman       78   Defiance          54
+Rowan             16   Kean               6
+S. Arkansas       42   NW Oklahoma       14
+S. Carolina St.   27   Howard U.         24
+S. Dakota St.     33   N. Dakota St.     16
+S. Oregon         41   E. Oregon         24
+S. Utah           35   Lincoln (CA)       6
+SE Louisiana      38   McNeese St.       24
+SW Baptist        71   William Jewell     3
+Sacred Heart      31   Central Conn. St. 24
+Saginaw Val. St.  62   N. Michigan       17
+Salisbury         59   McDaniel          20
+Salve Regina      49   SUNY Maritime      0
+Sam Houston St.   24   Kennesaw State    21
+San Diego         23   Presbyterian      13
+Seton Hill        14   Mercyhurst         0
+Shaw              21   St. Augustine's   14
+Shepherd          44   East Stroudsburg  17
+Siena Heights     77   Madonna           14
+Slippery Rock     56   Edinboro          18
+So. Nazarene      41   Ark Monticello    14
+South Carolina    38   Jacksonville St.  28
+South Dakota      14   S. Illinois        7
+Southern Meth.    36   Rice              31
+Southern Miss.    24   UL Monroe          7
+Southwestern (TX) 42   Millsaps          13
+Springfield       58   Norwich            7
+St. Ambrose       41   Judson IL         21
+St. Anselm        24   Franklin Pierce   17
+St. Francis, Ind. 34   Concordia (MI)    24
+St. John's, Minn. 49   St. Olaf          10
+St. Mary's, KS    40   Tabor             31
+St. Thomas (FL)   33   Southeastern      21
+St. Xavier        38   Olivet Nazarene   21
+Stanford          10   Washington St.     7
+Sul Ross St.      47   Howard Payne      42
+TX A&M-Kingsville 34   W. Oregon         27
+TX-Permian Basin  56   W. New Mexico      3
+Tarleton St.      59   Stephen F.Austin  17
+Temple            32   Navy              18
+Tenn.-Martin      44   Tennessee Tech    41
+Tennessee         59   Connecticut        3
+Texas             33   Kansas St.        30
+Texas College     38   Wayland Baptist   36
+Texas State       45   Georgia Southern  24
+Texas Wesleyan    42   Langston          19
+Thiel             30   St. Vincent (PA)  27
+Tiffin            44   Ohio Dominican    10
+Towson St.        42   N. Carolina A&T   32
+Trinity (TX)      44   Sewanee            6
+Trinity Coll (CT) 52   Bates              7
+Truman State      14   Upper Iowa         7
+Tufts             38   Colby              0
+Tulane            13   East Carolina     10
+Tusculum          29   Mars Hill         27
+UAB               45   Florida Atlantic  42
+UC Davis          37   Portland St.      23
+UCF               28   Cincinnati        26
+UT San Antonio    37   North Texas       29
+Union (New York)  43   Buffalo St.       17
+Ursinus           48   Gettysburg        35
+Utah              55   Arizona St.        3
+Utah St.          32   San Diego St.     24
+VMI               31   E. Tennessee St.  24
+Valdosta St.      20   West Alabama      14
+Valparaiso        21   Dayton             7
+Villanova         45   New Hampshire     33
+Virginia Union    30   Virginia St.      20
+W. Carolina       28   Wofford           25
+W. Connecticut    54   Fitchburg St.      0
+W. Kentucky       21   Texas-El Paso     13
+W. Montana        38   Carroll (MT)      17
+W. New England    69   Nichols           28
+Wabash            52   Hiram Col.        13
+Warner            40   Ave Maria         32
+Wartburg          45   Nebraska Weslyn    0
+Wash. & Jeff.     45   Geneva             7
+Washington        52   Southern Cal      42
+Washington & Lee  31   Bridgewater,Va.   21
+Wayne State (NE)  28   Sioux Falls       20
+Waynesburg        35   Bethany,W.Va.     26
+Weber St.         33   Idaho St.         21
+Wesleyan          30   Williams          22
+West Florida      42   Mississippi Col.  14
+West Virginia     37   Brigham Young      7
+Western Colorado  57   Fort Lewis         3
+Westfield St.     30   Worcester St.     12
+Wheaton (MA)      36   Washington StL    35
+Wheeling U.       29   W. Virginia St.   22
+Whitworth         24   George Fox        13
+Widener           42   Eastern (VA)      10
+Wingate           21   Newberry          17
+Wis.-LaCrosse     31   Wis.-Riv. Falls   28
+Wis.-Platteville  22   Wis.-Oshkosh       7
+Wis.-Stout        38   Wis.-Eau Claire   13
+Wis.-Whitewater   48   Wis.-Stevens Pt.   0
+Wisc. Lutheran    28   Concordia (IL)    21
+Wittenberg        36   Ohio Weslyn       28
+Wooster           36   Oberlin            0
+Yale              36   Brown             17
+Youngstown St.    19   Indiana St.        7
+                   07-Nov-23
+Ball St.          20   N. Illinois       17
+Ohio University   20   Buffalo           10
+W. Michigan       38   Cent. Michigan    28
+                   08-Nov-23
+Bowling Green     49   Kent State        19
+Miami (OH)        19   Akron              0
+Toledo            49   E. Michigan       23
+                   09-Nov-23
+Louisville        31   Virginia          24
+Southern Miss.    34   Louisiana         31
+                   10-Nov-23
+Christphr Newport 27   College of NJ     21
+Grambling St.     43   Ark Pine Bluff    14
+Muhlenberg        45   Montclair St.     14
+Nevada Las Vegas  34   Wyoming           14
+Rowan             24   Wm. Paterson      14
+Salisbury         31   Kean              28
+Southern Meth.    45   North Texas       21
+                   11-Nov-23
+Alabama           49   Kentucky          21
+Alabama St.       20   Miss. Valley St.   3
+Albany (NY)       38   Stony Brook       20
+Alfred State      55   Dean Academy       3
+Alma              50   Albion            14
+Amherst           21   Williams          14
+Angelo St.        31   W. Oregon         13
+Anna Maria        58   Castleton State   23
+Appalachian St.   42   Georgia State     14
+Arizona           34   Colorado          31
+Arizona St.       17   UCLA               7
+Army              17   Holy Cross        14
+Ashland           56   Ky. Wesleyan      23
+Auburn            48   Arkansas          10
+Augustana (SD)    38   Bemidji St.       19
+Aurora            23   Concordia (WI)     0
+Austin Peay       30   Utah Tech         17
+Averett College   38   Ferrum            10
+Avila             48   St. Mary's, KS    21
+Baker             48   Missouri Val.     14
+Barton            48   Erskine           14
+Belhaven          46   Brevard           19
+Benedict          47   Albany State (GA) 10
+Berry College     36   Rhodes (TN)       12
+Bethel (TN)       34   Lindsey Wilson     8
+Bethel, Minn.     31   Gustav Adolphus    7
+Bethune-Cookman   31   Alabama A&M       14
+Bluffton          42   Defiance          35
+Boise St.         42   New Mexico        14
+Bowdoin           35   Colby             14
+Bridgewater,Mass. 48   Mass. Maritime     6
+Bridgewater,Va.   47   Guilford          15
+Brockport St.     35   Alfred U          14
+Brown             21   Columbia          14
+Bryant College    38   Lindenwood         3
+Buena Vista       25   Nebraska Weslyn   20
+CO Mesa           38   N.Mex.Highlands   24
+CSU-Pueblo        42   Black Hills St.   37
+California        42   Washington St.    39
+Carleton          41   Augsburg          25
+Carnegie-Mellon   31   Case Reserve      21
+Carthage          24   Millikin          15
+Catawba           24   Carson-Newman     14
+Catholic U.       34   Juniata           20
+Cent. Arkansas    27   E. Kentucky       24
+Cent. Missouri    63   Lincoln (MO)      27
+Central (Iowa)    69   Simpson (IA)      14
+Centre            10   Birmingham South.  6
+Chadron St.       27   S. Dakota Mines   19
+Chapman           41   Pomona-Pitzer     20
+Charleston (WV)   52   W. Virginia St.   20
+Chicago           15   Lake Forest       14
+Cincinnati        24   Houston           14
+Claremont-Mudd    21   Redlands           6
+Clemson           42   Georgia Tech      21
+Coastal Carolina  31   Texas State       23
+Coe               54   Loras             14
+Colgate           37   Lehigh            21
+Colorado Mines    82   Fort Lewis         0
+Colorado St.      22   San Diego St.     19
+Concordia (MI)    21   Indiana Wesleyan  10
+Concordia (NE)    45   Mount Marty       21
+Cornell (IA)      51   Grinnell          20
+Cortland St.      38   Ithaca            28
+Cumberland, Tenn. 10   Faulkner           3
+Dartmouth         30   Cornell           14
+Dayton            35   Marist             6
+DePauw            33   Wabash            30
+Delaware          45   Campbell           7
+Delaware Val.     23   Widener            6
+Delta St.         41   Mississippi Col.   3
+Denison           29   Ohio Weslyn       26
+Dickinson St.     52   Dakota St.         0
+Doane             20   Hastings          15
+Dordt             23   Dakota Wesleyan   12
+Drake             16   Presbyterian      14
+Dubuque           42   Luther            10
+E. Illinois       30   Tennessee St.     17
+East Carolina     22   Florida Atlantic   7
+East Stroudsburg  37   California, Pa.   30
+Edinboro          36   Lock Haven        30
+Emporia St.       45   Fort Hays St.     42
+Endicott          41   New England U.    14
+Evangel           41   Bethel, Kan.      38
+Ferris St.        63   Wayne State (MI)  19
+Florida A&M       28   Lincoln (CA)       0
+Florida St.       27   Miami (FL)        20
+Framingham St.    41   Worcester St.      6
+Franklin Pierce   21   American Intl.    10
+Franklin&Marshall 35   Gettysburg        10
+Friends           68   Bethany (KS)       6
+Frostburg St.     50   Fairmont St.      20
+Furman            37   VMI                3
+Gardner-Webb      35   Tennessee Tech     0
+George Fox        45   Pacific (OR)      42
+Georgetown        50   Bucknell          47
+Georgetown, Ky.   35   Campbellsville     7
+Georgia           52   Mississippi       17
+Glenville St.     41   W. Va. Weslyn      3
+Graceland         15   William Penn       7
+Grand Valley St.  38   Davenport (MI)     0
+Grand View        40   Clarke College     0
+Greensboro        27   Methodist         21
+Greenville        64   Crown             20
+Grove City        31   Thiel              0
+Hamilton          21   Bates              7
+Hanover           36   Franklin          17
+Hardin-Simmons    42   E. Texas Baptist  27
+Harding           56   Arkansas Tech      0
+Harvard           25   Pennsylvania      23
+Hawaii            27   Air Force         13
+Heidelberg        31   Capital           17
+Henderson St.     31   Ouachita          27
+Hillsdale         35   Ohio Dominican    17
+Hobart            27   Rochester (NY)    23
+Houston Chr.      35   McNeese St.       24
+Howard U.         50   N.C. Central      20
+Huntingdon        21   NC Wesleyan        0
+Husson            61   Nichols           31
+Illinois          48   Indiana           45
+Illinois Col.     54   Beloit             7
+Illinois St.      44   Murray St.         7
+Illinois Weslyn   49   Elmhurst          13
+Indiana St.       27   W. Illinois        6
+Indiana, Pa.      31   Bloomsburg         0
+Indianapolis      41   SW Baptist         3
+Iowa              22   Rutgers            0
+Iowa St.          45   Brigham Young     13
+James Madison     44   Connecticut        6
+John Carroll      37   Otterbein         22
+Johns Hopkins     58   McDaniel           7
+Kansas St.        59   Baylor            25
+Kansas Weslyn     24   Sterling          13
+Keiser            44   Florida Memorial  13
+Kennesaw State    63   UVA-Lynchburg      3
+Kenyon            38   Oberlin           10
+King's Coll. (PA) 50   Alvernia           0
+Kutztown          31   Slippery Rock      7
+LA Christian      34   Texas Wesleyan    24
+LIU-Brooklyn      49   Wagner            14
+LaVerne           31   Cal Lutheran      24
+Lafayette         24   Fordham           16
+Lakeland          35   Eureka            34
+Langston          27   Wayland Baptist   19
+Lawrence Tech     66   Madonna           21
+Lebanon Val.      47   Albright           9
+Lenoir-Rhyne      48   Tusculum           7
+Lewis & Clark     63   Willamette        13
+Liberty           38   Old Dominion      10
+Limestone         47   Emory & Henry     29
+Louisiana St.     52   Florida           35
+MIT               25   Worcester Tech    21
+MSU-Moorhead      35   Mary               7
+Macalester        40   St. Scholastica   20
+Manchester        37   Anderson (IN)      7
+Marian (IN)       24   Siena Heights     14
+Marietta          21   Muskingum         20
+Mars Hill         21   Newberry          14
+Marshall          38   Georgia Southern  33
+MaryHardin-Baylor 35   Howard Payne      10
+Maryland          13   Nebraska          10
+Maryville (TN)    48   Southern Virginia 10
+Mass.-Dartmouth   41   Plymouth St.       7
+Mayville St.      45   Martin Luther     20
+McKendree         35   William Jewell    14
+McMurry           37   Sul Ross St.      23
+Memphis           44   Charlotte         38
+Mercer            28   Samford           21
+Merchant Marine   39   Coast Guard       27
+Merrimack         35   Central Conn. St. 24
+Michigan          24   Penn State        15
+MidAmerica Nazar  38   Benedictine (KS)  31
+Middle Tenn.      40   Florida Int.       6
+Middlebury        19   Tufts             10
+Minn.-Duluth      33   Minnesota St.     21
+Minnesota-Morris  42   Northwestern (MN) 39
+Misericordia       6   FDU-Florham        3
+Missouri          36   Tennessee          7
+Missouri Baptist  56   Cent. Methodist   24
+Missouri Southern 47   Missouri West. St 41
+Missouri St.      35   N. Iowa           16
+Monmouth (IL)     42   Knox               7
+Montana           34   Portland St.      10
+Montana St.       57   E. Washington     14
+Montana Tech      23   Carroll (MT)      17
+Morehead St.      47   Davidson          17
+Morgan St.        20   S. Carolina St.   17
+Morningside       34   Briar Cliff (IA)   8
+Morrisville St.   38   Hartwick          13
+Mount St. Joseph  68   Rose-Hulman       20
+Mount Union       41   Baldwin-Wallace   17
+N. Arizona        28   N. Colorado        7
+N. Carolina St.   26   Wake Forest        6
+N. Dakota St.     34   S. Illinois       10
+NW Missouri St.   56   Nebraska-Kearney   7
+NW Oklahoma       41   SW Oklahoma St.    0
+Navy              31   UAB                6
+New Hampshire     31   Monmouth (NJ)     24
+New Haven         24   Bentley           17
+New Mexico St.    38   W. Kentucky       29
+Nicholls St.      37   Lamar             24
+Norfolk St.       44   Delaware St.      21
+North Carolina    47   Duke              45
+North Central     61   Augustana (IL)    17
+Northern St. (SD) 44   N. Michigan       20
+Northwestern      24   Wisconsin         10
+Northwestern (IA) 40   Jamestown         11
+Northwood (MI)    31   Walsh OH          24
+Ohio Northern     38   Wilmington (DE)   14
+Ohio State        38   Michigan St.       3
+Oklahoma          59   West Virginia     20
+Olivet (MI)       32   Adrian            10
+Olivet Nazarene   47   St. Ambrose        7
+Oregon            36   Southern Cal      27
+Oregon St.        62   Stanford          17
+Ottawa (AZ)       89   Panhandle St.     20
+Pac. Lutheran     42   Puget Sound        7
+Peru St.          36   Culver-Stockton    0
+Pittsburg St.     20   Cent. Oklahoma    10
+Point             14   St. Andrews        0
+Prairie View      27   Southern U.       21
+Purdue            49   Minnesota         30
+Quincy            38   Upper Iowa        28
+Randolph-Macon    49   Hampden-Sydney    10
+Reinhardt         70   Bluefield St.     27
+Rhode Island      31   N. Carolina A&T   24
+Richmond          38   Elon College      24
+Ripon             55   Lawrence          34
+Robert Morris PA  14   Charleston South. 12
+Rockford          61   Concordia (IL)    41
+Rocky Mountain    54   Montana St.-North  6
+S. Arkansas       60   Ark Monticello    17
+S. Connecticut    20   Assumption        14
+S. Dakota St.     34   Youngstown St.     0
+S. Oregon         31   Idaho College     16
+S. Utah           45   Stephen F.Austin  17
+SE Louisiana      52   TX A&M-Commerce   14
+SE Oklahoma       24   E. Cent. Oklahoma 14
+SW Assem Of God   29   Texas College     12
+SW Minnesota      28   Sioux Falls       10
+Sacramento St.    41   Cal Poly-SLO      30
+Saginaw Val. St.  38   Michigan Tech     21
+Salve Regina      38   Norwich            0
+Sam Houston St.   42   Louisiana Tech    27
+San Jose St.      42   Fresno St.        18
+Seton Hill        30   Millersville      10
+Shepherd          49   Mercyhurst        25
+Shippensburg      17   Gannon            10
+So. Nazarene      49   Oklahoma Baptist  21
+South Alabama     21   Arkansas St.      14
+South Carolina    47   Vanderbilt         6
+South Dakota      14   North Dakota      10
+South Florida     27   Temple            23
+Southeastern      34   Ave Maria         10
+Southwestern (TX) 24   Sewanee            0
+Southwestern, KS  28   McPherson         21
+Springfield       51   SUNY Maritime      6
+St. Francis, Ill. 37   Judson IL          0
+St. Francis, Ind. 44   Taylor            31
+St. John's, Minn. 48   Cncrdia-Mhd       21
+St. Lawrence      30   Buffalo St.        7
+St. Norbert       24   Benedictine (IL)   0
+St. Olaf          28   Hamline            7
+St. Thomas (FL)   84   Thomas (GA)        0
+St. Thomas (MN)   20   San Diego         14
+St. Vincent (PA)  29   Bethany,W.Va.     21
+St. Xavier        35   Roosevelt         14
+Stevenson         26   Eastern (VA)      23
+Stonehill         33   Duquesne          28
+Susquehanna       49   Lycoming          10
+Syracuse          28   Pittsburgh        13
+TX A&M-Kingsville 27   Midwest TX St     21
+TX-Permian Basin  42   Cent. Washington  14
+Tabor             31   Ottawa KS         28
+Tarleton St.      31   Abilene Christian 30
+Tenn.-Martin      41   SE Missouri       14
+Texas             29   TCU               26
+Texas A&M         51   Mississippi St.   10
+Texas Lutheran    29   Austin Col.       10
+Texas Tech        16   Kansas            13
+Thomas More       44   Lake Erie          6
+Tiffin            26   Findlay            7
+Trine             42   Kalamazoo         29
+Trinity (TX)      56   Hendrix-Henderson  7
+Trinity Coll (CT) 58   Wesleyan           6
+Troy St.          45   UL Monroe         14
+Truman State      24   Missouri S and T  14
+Tulane            24   Tulsa             22
+UC Davis          21   Idaho St.         14
+UCF               45   Oklahoma St.       3
+UNC Pembroke      68   Concord           21
+UT San Antonio    34   Rice              14
+Union (Kentucky)  44   Kentucky Chrstn    0
+Union (New York)  13   Rensselaer         7
+Ursinus           21   Dickinson         10
+Utah St.          41   Nevada            24
+Utica             14   St. John Fisher    0
+Valdosta St.      58   West Georgia      28
+Valley City St.   31   Waldorf           21
+Valparaiso        23   Stetson           20
+Villanova         33   Towson St.        10
+Virginia Tech     48   Boston College    22
+Virginia Union    21   Fayetteville St.  10
+W. Carolina       58   E. Tennessee St.   7
+W. Montana        36   E. Oregon         12
+W. New England    48   Curry             27
+W. New Mexico     25   E. New Mexico     24
+Wash. & Jeff.     33   Waynesburg        28
+Washburn          45   NortheasternSt OK 14
+Washington        35   Utah              28
+Washington & Lee  40   Shenandoah        21
+Washington StL    35   Carroll (WI)      23
+Wayne State (NE)  56   Concordia (MN)    21
+Webber College    33   Warner            15
+Weber St.         31   Idaho             29
+West Alabama      28   Shorter            9
+West Chester      34   Clarion            7
+West Florida      52   Chowan             6
+West Liberty      31   Wheeling U.        3
+Western Colorado  45   Adams St.         24
+Westfield St.     49   Fitchburg St.      0
+Westminster (PA)  35   Geneva            14
+Wheaton (MA)      42   North Park        26
+Whitworth         28   Linfield          24
+Wilkes            41   Moravian           6
+William & Mary    31   Hampton U.        10
+Wingate           27   Virginia-Wise      0
+Winona St.        13   Minot St.          7
+Wis.-LaCrosse     41   Wis.-Stevens Pt.   7
+Wis.-Oshkosh      38   Wis.-Riv. Falls   31
+Wis.-Platteville  41   Wis.-Stout        24
+Wis.-Whitewater   59   Wis.-Eau Claire    0
+Wittenberg        52   Wooster           24
+Wofford           11   Citadel            3
+Yale              36   Princeton         28
+                   12-Nov-23
+Texas Southern    44   Alcorn State      10
+                   14-Nov-23
+E. Michigan       30   Akron             27
+N. Illinois       24   W. Michigan        0
+Toledo            32   Bowling Green     31
+                   15-Nov-23
+Miami (OH)        23   Buffalo           10
+Ohio University   34   Cent. Michigan    20
+                   16-Nov-23
+Alabama A&M       30   Miss. Valley St.  21
+Nicholls St.      21   SE Louisiana      16
+Pittsburgh        24   Boston College    16
+                   17-Nov-23
+UT San Antonio    49   South Florida     21
+Washington St.    56   Colorado          14
+                   18-Nov-23
+Alabama           66   Tn.-Chattanooga   10
+Albany (NY)       41   Monmouth (NJ)      0
+Alcorn State      28   Jackson St.       24
+Alma              32   DePauw            17
+Appalachian St.   26   James Madison     23
+Arizona           42   Utah              18
+Ark Pine Bluff    35   Texas Southern    34
+Arkansas          44   Florida Int.      20
+Arkansas St.      77   Texas State       31
+Army              28   Coastal Carolina  21
+Augustana (SD)    51   Minnesota St.     24
+Aurora            20   Coe                7
+Austin Peay       14   Cent. Arkansas    12
+Baker             56   LA Christian      28
+Ball St.          34   Kent State         3
+Bemidji St.       10   TX-Permian Basin   3
+Boise St.         45   Utah St.          10
+Bryant College    45   SE Missouri       21
+Bucknell          38   Marist            21
+California        27   Stanford          15
+Campbell          28   N. Carolina A&T   14
+Cent. Missouri    56   Henderson St.     14
+Cent. Washington  16   Western Colorado  13
+Charleston (WV)   52   New Haven         44
+Clemson           31   North Carolina    20
+Colgate           21   Fordham           14
+Colorado St.      30   Nevada            20
+Columbia          29   Cornell           14
+Connecticut       31   Sacred Heart       3
+Cortland St.      23   Endicott          17
+Dartmouth         38   Brown             13
+Dayton            45   Davidson          14
+Delta St.         49   West Florida      14
+Dickinson St.     35   Montana Tech      28
+Dordt             35   Ottawa KS          7
+Drake             13   Butler             9
+Duquesne          26   Merrimack         14
+E. Illinois       28   Robert Morris PA  14
+E. Kentucky       36   Stephen F.Austin  24
+E. Tennessee St.  35   Citadel           23
+Elon College      51   Hampton U.        14
+Florida A&M       24   Bethune-Cookman    7
+Florida St.       58   North Alabama     13
+Gardner-Webb      34   Charleston South. 10
+Georgia           38   Tennessee         10
+Georgia Tech      31   Syracuse          22
+Grand Valley St.  21   Ferris St.        14
+Grove City        21   Susquehanna       20
+Holy Cross        31   Georgetown        10
+Howard U.         14   Morgan St.         7
+Idaho             63   Idaho St.         21
+Incarnate Word    45   Houston Chr.      24
+Iowa              15   Illinois          13
+Ithaca            21   Springfield        7
+Jacksonville St.  56   Louisiana Tech    17
+Johns Hopkins     62   W. Connecticut    20
+Kansas St.        31   Kansas            27
+Kutztown          38   Virginia Union    14
+Lafayette         49   Lehigh            21
+Lamar             52   McNeese St.       27
+Lenoir-Rhyne      63   Shepherd          17
+Liberty           49   Massachusetts     25
+Louisiana St.     56   Georgia State     14
+Louisville        38   Miami (FL)        31
+Michigan          31   Maryland          24
+Michigan St.      24   Indiana           21
+Middle Tenn.      34   Texas-El Paso     30
+Middlebury        35   Colby             28
+Mississippi       35   UL Monroe          3
+Mississippi St.   41   Southern Miss.    20
+Missouri          33   Florida           31
+Montana           37   Montana St.        7
+Mount Union       56   Alfred State      14
+Muhlenberg        23   Lebanon Val.       7
+N. Arizona        49   E. Washington     42
+N. Carolina St.   35   Virginia Tech     28
+N. Dakota St.     48   N. Iowa           27
+N.C. Central      55   Delaware St.      14
+Navy              10   East Carolina      0
+Nevada Las Vegas  31   Air Force         27
+New Hampshire     44   Maine             25
+New Mexico        25   Fresno St.        17
+New Mexico St.    31   Auburn            10
+North Central     65   Belhaven           0
+North Dakota      22   Illinois St.      21
+North Texas       35   Tulsa             28
+Northwestern      23   Purdue            15
+Notre Dame        45   Wake Forest        7
+Ohio State        37   Minnesota          3
+Oklahoma          31   Brigham Young     24
+Oklahoma St.      43   Houston           30
+Old Dominion      20   Georgia Southern  17
+Oregon            49   Arizona St.       13
+Penn State        27   Rutgers            6
+Pittsburg St.     35   Indianapolis      14
+Portland St.      27   N. Colorado       23
+Prairie View      21   Alabama St.       14
+Presbyterian      31   Morehead St.      27
+Princeton         31   Pennsylvania      24
+Randolph-Macon    28   Christphr Newport 20
+Rice              28   Charlotte          7
+Richmond          27   William & Mary    26
+S. Carolina St.   44   Norfolk St.       17
+S. Dakota St.     35   Missouri St.      17
+S. Illinois       38   Indiana St.        9
+S. Utah           24   Utah Tech         16
+Samford           27   Tenn.-Martin      17
+San Diego         47   Stetson           20
+San Jose St.      24   San Diego St.     13
+Slippery Rock     45   East Stroudsburg  14
+South Alabama     28   Marshall           0
+South Carolina    17   Kentucky          14
+South Dakota      48   W. Illinois        6
+Southern Meth.    38   Memphis           34
+St. Francis, Pa.  49   Central Conn. St. 14
+St. Thomas (FL)   55   Reinhardt          7
+St. Thomas (MN)   16   Valparaiso        10
+Stonehill         40   LIU-Brooklyn      23
+TCU               42   Baylor            17
+Tennessee Tech    35   Tennessee St.      0
+Texas             26   Iowa St.          16
+Texas A&M         38   Abilene Christian 10
+Texas Tech        24   UCF               23
+Towson St.        31   Rhode Island      30
+Trinity (TX)      20   Hardin-Simmons     6
+Trinity Coll (CT) 58   Bowdoin           21
+Troy St.          31   Louisiana         24
+Tulane            24   Florida Atlantic   8
+UAB               34   Temple            24
+UC Davis          31   Sacramento St.    21
+UCLA              38   Southern Cal      20
+Union (New York)  24   Delaware Val.     16
+VMI               27   W. Carolina       24
+Valdosta St.      62   Limestone         41
+Villanova         35   Delaware           7
+Virginia          30   Duke              27
+W. Kentucky       28   Sam Houston St.   23
+Wagner            48   Post              21
+Wartburg          49   Illinois Col.     14
+Washington        22   Oregon St.        20
+Weber St.         48   Cal Poly-SLO      21
+West Virginia     42   Cincinnati        21
+Wheaton (MA)      41   Mount St. Joseph  34
+Williams          43   Bates              0
+Wis.-LaCrosse     62   Minnesota-Morris   7
+Wis.-Whitewater   42   Bethel, Minn.     14
+Wisconsin         24   Nebraska          17
+Wofford           19   Furman            13
+Wyoming           42   Hawaii             9
+Yale              23   Harvard           18
+Youngstown St.    34   Murray St.        17
+                   21-Nov-23
+Bowling Green     34   W. Michigan       10
+E. Michigan       24   Buffalo           11
+                   23-Nov-23
+Alabama St.       41   Tuskegee           3
+Mississippi       17   Mississippi St.    7
+                   24-Nov-23
+Boise St.         27   Air Force         19
+Iowa              13   Nebraska          10
+Memphis           45   Temple            21
+Miami (FL)        45   Boston College    20
+Missouri          48   Arkansas          14
+Ohio University   25   Akron             14
+Oklahoma          69   TCU               45
+Oregon            31   Oregon St.         7
+Penn State        42   Michigan St.       0
+Texas             57   Texas Tech         7
+Toledo            32   Cent. Michigan    17
+Tulane            29   UT San Antonio    16
+Utah St.          44   New Mexico        41
+                   25-Nov-23
+Alabama           27   Auburn            24
+Alma              24   Mount Union       20
+Appalachian St.   55   Georgia Southern  27
+Arizona           59   Arizona St.       23
+Bethel (TN)       40   Evangel           13
+California        33   UCLA               7
+Cent. Washington  21   Bemidji St.       17
+Clemson           16   South Carolina     7
+Colorado Mines    56   Augustana (SD)    10
+Connecticut       31   Massachusetts     18
+Cortland St.      25   Grove City        24
+Delaware          36   Lafayette         34
+Duke              30   Pittsburgh        19
+Florida St.       24   Florida           15
+Georgetown, Ky.   42   Baker             21
+Georgia           31   Georgia Tech      23
+Grand Valley St.  24   Pittsburg St.     21
+Grand View        28   Dickinson St.      3
+Harding           35   Cent. Missouri    34
+Hawaii            27   Colorado St.      24
+Idaho College     49   W. Montana        42
+Indiana Wesleyan  24   Morningside       21
+Iowa St.          42   Kansas St.        35
+James Madison     56   Coastal Carolina  14
+Johns Hopkins     39   Union (New York)  17
+Kansas            49   Cincinnati        16
+Keiser            45   St. Thomas (FL)   21
+Kentucky          38   Louisville        31
+Kutztown          32   Charleston (WV)   31
+Lenoir-Rhyne      35   Benedict          25
+Liberty           42   Texas-El Paso     28
+Louisiana         52   UL Monroe         21
+Louisiana St.     42   Texas A&M         30
+Marshall          35   Arkansas St.      21
+Maryland          42   Rutgers           24
+Mercer            17   Gardner-Webb       7
+Miami (OH)        17   Ball St.          15
+Michigan          30   Ohio State        24
+N. Carolina St.   39   North Carolina    20
+N. Dakota St.     66   Drake              3
+N. Illinois       37   Kent State        27
+New Mexico St.    20   Jacksonville St.  17
+North Central     71   Trinity (TX)      28
+North Texas       45   UAB               42
+Northwestern      45   Illinois          43
+Northwestern (IA)  7   Dordt              0
+Notre Dame        56   Stanford          23
+Oklahoma St.      40   Brigham Young     34
+Old Dominion      25   Georgia State     24
+Purdue            35   Indiana           31
+Randolph-Macon    46   Ithaca             0
+Rice              24   Florida Atlantic  21
+Richmond          49   N.C. Central      27
+S. Illinois       35   Nicholls St.       0
+Sacramento St.    42   North Dakota      35
+Sam Houston St.   23   Middle Tenn.      20
+San Diego St.     33   Fresno St.        18
+San Jose St.      37   Nevada Las Vegas  31
+Slippery Rock     45   Tiffin            35
+South Florida     48   Charlotte         14
+Southern Meth.    59   Navy              14
+Southern U.       27   Grambling St.     22
+St. Xavier        31   Marian (IN)       21
+Syracuse          35   Wake Forest       31
+Tennessee         48   Vanderbilt        24
+Texas State       52   South Alabama     44
+Tn.-Chattanooga   24   Austin Peay       21
+Troy St.          35   Southern Miss.    17
+Tulsa             29   East Carolina     27
+UCF               27   Houston           13
+Utah              23   Colorado          17
+Valdosta St.      38   Delta St.         31
+Virginia Tech     55   Virginia          17
+W. Kentucky       41   Florida Int.      28
+Wartburg          42   Whitworth         20
+Washington        24   Washington St.    21
+West Virginia     34   Baylor            31
+Wis.-LaCrosse     56   Aurora            35
+Wis.-Whitewater   49   Wheaton (MA)      42
+Wisconsin         28   Minnesota         14
+Wyoming           42   Nevada             6
+Youngstown St.    40   Duquesne           7
+                   01-Dec-23
+Ashland           23   McKendree         20
+Liberty           49   New Mexico St.    35
+Washington        34   Oregon            31
+                   02-Dec-23
+Albany (NY)       41   Richmond          13
+Colorado Mines    38   Cent. Washington  14
+Cortland St.      58   Alma              41
+Florida A&M       35   Prairie View      14
+Florida St.       16   Louisville         6
+                   02-Dec-32
+Furman            26   Tn.-Chattanooga    7
+                   02-Dec-23
+Alabama           27   Georgia           24
+Boise St.         44   Nevada Las Vegas  20
+Emporia St.       55   So. Nazarene      24
+Georgetown, Ky.   31   Indiana Wesleyan  21
+Harding            7   Grand Valley St.   6
+Idaho             20   S. Illinois       17
+Idaho College     31   Grand View        17
+Keiser            56   Bethel (TN)       14
+Kutztown          28   Slippery Rock     16
+Lenoir-Rhyne      35   Valdosta St.       7
+Miami (OH)        23   Toledo            14
+Michigan          26   Iowa               0
+Montana           49   Delaware          19
+N. Dakota St.     35   Montana St.       34
+North Central     55   Wis.-LaCrosse     42
+Northwestern (IA) 34   St. Xavier        17
+Randolph-Macon    39   Johns Hopkins     36
+S. Arkansas       43   Missouri West. St 27
+S. Dakota St.     41   Mercer             0
+South Dakota      34   Sacramento St.    24
+Southern Meth.    26   Tulane            14
+Texas             49   Oklahoma St.      21
+Troy St.          49   Appalachian St.   23
+Villanova         45   Youngstown St.    28
+Wartburg          31   Wis.-Whitewater   28
+                   09-Dec-23
+Albany (NY)       30   Idaho             22
+Colorado Mines    35   Kutztown           7
+Cortland St.      49   Randolph-Macon    14
+Harding           55   Lenoir-Rhyne       7
+Keiser            28   Idaho College     21
+Montana           35   Furman            28
+N. Dakota St.     45   South Dakota      17
+Navy              17   Army              11
+North Central     34   Wartburg          27
+Northwestern (IA) 35   Georgetown, Ky.   10
+S. Dakota St.     23   Villanova         12
+                   13-Dec-23
+Fort Valley St.   23   Johnson Smith     10
+                   15-Dec-23
+Cortland St.      38   North Central     37
+S. Dakota St.     59   Albany (NY)        0
+                   16-Dec-23
+Appalachian St.   13   Miami (OH)         9
+Florida A&M       30   Howard U.         26
+Fresno St.        37   New Mexico St.    10
+Harding           38   Colorado Mines     7
+Jacksonville St.  34   Louisiana         31
+Montana           31   N. Dakota St.     29
+Ohio University   41   Georgia Southern  21
+Texas Tech        34   California        14
+UCLA              35   Boise St.         22
+                   18-Dec-23
+Keiser            31   Northwestern (IA) 21
+W. Kentucky       38   Old Dominion      35
+                   19-Dec-23
+UT San Antonio    35   Marshall          17
+                   21-Dec-23
+South Florida     45   Syracuse           0
+                   22-Dec-23
+Georgia Tech      30   UCF               17
+                   23-Dec-23
+Air Force         31   James Madison     21
+Coastal Carolina  24   San Jose St.      14
+Duke              17   Troy St.          10
+Georgia State     45   Utah St.          22
+N. Illinois       21   Arkansas St.      19
+Northwestern      14   Utah               7
+South Alabama     59   E. Michigan       10
+                   26-Dec-23
+Kansas            49   Nevada Las Vegas  36
+Minnesota         30   Bowling Green     24
+Texas State       45   Rice              21
+                   27-Dec-23
+Oklahoma St.      31   Texas A&M         23
+Southern Cal      42   Louisville        28
+Virginia Tech     41   Tulane            20
+West Virginia     30   North Carolina    10
+                   28-Dec-23
+Arizona           38   Oklahoma          24
+Boston College    23   Southern Meth.    14
+Kansas St.        28   N. Carolina St.   19
+Rutgers           31   Miami (FL)        24
+                   29-Dec-23
+Clemson           38   Kentucky          35
+Memphis           36   Iowa St.          26
+Missouri          14   Ohio State         3
+Notre Dame        40   Oregon St.         8
+                   30-Dec-23
+Georgia           63   Florida St.        3
+Maryland          31   Auburn            13
+Mississippi       38   Penn State        25
+Wyoming           16   Toledo            15
+                   01-Jan-24
+Louisiana St.     35   Wisconsin         31
+Michigan          27   Alabama           20
+Oregon            45   Liberty            6
+Tennessee         35   Iowa               0
+Washington        37   Texas             31
