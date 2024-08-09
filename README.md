@@ -4,7 +4,7 @@ David Wilson Computer Rating System
 ## Authors
 
 - By David Wilson (UW-Milwaukee '65, '66, UW-Madison '67)
-- Source code last updated
+- Source code developed 1994-2000
 
 Modified and shared here:
 - By Cody Kirkpatrick
@@ -13,9 +13,9 @@ Modified and shared here:
 
 ## What is this?
 
-For nearly three decades, Mr. David Wilson produced computer ratings for college football teams using this code. It was one of the first rating systems I ever saw the source code for, and I loved its simplicity. I've been able to adapt it for numerous sports over the years.
+For nearly three decades, Mr. David Wilson produced computer ratings for college football teams using this code. His was one of the first rating systems I ever saw the source code for, and I loved its simplicity. I've been able to adapt it for numerous sports over the years.
 
-David retired completely a few years ago, and his original website (which was hosted by UW) got scrubbed from the web -- but as a part of college football history, his system deserves to carry on.
+David retired completely from Wisconsin a few years ago, and his original website (which was hosted by UW) got scrubbed from the web -- but as a part of college football history, his system deserves to carry on.
 
 ## How the Wilson ratings work
 
@@ -23,7 +23,9 @@ Wilson's system does *not* produce predictions, point spreads, etc.; it only ser
 
 ## More detailed explanation
 
-I need to add his more complete explanation here, but for now, David described it as: "for each game a team plays it gets a Game Performance Rating. This is equal to the opponent's rating plus 100 if the team won or minus 100 if the team lost. The team's Performance Rating is the average of its Game Performance Ratings." You can recalculate any time that another game has been played (whether it's the next day, or the next week).
+David describes it as: "for each game a team plays it gets a Game Performance Rating. This is equal to the opponent's rating plus 100 if the team won or minus 100 if the team lost. The team's Performance Rating is the average of its Game Performance Ratings." You can recalculate any time that another game has been played, whether it's the next day, or the next week.
+
+(I need to add his more complete explanation here, but for now, that will have to do.)
 
 ## Input files needed
 
@@ -41,11 +43,15 @@ I need to add his more complete explanation here, but for now, David described i
 
 ## Output files
 
-### From running rate
+### From running "rate"
 - byrate1.txt, byrate2.txt, ... (Teams in each division, sorted by rating)
 - byrating.txt (All teams rated, sorted by rating)
 - byname.txt (All teams rated, listed alphabetically)
 
-### From running standing
+### From running "standing"
 - standing1.txt, standing2.txt, ... (Conference standings, one file for each division)
+
+## You'll probably get warnings
+
+This source code is almost 25 years old. Modern C compilers probably won't like it. But I've gotten variations of the code to compile and run on Linux, Mac, and Windows. Just might take a little patience.
 
