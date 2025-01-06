@@ -15,7 +15,7 @@ Modified and shared here:
 
 For nearly three decades, Mr. David Wilson produced computer ratings for college football teams using this code. His was one of the first rating systems I ever saw the source code for, and I loved its simplicity. I've been able to adapt it for numerous sports over the years.
 
-David retired completely from Wisconsin a few years ago, and his original website (which was hosted by UW) got scrubbed from the web -- but as a part of college football history, his system deserves to carry on.
+David retired completely from Wisconsin a few years ago, and [his original website](https://web.archive.org/web/20111219072049/http://homepages.cae.wisc.edu/~dwilson/) (which was hosted by UW) got scrubbed from the web -- but as a part of college football history, his system deserves to carry on.
 
 ## How the Wilson ratings work
 
